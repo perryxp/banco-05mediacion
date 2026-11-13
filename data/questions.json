@@ -1,0 +1,5972 @@
+{
+  "version": 1,
+  "total": 191,
+  "questions": [
+    {
+      "id": "w001",
+      "originNumber": 1,
+      "originLabel": "Word · pregunta 1",
+      "question": "Una situación de enfrentamiento provocada por una contraposición de intereses se conoce como:",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 6",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w001_a",
+          "text": "Negociación"
+        },
+        {
+          "id": "w001_b",
+          "text": "Conflicto"
+        },
+        {
+          "id": "w001_c",
+          "text": "Acoso escolar"
+        },
+        {
+          "id": "w001_d",
+          "text": "Problema sin solución"
+        }
+      ],
+      "correctOptionId": "w001_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w002",
+      "originNumber": 2,
+      "originLabel": "Word · pregunta 2",
+      "question": "Elige la opción correcta en cuanto al concepto de conflicto:",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 6",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w002_a",
+          "text": "El conflicto es un fenómeno natural y no siempre violento"
+        },
+        {
+          "id": "w002_b",
+          "text": "El conflicto siempre debe evitarse"
+        },
+        {
+          "id": "w002_c",
+          "text": "El conflicto ya casi no se da en el ámbito escolar"
+        },
+        {
+          "id": "w002_d",
+          "text": "El conflicto es sinónimo de violencia"
+        }
+      ],
+      "correctOptionId": "w002_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w003",
+      "originNumber": 3,
+      "originLabel": "Word · pregunta 3",
+      "question": "Los conflictos son:",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 6",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w003_a",
+          "text": "Negativos y dañinos"
+        },
+        {
+          "id": "w003_b",
+          "text": "Enfrentamientos evitables"
+        },
+        {
+          "id": "w003_c",
+          "text": "Inherentes a cualquier relación humana"
+        },
+        {
+          "id": "w003_d",
+          "text": "Desacuerdos que deben tratarse inmediatamente"
+        }
+      ],
+      "correctOptionId": "w003_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w004",
+      "originNumber": 4,
+      "originLabel": "Word · pregunta 4",
+      "question": "Selecciona la opción correcta en relación a la definición de “conflicto”.",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 7",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w004_a",
+          "text": "Un conflicto es sinónimo de violencia"
+        },
+        {
+          "id": "w004_b",
+          "text": "Un conflicto siempre es negativo"
+        },
+        {
+          "id": "w004_c",
+          "text": "Un conflicto es una oportunidad de aprendizaje"
+        },
+        {
+          "id": "w004_d",
+          "text": "Un conflicto debe evitarse a toda costa"
+        }
+      ],
+      "correctOptionId": "w004_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w005",
+      "originNumber": 5,
+      "originLabel": "Word · pregunta 5",
+      "question": "Uno de los problemas que se encontraba el profesorado en los centros escolares de EE.UU en 1950 era:",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 7",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w005_a",
+          "text": "Embarazos no deseados"
+        },
+        {
+          "id": "w005_b",
+          "text": "Suicidios"
+        },
+        {
+          "id": "w005_c",
+          "text": "Masticar chicle"
+        },
+        {
+          "id": "w005_d",
+          "text": "Drogas y alcohol"
+        }
+      ],
+      "correctOptionId": "w005_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w006",
+      "originNumber": 6,
+      "originLabel": "Word · pregunta 6",
+      "question": "Uno de los problemas con los que se encontraba el profesorado de EE. UU. en la década de 1990 a diferencia de épocas anteriores era:",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 7",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w006_a",
+          "text": "Embarazos no deseados"
+        },
+        {
+          "id": "w006_b",
+          "text": "Masticar chicles"
+        },
+        {
+          "id": "w006_c",
+          "text": "Atravesar las filas"
+        },
+        {
+          "id": "w006_d",
+          "text": "Hablar fuera de turno"
+        }
+      ],
+      "correctOptionId": "w006_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w007",
+      "originNumber": 7,
+      "originLabel": "Word · pregunta 7",
+      "question": "El conflicto escolar es:",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 7",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w007_a",
+          "text": "Oportunidad de aprendizaje"
+        },
+        {
+          "id": "w007_b",
+          "text": "Algo que se gestiona bien usando una gestión integrativa como opción más óptima."
+        },
+        {
+          "id": "w007_c",
+          "text": "Fenómeno multicausal"
+        },
+        {
+          "id": "w007_d",
+          "text": "Todas las respuestas son correctas."
+        }
+      ],
+      "correctOptionId": "w007_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w008",
+      "originNumber": 8,
+      "originLabel": "Word · pregunta 8",
+      "question": "Los conflictos entre docentes suelen darse por:",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 8",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w008_a",
+          "text": "Conductas disruptivas en el aula"
+        },
+        {
+          "id": "w008_b",
+          "text": "Absentismo escolar"
+        },
+        {
+          "id": "w008_c",
+          "text": "Actitudes negativas hacia el aprendizaje"
+        },
+        {
+          "id": "w008_d",
+          "text": "Desacuerdos con el equipo directivo y compañeros"
+        }
+      ],
+      "correctOptionId": "w008_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w009",
+      "originNumber": 9,
+      "originLabel": "Word · pregunta 9",
+      "question": "Según el estudio de Rojo-Guillamón y Ferrando (2022), uno de los conflictos más comunes en Educación Secundaria es:",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 8",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w009_a",
+          "text": "La pelea física"
+        },
+        {
+          "id": "w009_b",
+          "text": "El absentismo escolar"
+        },
+        {
+          "id": "w009_c",
+          "text": "El conflicto por ocupar las pistas del recreo"
+        },
+        {
+          "id": "w009_d",
+          "text": "El maltrato del profesorado hacia el alumnado"
+        }
+      ],
+      "correctOptionId": "w009_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w010",
+      "originNumber": 10,
+      "originLabel": "Word · pregunta 10",
+      "question": "En el estudio de Ceballos et al. (2012) ¿qué colectivo dice que existe en el centro escolar un índice de conflictos mayor?",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 8",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w010_a",
+          "text": "El alumno"
+        },
+        {
+          "id": "w010_b",
+          "text": "La comisión de convivencia"
+        },
+        {
+          "id": "w010_c",
+          "text": "Los delegados y las delegadas de clase"
+        },
+        {
+          "id": "w010_d",
+          "text": "El colectivo adulto"
+        }
+      ],
+      "correctOptionId": "w010_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w011",
+      "originNumber": 11,
+      "originLabel": "Word · pregunta 11",
+      "question": "Un conflicto en el que se reprimen sentimientos y se oculta tras un clima tenso en el aula se conoce como:",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 10",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w011_a",
+          "text": "Conflicto semicerrado"
+        },
+        {
+          "id": "w011_b",
+          "text": "Conflicto cerrado"
+        },
+        {
+          "id": "w011_c",
+          "text": "Conflicto abierto"
+        },
+        {
+          "id": "w011_d",
+          "text": "Conflicto introvertido"
+        }
+      ],
+      "correctOptionId": "w011_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w012",
+      "originNumber": 12,
+      "originLabel": "Word · pregunta 12",
+      "question": "La pasividad o negativa a realizar tareas escolares puede considerarse un tipo de conflicto:",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 10",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w012_a",
+          "text": "Violento"
+        },
+        {
+          "id": "w012_b",
+          "text": "De falta de respeto"
+        },
+        {
+          "id": "w012_c",
+          "text": "De rendimiento"
+        },
+        {
+          "id": "w012_d",
+          "text": "Intimidatorio"
+        }
+      ],
+      "correctOptionId": "w012_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w013",
+      "originNumber": 13,
+      "originLabel": "Word · pregunta 13",
+      "question": "Los rumores, desprecios y amenazas pueden considerarse un tipo de conflicto:",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 10",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w013_a",
+          "text": "Intimidatorio"
+        },
+        {
+          "id": "w013_b",
+          "text": "Positivo"
+        },
+        {
+          "id": "w013_c",
+          "text": "De rendimiento"
+        },
+        {
+          "id": "w013_d",
+          "text": "Vandálico"
+        }
+      ],
+      "correctOptionId": "w013_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w014",
+      "originNumber": 14,
+      "originLabel": "Word · pregunta 14",
+      "question": "Los tipos de conflictos que pueden identificarse de forma clara y visible se denominan:",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 10",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w014_a",
+          "text": "Conflictos cerrados"
+        },
+        {
+          "id": "w014_b",
+          "text": "Conflictos abiertos"
+        },
+        {
+          "id": "w014_c",
+          "text": "Conflictos generales"
+        },
+        {
+          "id": "w014_d",
+          "text": "Conflictos específicos"
+        }
+      ],
+      "correctOptionId": "w014_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w015",
+      "originNumber": 15,
+      "originLabel": "Word · pregunta 15",
+      "question": "La acción de controlar y dañar a una víctima reiteradamente desde una posición de ventaja de poder se conoce como:",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 10",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w015_a",
+          "text": "Agresión"
+        },
+        {
+          "id": "w015_b",
+          "text": "Acoso escolar"
+        },
+        {
+          "id": "w015_c",
+          "text": "Agresividad"
+        },
+        {
+          "id": "w015_d",
+          "text": "Indisciplina"
+        }
+      ],
+      "correctOptionId": "w015_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w016",
+      "originNumber": 16,
+      "originLabel": "Word · pregunta 16",
+      "question": "Uno de los tipos de conflictos que más malestar emocional genera es:",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 10",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w016_a",
+          "text": "El conflicto por hablar en clase"
+        },
+        {
+          "id": "w016_b",
+          "text": "El conflicto por fumar en el centro"
+        },
+        {
+          "id": "w016_c",
+          "text": "El conflicto por exclusión social"
+        },
+        {
+          "id": "w016_d",
+          "text": "El conflicto por impuntualidad"
+        }
+      ],
+      "correctOptionId": "w016_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w017",
+      "originNumber": 17,
+      "originLabel": "Word · pregunta 17",
+      "question": "El acoso escolar se caracteriza por:",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 10",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w017_a",
+          "text": "Ser un episodio puntual"
+        },
+        {
+          "id": "w017_b",
+          "text": "Ocurrir de manera reiterada"
+        },
+        {
+          "id": "w017_c",
+          "text": "Elegir a víctimas fuertes"
+        },
+        {
+          "id": "w017_d",
+          "text": "Requerir de mediación inmediata"
+        }
+      ],
+      "correctOptionId": "w017_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w018",
+      "originNumber": 18,
+      "originLabel": "Word · pregunta 18",
+      "question": "La gran diferencia entre conflicto y acoso escolar es que:",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 10",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w018_a",
+          "text": "El conflicto es una acción intencionada de daño físico."
+        },
+        {
+          "id": "w018_b",
+          "text": "El acoso escolar solo lo sufren los alumnos y el conflicto los docentes."
+        },
+        {
+          "id": "w018_c",
+          "text": "El acoso escolar es un enfrentamiento sin intención de dañar."
+        },
+        {
+          "id": "w018_d",
+          "text": "El acoso escolar implica una violencia reiterada con asimetría de poder"
+        }
+      ],
+      "correctOptionId": "w018_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w019",
+      "originNumber": 19,
+      "originLabel": "Word · pregunta 19",
+      "question": "Dos alumnos que se pelean en el patio y terminan a golpes representa un conflicto:",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 10",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w019_a",
+          "text": "Violento"
+        },
+        {
+          "id": "w019_b",
+          "text": "De acoso escolar"
+        },
+        {
+          "id": "w019_c",
+          "text": "Cerrado"
+        },
+        {
+          "id": "w019_d",
+          "text": "Abierto"
+        }
+      ],
+      "correctOptionId": "w019_d",
+      "explanation": "",
+      "hasExplanation": false,
+      "flag": "El recopilatorio marca esta pregunta como ambigua."
+    },
+    {
+      "id": "w020",
+      "originNumber": 20,
+      "originLabel": "Word · pregunta 20",
+      "question": "¿Cuál de las siguientes opciones NO es una causa de los conflictos escolares?",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 11",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w020_a",
+          "text": "Los estilos educativos democráticos"
+        },
+        {
+          "id": "w020_b",
+          "text": "La exaltación de valores competitivos en la sociedad"
+        },
+        {
+          "id": "w020_c",
+          "text": "El escaso tiempo dedicado a tutorías"
+        },
+        {
+          "id": "w020_d",
+          "text": "La ausencia de límites y normas claras en la familia"
+        }
+      ],
+      "correctOptionId": "w020_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w021",
+      "originNumber": 21,
+      "originLabel": "Word · pregunta 21",
+      "question": "¿Cual de las siguientes causas del conflicto escolar NO está relacionada con la organización del centro educativo?",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 11",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w021_a",
+          "text": "Las desigualdades sociales del alumnado"
+        },
+        {
+          "id": "w021_b",
+          "text": "La falta de normas consensuadas por la comunidad educativa"
+        },
+        {
+          "id": "w021_c",
+          "text": "La escasa coordinación entre departamentos"
+        },
+        {
+          "id": "w021_d",
+          "text": "El descuido de la educación emocional"
+        }
+      ],
+      "correctOptionId": "w021_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w022",
+      "originNumber": 22,
+      "originLabel": "Word · pregunta 22",
+      "question": "La mediación es una herramienta que NO se puede utilizar en casos de:",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 11",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w022_a",
+          "text": "Amistades deterioradas"
+        },
+        {
+          "id": "w022_b",
+          "text": "Discusiones por trabajos en grupo"
+        },
+        {
+          "id": "w022_c",
+          "text": "Desacuerdos entre el alumnado y el profesorado"
+        },
+        {
+          "id": "w022_d",
+          "text": "Requerir un tratamiento terapéutico"
+        }
+      ],
+      "correctOptionId": "w022_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w023",
+      "originNumber": 23,
+      "originLabel": "Word · pregunta 23",
+      "question": "Entre las causas de los conflictos escolares, relacionadas con el profesorado, se encuentra:",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 11",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w023_a",
+          "text": "Su confusión ante los cambios sociales"
+        },
+        {
+          "id": "w023_b",
+          "text": "Su escasa formación en resolución de conflictos"
+        },
+        {
+          "id": "w023_c",
+          "text": "Su escaso trabajo cooperativo"
+        },
+        {
+          "id": "w023_d",
+          "text": "Todas las opciones son correctas"
+        }
+      ],
+      "correctOptionId": "w023_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w024",
+      "originNumber": 24,
+      "originLabel": "Word · pregunta 24",
+      "question": "Señala una posible causa de conflicto escolar:",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 11",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w024_a",
+          "text": "Falta de formación en gestión del conflicto"
+        },
+        {
+          "id": "w024_b",
+          "text": "Normas de convivencia poco claras"
+        },
+        {
+          "id": "w024_c",
+          "text": "Ausencia de límites desde el entorno familiar"
+        },
+        {
+          "id": "w024_d",
+          "text": "Todas las opciones son correctas"
+        }
+      ],
+      "correctOptionId": "w024_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w025",
+      "originNumber": 25,
+      "originLabel": "Word · pregunta 25",
+      "question": "¿Cuál de las siguientes se considera un factor escolar que puede generar conflictos?",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 11",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w025_a",
+          "text": "La falta de normas consensuadas en el centro"
+        },
+        {
+          "id": "w025_b",
+          "text": "La violencia familiar"
+        },
+        {
+          "id": "w025_c",
+          "text": "El uso de redes sociales"
+        },
+        {
+          "id": "w025_d",
+          "text": "La baja autoestima del alumnado"
+        }
+      ],
+      "correctOptionId": "w025_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w026",
+      "originNumber": 26,
+      "originLabel": "Word · pregunta 26",
+      "question": "Cuando existe un conflicto de intereses entre dos personas y al negociar llegan a un acuerdo satisfactorio:",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 12",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w026_a",
+          "text": "Mantienen un estilo integrador"
+        },
+        {
+          "id": "w026_b",
+          "text": "Mantienen un estilo acomodativo"
+        },
+        {
+          "id": "w026_c",
+          "text": "Mantienen un estilo dominador"
+        },
+        {
+          "id": "w026_d",
+          "text": "Mantienen un estilo evitador"
+        }
+      ],
+      "correctOptionId": "w026_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w027",
+      "originNumber": 27,
+      "originLabel": "Word · pregunta 27",
+      "question": "¿Qué causa personal del alumnado puede aumentar la conflictividad escolar?",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 12",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w027_a",
+          "text": "Se debe parar el proceso de la mediación."
+        },
+        {
+          "id": "w027_b",
+          "text": "La escasez de habilidades emocionales y sociales."
+        },
+        {
+          "id": "w027_c",
+          "text": "La confianza con el profesorado."
+        },
+        {
+          "id": "w027_d",
+          "text": "La existencia de normas claras."
+        }
+      ],
+      "correctOptionId": "w027_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w028",
+      "originNumber": 28,
+      "originLabel": "Word · pregunta 28",
+      "question": "Uno de los valores de la sociedad actual que promueve el conflicto en la escuela es:",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 12",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w028_a",
+          "text": "La competitividad"
+        },
+        {
+          "id": "w028_b",
+          "text": "La puntualidad"
+        },
+        {
+          "id": "w028_c",
+          "text": "La autosuperación"
+        },
+        {
+          "id": "w028_d",
+          "text": "La amistad"
+        }
+      ],
+      "correctOptionId": "w028_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w029",
+      "originNumber": 29,
+      "originLabel": "Word · pregunta 29",
+      "question": "El estilo de afrontamiento caracterizado por ignorar los conflictos o aceptar sin más la postura del otro se denomina:",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 13",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w029_a",
+          "text": "Evitador de malestar"
+        },
+        {
+          "id": "w029_b",
+          "text": "Competitivo"
+        },
+        {
+          "id": "w029_c",
+          "text": "Integrador"
+        },
+        {
+          "id": "w029_d",
+          "text": "Dominador"
+        }
+      ],
+      "correctOptionId": "w029_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w030",
+      "originNumber": 30,
+      "originLabel": "Word · pregunta 30",
+      "question": "Cuando una persona se comporta de manera violenta o usa su poder para satisfacer sus propias necesidades ante los conflictos, puede decirse que tiene un estilo:",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 13",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w030_a",
+          "text": "Integrador"
+        },
+        {
+          "id": "w030_b",
+          "text": "Dominador"
+        },
+        {
+          "id": "w030_c",
+          "text": "Colaborativo"
+        },
+        {
+          "id": "w030_d",
+          "text": "Evitativo"
+        }
+      ],
+      "correctOptionId": "w030_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w031",
+      "originNumber": 31,
+      "originLabel": "Word · pregunta 31",
+      "question": "Cuando alguien actúa con violencia o impone su poder para lograr lo que quiere, muestra un estilo:",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 13",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w031_a",
+          "text": "colaborativo"
+        },
+        {
+          "id": "w031_b",
+          "text": "Evitativo"
+        },
+        {
+          "id": "w031_c",
+          "text": "Dominador"
+        },
+        {
+          "id": "w031_d",
+          "text": "Integrador"
+        }
+      ],
+      "correctOptionId": "w031_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w032",
+      "originNumber": 32,
+      "originLabel": "Word · pregunta 32",
+      "question": "¿Qué estilo de gestión del conflicto prefiere no tener que afrontar el conflicto directamente?",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 13",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w032_a",
+          "text": "Integrador"
+        },
+        {
+          "id": "w032_b",
+          "text": "Evitador"
+        },
+        {
+          "id": "w032_c",
+          "text": "Acomodativo"
+        },
+        {
+          "id": "w032_d",
+          "text": "Dominador"
+        }
+      ],
+      "correctOptionId": "w032_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w033",
+      "originNumber": 33,
+      "originLabel": "Word · pregunta 33",
+      "question": "Cuando en un conflicto, una de las partes usa la violencia para imponer su postura, usa un estilo:",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 13",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w033_a",
+          "text": "Dominador"
+        },
+        {
+          "id": "w033_b",
+          "text": "Evitador"
+        },
+        {
+          "id": "w033_c",
+          "text": "Integrador"
+        },
+        {
+          "id": "w033_d",
+          "text": "Acomodativo"
+        }
+      ],
+      "correctOptionId": "w033_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w034",
+      "originNumber": 34,
+      "originLabel": "Word · pregunta 34",
+      "question": "Cuando se da un conflicto y una persona se preocupa por lo que necesita el otro pero no por sus propias necesidades estamos ante un estilo de afrontamiento:",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 14",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w034_a",
+          "text": "Acomodativo"
+        },
+        {
+          "id": "w034_b",
+          "text": "Integrativo"
+        },
+        {
+          "id": "w034_c",
+          "text": "Evitativo"
+        },
+        {
+          "id": "w034_d",
+          "text": "Dominante"
+        }
+      ],
+      "correctOptionId": "w034_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w035",
+      "originNumber": 35,
+      "originLabel": "Word · pregunta 35",
+      "question": "La mediación puede considerarse una estrategia de afrontamiento ante los conflictos de estilo:",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 14",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w035_a",
+          "text": "Evitativo"
+        },
+        {
+          "id": "w035_b",
+          "text": "Adaptativo"
+        },
+        {
+          "id": "w035_c",
+          "text": "Dominador"
+        },
+        {
+          "id": "w035_d",
+          "text": "Integrador"
+        }
+      ],
+      "correctOptionId": "w035_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w036",
+      "originNumber": 36,
+      "originLabel": "Word · pregunta 36",
+      "question": "Ceder habitualmente a los puntos de vista de los otros, renunciando a la satisfacción de los propios intereses, es un comportamiento de:",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 14",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w036_a",
+          "text": "Compromiso"
+        },
+        {
+          "id": "w036_b",
+          "text": "Evitación"
+        },
+        {
+          "id": "w036_c",
+          "text": "Acomodación"
+        },
+        {
+          "id": "w036_d",
+          "text": "Competición"
+        }
+      ],
+      "correctOptionId": "w036_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w037",
+      "originNumber": 37,
+      "originLabel": "Word · pregunta 37",
+      "question": "¿Qué estilo de gestión de conflictos promueve la mediación escolar?",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 14",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w037_a",
+          "text": "Evitador"
+        },
+        {
+          "id": "w037_b",
+          "text": "Acomodativo"
+        },
+        {
+          "id": "w037_c",
+          "text": "Integrador"
+        },
+        {
+          "id": "w037_d",
+          "text": "Dominante"
+        }
+      ],
+      "correctOptionId": "w037_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w038",
+      "originNumber": 38,
+      "originLabel": "Word · pregunta 38",
+      "question": "El estilo de afrontamiento ante el conflicto que se promueve durante la mediación es:",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 14",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w038_a",
+          "text": "El estilo cooperativo"
+        },
+        {
+          "id": "w038_b",
+          "text": "El estilo evasivo"
+        },
+        {
+          "id": "w038_c",
+          "text": "El estilo práctico"
+        },
+        {
+          "id": "w038_d",
+          "text": "El estilo competitivo"
+        }
+      ],
+      "correctOptionId": "w038_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w039",
+      "originNumber": 39,
+      "originLabel": "Word · pregunta 39",
+      "question": "La convivencia escolar empezó a cobrar mayor relevancia en España a partir de:",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 16",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w039_a",
+          "text": "La Ley educativa actual LOMLOE."
+        },
+        {
+          "id": "w039_b",
+          "text": "La pandemia del COVID"
+        },
+        {
+          "id": "w039_c",
+          "text": "Las manifestaciones familiares de los años 80"
+        },
+        {
+          "id": "w039_d",
+          "text": "El informe Delors de las Naciones Unidas y el concepto de \"aprender a convivir\""
+        }
+      ],
+      "correctOptionId": "w039_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w040",
+      "originNumber": 40,
+      "originLabel": "Word · pregunta 40",
+      "question": "¿Qué significa “aprender a convivir” según el Informe Delors (UNESCO, 1996)?",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 16",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w040_a",
+          "text": "Aprender de forma individual."
+        },
+        {
+          "id": "w040_b",
+          "text": "Cumplir las normas sin cuestionarlas."
+        },
+        {
+          "id": "w040_c",
+          "text": "Fomentar el respeto y la cooperación entre las personas."
+        },
+        {
+          "id": "w040_d",
+          "text": "Competir para mejorar los resultados."
+        }
+      ],
+      "correctOptionId": "w040_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w041",
+      "originNumber": 41,
+      "originLabel": "Word · pregunta 41",
+      "question": "Indica cuál de las siguientes opciones es una dimensión positiva de la convivencia escolar:",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 17",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w041_a",
+          "text": "La victimización"
+        },
+        {
+          "id": "w041_b",
+          "text": "La disruptividad"
+        },
+        {
+          "id": "w041_c",
+          "text": "La desidia docente"
+        },
+        {
+          "id": "w041_d",
+          "text": "El ajuste a las normas"
+        }
+      ],
+      "correctOptionId": "w041_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w042",
+      "originNumber": 42,
+      "originLabel": "Word · pregunta 42",
+      "question": "Siguiendo a Fierro y Carbajal (2019), la construcción de una paz duradera entre los miembros de la comunidad escolar, a partir de prácticas inclusivas, equitativas y participativas, se refiere al concepto de:",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 17",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w042_a",
+          "text": "Habilidad social"
+        },
+        {
+          "id": "w042_b",
+          "text": "Mediación escolar"
+        },
+        {
+          "id": "w042_c",
+          "text": "Convivencia escolar"
+        },
+        {
+          "id": "w042_d",
+          "text": "Plan Educativo del Centro"
+        }
+      ],
+      "correctOptionId": "w042_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w043",
+      "originNumber": 43,
+      "originLabel": "Word · pregunta 43",
+      "question": "En relación a la convivencia escolar, la dimensión \"gestión interpersonal del profesorado\" es:",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 17",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w043_a",
+          "text": "una dimensión negativa."
+        },
+        {
+          "id": "w043_b",
+          "text": "una dimensión poco importante."
+        },
+        {
+          "id": "w043_c",
+          "text": "una dimensión insignificante."
+        },
+        {
+          "id": "w043_d",
+          "text": "una dimensión positiva."
+        }
+      ],
+      "correctOptionId": "w043_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w044",
+      "originNumber": 44,
+      "originLabel": "Word · pregunta 44",
+      "question": "Según el Modelo de Convivencia para Atender, Prevenir y Erradicar la Violencia Escolar de Fierro y Carbajal (2021), las acciones deben implementarse en:",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 18",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w044_a",
+          "text": "Las aulas"
+        },
+        {
+          "id": "w044_b",
+          "text": "El centro escolar como institución"
+        },
+        {
+          "id": "w044_c",
+          "text": "El ámbito sociocomunitario"
+        },
+        {
+          "id": "w044_d",
+          "text": "Todas las opciones son correctas"
+        }
+      ],
+      "correctOptionId": "w044_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w045",
+      "originNumber": 45,
+      "originLabel": "Word · pregunta 45",
+      "question": "Siguiendo el Modelo de Convivencia de Carbajal y Fierro (2020), el nivel de operación llamado \"contención\" se refiere a:",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 18",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w045_a",
+          "text": "Una prevención primaria universal."
+        },
+        {
+          "id": "w045_b",
+          "text": "Una respuesta inmediata por parte de la autoridad."
+        },
+        {
+          "id": "w045_c",
+          "text": "Una transformación de prácticas pedagógicas."
+        },
+        {
+          "id": "w045_d",
+          "text": "Una formación en mediación."
+        }
+      ],
+      "correctOptionId": "w045_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w046",
+      "originNumber": 46,
+      "originLabel": "Word · pregunta 46",
+      "question": "¿Qué nivel del modelo de Carbajal y Fierro (2020) actúa antes de que haya conflictos?",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 18",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w046_a",
+          "text": "Prevención comunitaria"
+        },
+        {
+          "id": "w046_b",
+          "text": "Prevención secundaria"
+        },
+        {
+          "id": "w046_c",
+          "text": "Prevención terciaria"
+        },
+        {
+          "id": "w046_d",
+          "text": "Prevención primaria"
+        }
+      ],
+      "correctOptionId": "w046_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w047",
+      "originNumber": 47,
+      "originLabel": "Word · pregunta 47",
+      "question": "¿Qué nivel de prevención responde cuando la convivencia ya está alterada con conflictos de mayor gravedad?",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 18",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w047_a",
+          "text": "Prevención terciaria"
+        },
+        {
+          "id": "w047_b",
+          "text": "Prevención primaria"
+        },
+        {
+          "id": "w047_c",
+          "text": "Prevención secundaria"
+        },
+        {
+          "id": "w047_d",
+          "text": "Prevención del acoso escolar"
+        }
+      ],
+      "correctOptionId": "w047_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w048",
+      "originNumber": 48,
+      "originLabel": "Word · pregunta 48",
+      "question": "¿Qué nivel de prevención busca resolver los conflictos de menor gravedad cuando ya han aparecido en el centro?",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 18",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w048_a",
+          "text": "Prevención comunitaria"
+        },
+        {
+          "id": "w048_b",
+          "text": "Prevención secundaria"
+        },
+        {
+          "id": "w048_c",
+          "text": "Prevención terciaria"
+        },
+        {
+          "id": "w048_d",
+          "text": "Prevención primaria"
+        }
+      ],
+      "correctOptionId": "w048_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w049",
+      "originNumber": 49,
+      "originLabel": "Word · pregunta 49",
+      "question": "¿Qué informe reveló que uno de cada cuatro estudiantes sufría acoso escolar en España?",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 19",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w049_a",
+          "text": "Informe Delors (1996)"
+        },
+        {
+          "id": "w049_b",
+          "text": "Plan Estratégico de Convivencia Escolar (2017)"
+        },
+        {
+          "id": "w049_c",
+          "text": "Informe Pelícano (1992)"
+        },
+        {
+          "id": "w049_d",
+          "text": "Informe Cisneros X (2007)"
+        }
+      ],
+      "correctOptionId": "w049_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w050",
+      "originNumber": 50,
+      "originLabel": "Word · pregunta 50",
+      "question": "El órgano encargado de recabar información de las diferentes comunidades autónomas para asesorar a los centros educativos en cuanto a la mejora de la convivencia es:",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 20",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w050_a",
+          "text": "El Congreso Estatal de Convivencia Escolar"
+        },
+        {
+          "id": "w050_b",
+          "text": "La Comisión de Bienestar y Convivencia"
+        },
+        {
+          "id": "w050_c",
+          "text": "El Consejo Escolar"
+        },
+        {
+          "id": "w050_d",
+          "text": "El Observatorio Estatal de Convivencia Escolar"
+        }
+      ],
+      "correctOptionId": "w050_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w051",
+      "originNumber": 51,
+      "originLabel": "Word · pregunta 51",
+      "question": "¿Qué norma establece que todos los centros deben tener un Plan de Convivencia de manera obligatoria?",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 20",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w051_a",
+          "text": "LOGSE (1990)"
+        },
+        {
+          "id": "w051_b",
+          "text": "Real Decreto 275/2007"
+        },
+        {
+          "id": "w051_c",
+          "text": "LOMLOE (2020, art.124)"
+        },
+        {
+          "id": "w051_d",
+          "text": "RD 274/2024"
+        }
+      ],
+      "correctOptionId": "w051_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w052",
+      "originNumber": 52,
+      "originLabel": "Word · pregunta 52",
+      "question": "El fortalecimiento de valores como la tolerancia y el respeto, para mejorar la convivencia escolar, puede considerarse una estrategia:",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 21",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w052_a",
+          "text": "De intervención"
+        },
+        {
+          "id": "w052_b",
+          "text": "Preventiva"
+        },
+        {
+          "id": "w052_c",
+          "text": "Tecnológica"
+        },
+        {
+          "id": "w052_d",
+          "text": "Participativa"
+        }
+      ],
+      "correctOptionId": "w052_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w053",
+      "originNumber": 53,
+      "originLabel": "Word · pregunta 53",
+      "question": "Además de la mediación, algunas medidas que mejoran la convivencia son:",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 22",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w053_a",
+          "text": "La ayuda entre iguales y los patios para la convivencia"
+        },
+        {
+          "id": "w053_b",
+          "text": "La coeducación y las comunidades de aprendizaje"
+        },
+        {
+          "id": "w053_c",
+          "text": "La educación emocional y el aprendizaje-servicio"
+        },
+        {
+          "id": "w053_d",
+          "text": "Todas las opciones son correctas"
+        }
+      ],
+      "correctOptionId": "w053_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w054",
+      "originNumber": 54,
+      "originLabel": "Word · pregunta 54",
+      "question": "Según Carreño y Rozo (2020), ¿a qué tipo de medida pertenece la formación docente en mediación escolar?",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 22",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w054_a",
+          "text": "Prevención"
+        },
+        {
+          "id": "w054_b",
+          "text": "Uso de TIC"
+        },
+        {
+          "id": "w054_c",
+          "text": "Intervención"
+        },
+        {
+          "id": "w054_d",
+          "text": "Participación"
+        }
+      ],
+      "correctOptionId": "w054_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w055",
+      "originNumber": 55,
+      "originLabel": "Word · pregunta 55",
+      "question": "¿Cuál de los siguientes pasos es el último en la Técnica de Resolución de Problemas de D’Zurilla y Goldfried (1971)?",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 23",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w055_a",
+          "text": "Hacer una lista de soluciones"
+        },
+        {
+          "id": "w055_b",
+          "text": "Valorar los resultados tras implementar la solución"
+        },
+        {
+          "id": "w055_c",
+          "text": "Especificar el problema"
+        },
+        {
+          "id": "w055_d",
+          "text": "Valorar las consecuencias de las alternativas"
+        }
+      ],
+      "correctOptionId": "w055_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w056",
+      "originNumber": 56,
+      "originLabel": "Word · pregunta 56",
+      "question": "¿Qué colectivos deben participar en la elaboración del Plan de Convivencia?",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 23",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w056_a",
+          "text": "El equipo directivo y el profesorado."
+        },
+        {
+          "id": "w056_b",
+          "text": "Solamente el alumnado."
+        },
+        {
+          "id": "w056_c",
+          "text": "El equipo administrativo y de orientación."
+        },
+        {
+          "id": "w056_d",
+          "text": "Toda la comunidad educativa (alumnado, familias, docentes, etc.)"
+        }
+      ],
+      "correctOptionId": "w056_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w057",
+      "originNumber": 57,
+      "originLabel": "Word · pregunta 57",
+      "question": "El órgano encargado de aprobar el Plan de Convivencia es:",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 24",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w057_a",
+          "text": "El equipo directivo"
+        },
+        {
+          "id": "w057_b",
+          "text": "El equipo de orientación"
+        },
+        {
+          "id": "w057_c",
+          "text": "La asociación de familias del alumnado (AFA)"
+        },
+        {
+          "id": "w057_d",
+          "text": "El Consejo Escolar"
+        }
+      ],
+      "correctOptionId": "w057_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w058",
+      "originNumber": 58,
+      "originLabel": "Word · pregunta 58",
+      "question": "A la hora de elaborar un Plan de Convivencia, ¿qué fases vienen antes?",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 24",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w058_a",
+          "text": "El diagnóstico del estado de la convivencia"
+        },
+        {
+          "id": "w058_b",
+          "text": "La evaluación"
+        },
+        {
+          "id": "w058_c",
+          "text": "La planificación de actividades"
+        },
+        {
+          "id": "w058_d",
+          "text": "La propuesta de objetivos"
+        }
+      ],
+      "correctOptionId": "w058_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w059",
+      "originNumber": 59,
+      "originLabel": "Word · pregunta 59",
+      "question": "A la hora de elaborar un plan de convivencia, en la fase de diagnóstico del estado de la convivencia es importante:",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 24",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w059_a",
+          "text": "Recoger información sin instrumentos"
+        },
+        {
+          "id": "w059_b",
+          "text": "Centrarse únicamente en analizar los aspectos negativos de la convivencia."
+        },
+        {
+          "id": "w059_c",
+          "text": "Hacer una evaluación centrada en los conflictos del alumnado"
+        },
+        {
+          "id": "w059_d",
+          "text": "Analizar aspectos tanto positivos como negativos de la convivencia"
+        }
+      ],
+      "correctOptionId": "w059_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w060",
+      "originNumber": 60,
+      "originLabel": "Word · pregunta 60",
+      "question": "La fase de sensibilización de un Plan de Convivencia tiene como objetivo:",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 24",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w060_a",
+          "text": "Fomentar actitudes favorables hacia la propuesta de mejoras"
+        },
+        {
+          "id": "w060_b",
+          "text": "Temporalizar las actividades"
+        },
+        {
+          "id": "w060_c",
+          "text": "Evaluar si se han cumplido los objetivos del Plan de Convivencia"
+        },
+        {
+          "id": "w060_d",
+          "text": "Diagnosticar el estado de la convivencia"
+        }
+      ],
+      "correctOptionId": "w060_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w061",
+      "originNumber": 61,
+      "originLabel": "Word · pregunta 61",
+      "question": "¿En qué fase del Plan de Convivencia se recoge información sobre el clima escolar?",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 24",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w061_a",
+          "text": "Evaluación y seguimiento"
+        },
+        {
+          "id": "w061_b",
+          "text": "Sensibilización"
+        },
+        {
+          "id": "w061_c",
+          "text": "Justificación y responsables"
+        },
+        {
+          "id": "w061_d",
+          "text": "Diagnóstico"
+        }
+      ],
+      "correctOptionId": "w061_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w062",
+      "originNumber": 62,
+      "originLabel": "Word · pregunta 62",
+      "question": "¿En qué fase del Plan de Convivencia se conciencia a la comunidad educativa sobre la importancia de la convivencia?",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 24",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w062_a",
+          "text": "Justificación y responsables"
+        },
+        {
+          "id": "w062_b",
+          "text": "Difusión"
+        },
+        {
+          "id": "w062_c",
+          "text": "Diagnóstico"
+        },
+        {
+          "id": "w062_d",
+          "text": "Sensibilización"
+        }
+      ],
+      "correctOptionId": "w062_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w063",
+      "originNumber": 63,
+      "originLabel": "Word · pregunta 63",
+      "question": "Una de las debilidades que suelen presentar los Planes de Convivencia es:",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 25",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w063_a",
+          "text": "Un exceso de responsables"
+        },
+        {
+          "id": "w063_b",
+          "text": "Demasiada participación familiar"
+        },
+        {
+          "id": "w063_c",
+          "text": "Una deficiente evaluación y seguimiento"
+        },
+        {
+          "id": "w063_d",
+          "text": "Todas las opciones son correctas"
+        }
+      ],
+      "correctOptionId": "w063_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w064",
+      "originNumber": 64,
+      "originLabel": "Word · pregunta 64",
+      "question": "¿Qué detectaron Merma-Molina et al. (2019) como debilidad de los Planes de Convivencia?",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 25",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w064_a",
+          "text": "Evaluaciones y seguimientos deficientes"
+        },
+        {
+          "id": "w064_b",
+          "text": "Diagnósticos muy detallados"
+        },
+        {
+          "id": "w064_c",
+          "text": "Exceso de responsables"
+        },
+        {
+          "id": "w064_d",
+          "text": "Poca participación familiar"
+        }
+      ],
+      "correctOptionId": "w064_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w065",
+      "originNumber": 65,
+      "originLabel": "Word · pregunta 65",
+      "question": "El primer país en formalizar la mediación como disciplina fue:",
+      "chapter": "Capítulo 3. Concepto de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 27",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w065_a",
+          "text": "Francia"
+        },
+        {
+          "id": "w065_b",
+          "text": "Estados Unidos"
+        },
+        {
+          "id": "w065_c",
+          "text": "Reino Unido"
+        },
+        {
+          "id": "w065_d",
+          "text": "España"
+        }
+      ],
+      "correctOptionId": "w065_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w066",
+      "originNumber": 66,
+      "originLabel": "Word · pregunta 66",
+      "question": "La mediación, como proceso de resolución de conflictos, se ha aplicado en los siguientes ámbitos:",
+      "chapter": "Capítulo 3. Concepto de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 27",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w066_a",
+          "text": "Familiar, laboral, comunitario y escolar"
+        },
+        {
+          "id": "w066_b",
+          "text": "Terapéutico, clínico y escolar"
+        },
+        {
+          "id": "w066_c",
+          "text": "Animal e institucional"
+        },
+        {
+          "id": "w066_d",
+          "text": "Vecinal y popular"
+        }
+      ],
+      "correctOptionId": "w066_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w067",
+      "originNumber": 67,
+      "originLabel": "Word · pregunta 67",
+      "question": "Entre las características de la mediación se encuentra:",
+      "chapter": "Capítulo 3. Concepto de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 28",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w067_a",
+          "text": "Es voluntaria, elegida por las partes en conflicto"
+        },
+        {
+          "id": "w067_b",
+          "text": "Le da protagonismo a las partes en conflicto"
+        },
+        {
+          "id": "w067_c",
+          "text": "El tercero ayuda a las partes a alcanzar sus propias soluciones"
+        },
+        {
+          "id": "w067_d",
+          "text": "Todas las opciones son correctas"
+        }
+      ],
+      "correctOptionId": "w067_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w068",
+      "originNumber": 68,
+      "originLabel": "Word · pregunta 68",
+      "question": "El llamado \"Movimiento de Resolución Alternativa de Conflictos\" tiene como objetivo:",
+      "chapter": "Capítulo 3. Concepto de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 28",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w068_a",
+          "text": "Mejorar las relaciones institucionales"
+        },
+        {
+          "id": "w068_b",
+          "text": "Evitar el colapso del sistema judicial"
+        },
+        {
+          "id": "w068_c",
+          "text": "Juzgar a las personas delincuentes"
+        },
+        {
+          "id": "w068_d",
+          "text": "Resolver conflictos con mediaciones"
+        }
+      ],
+      "correctOptionId": "w068_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w069",
+      "originNumber": 69,
+      "originLabel": "Word · pregunta 69",
+      "question": "El método de resolución de conflictos, en el que un tercero neutral interviene para ayudar a las personas a encontrar soluciones se conoce como:",
+      "chapter": "Capítulo 3. Concepto de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 28",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w069_a",
+          "text": "Mediación"
+        },
+        {
+          "id": "w069_b",
+          "text": "Hacer las paces"
+        },
+        {
+          "id": "w069_c",
+          "text": "Resolución"
+        },
+        {
+          "id": "w069_d",
+          "text": "Conflicto escolar"
+        }
+      ],
+      "correctOptionId": "w069_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w070",
+      "originNumber": 70,
+      "originLabel": "Word · pregunta 70",
+      "question": "¿Cuál es el último ámbito en el que se ha introducido la mediación de los que se mencionan a continuación",
+      "chapter": "Capítulo 3. Concepto de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 28",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w070_a",
+          "text": "Ámbito familiar"
+        },
+        {
+          "id": "w070_b",
+          "text": "Ámbito escolar"
+        },
+        {
+          "id": "w070_c",
+          "text": "Vecinal"
+        },
+        {
+          "id": "w070_d",
+          "text": "Ámbito laboral"
+        }
+      ],
+      "correctOptionId": "w070_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w071",
+      "originNumber": 71,
+      "originLabel": "Word · pregunta 71",
+      "question": "¿En cuál de los siguientes principios NO se basa la mediación?",
+      "chapter": "Capítulo 3. Concepto de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 29",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w071_a",
+          "text": "Le da protagonismo a las partes"
+        },
+        {
+          "id": "w071_b",
+          "text": "Es un proceso cooperativo"
+        },
+        {
+          "id": "w071_c",
+          "text": "Sigue un proceso estructurado"
+        },
+        {
+          "id": "w071_d",
+          "text": "Tiene una aplicación universal"
+        }
+      ],
+      "correctOptionId": "w071_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w072",
+      "originNumber": 72,
+      "originLabel": "Word · pregunta 72",
+      "question": "Los objetivos de la mediación escolar pueden ser los siguientes tres tipos:",
+      "chapter": "Capítulo 3. Concepto de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 29",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w072_a",
+          "text": "De formación, de prevención y de intervención."
+        },
+        {
+          "id": "w072_b",
+          "text": "De formación, de regulación y de control"
+        },
+        {
+          "id": "w072_c",
+          "text": "De reflexión, de meditación y de tratamiento."
+        },
+        {
+          "id": "w072_d",
+          "text": "Ninguna respuesta es correcta"
+        }
+      ],
+      "correctOptionId": "w072_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w073",
+      "originNumber": 73,
+      "originLabel": "Word · pregunta 73",
+      "question": "El objetivo que tiene la mediación de fomentar la reconciliación entre los implicados en conflicto es un objetivo:",
+      "chapter": "Capítulo 3. Concepto de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 29",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w073_a",
+          "text": "De intervención"
+        },
+        {
+          "id": "w073_b",
+          "text": "De formación"
+        },
+        {
+          "id": "w073_c",
+          "text": "De prevención"
+        },
+        {
+          "id": "w073_d",
+          "text": "De titulación"
+        }
+      ],
+      "correctOptionId": "w073_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w074",
+      "originNumber": 74,
+      "originLabel": "Word · pregunta 74",
+      "question": "El objetivo que tiene la mediación de aprender habilidades como la expresión y regulación emocional, es un objetivo:",
+      "chapter": "Capítulo 3. Concepto de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 29",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w074_a",
+          "text": "De intervención."
+        },
+        {
+          "id": "w074_b",
+          "text": "De formación."
+        },
+        {
+          "id": "w074_c",
+          "text": "De investigación."
+        },
+        {
+          "id": "w074_d",
+          "text": "De prevención."
+        }
+      ],
+      "correctOptionId": "w074_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w075",
+      "originNumber": 75,
+      "originLabel": "Word · pregunta 75",
+      "question": "¿En qué tipo de mediación se recurre a un profesional de fuera del centro educativo?",
+      "chapter": "Capítulo 3. Concepto de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 30",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w075_a",
+          "text": "En la mediación externa"
+        },
+        {
+          "id": "w075_b",
+          "text": "En la mediación espontánea"
+        },
+        {
+          "id": "w075_c",
+          "text": "En la mediación institucionalizada"
+        },
+        {
+          "id": "w075_d",
+          "text": "En la mediación interna"
+        }
+      ],
+      "correctOptionId": "w075_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w076",
+      "originNumber": 76,
+      "originLabel": "Word · pregunta 76",
+      "question": "¿En cuál de los siguientes tipos de mediación intervienen dos personas mediadoras?",
+      "chapter": "Capítulo 3. Concepto de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 30",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w076_a",
+          "text": "Mediación compleja"
+        },
+        {
+          "id": "w076_b",
+          "text": "Mediación combinada"
+        },
+        {
+          "id": "w076_c",
+          "text": "Comediación"
+        },
+        {
+          "id": "w076_d",
+          "text": "Mediación mixta"
+        }
+      ],
+      "correctOptionId": "w076_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w077",
+      "originNumber": 77,
+      "originLabel": "Word · pregunta 77",
+      "question": "¿Qué tipo de mediación se da cuando el profesorado interviene en un conflicto de manera espontánea y sin acudir a un espacio de encuentro determinado?",
+      "chapter": "Capítulo 3. Concepto de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 30",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w077_a",
+          "text": "Mediación entre iguales"
+        },
+        {
+          "id": "w077_b",
+          "text": "Mediación informal"
+        },
+        {
+          "id": "w077_c",
+          "text": "Mediación institucionalizada"
+        },
+        {
+          "id": "w077_d",
+          "text": "Mediación formal"
+        }
+      ],
+      "correctOptionId": "w077_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w078",
+      "originNumber": 78,
+      "originLabel": "Word · pregunta 78",
+      "question": "¿Qué tipo de mediación queda recogida en el Plan de Convivencia del centro y sigue unas fases concretas?",
+      "chapter": "Capítulo 3. Concepto de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 30",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w078_a",
+          "text": "La mediación formal"
+        },
+        {
+          "id": "w078_b",
+          "text": "La mediación espontánea"
+        },
+        {
+          "id": "w078_c",
+          "text": "La mediación forzada"
+        },
+        {
+          "id": "w078_d",
+          "text": "La mediación externa"
+        }
+      ],
+      "correctOptionId": "w078_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w079",
+      "originNumber": 79,
+      "originLabel": "Word · pregunta 79",
+      "question": "La mediación entre iguales se da entre:",
+      "chapter": "Capítulo 3. Concepto de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 30",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w079_a",
+          "text": "Los adultos."
+        },
+        {
+          "id": "w079_b",
+          "text": "La familia y el profesorado."
+        },
+        {
+          "id": "w079_c",
+          "text": "El profesorado."
+        },
+        {
+          "id": "w079_d",
+          "text": "El propio alumnado."
+        }
+      ],
+      "correctOptionId": "w079_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w080",
+      "originNumber": 80,
+      "originLabel": "Word · pregunta 80",
+      "question": "Una de las diferencias entre la mediación y la disciplina tradicional es:",
+      "chapter": "Capítulo 3. Concepto de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 31",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w080_a",
+          "text": "Que la mediación es restaurativa y la disciplina tradicional punitiva"
+        },
+        {
+          "id": "w080_b",
+          "text": "Que la disciplina tradicional se centra en el diálogo y la mediación en el cumplimiento de normas"
+        },
+        {
+          "id": "w080_c",
+          "text": "Que la mediación es punitiva y la disciplina tradicional restaurativa"
+        },
+        {
+          "id": "w080_d",
+          "text": "Ninguna opción es correcta"
+        }
+      ],
+      "correctOptionId": "w080_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w081",
+      "originNumber": 81,
+      "originLabel": "Word · pregunta 81",
+      "question": "La mediación es una práctica que suele implementarse más en:",
+      "chapter": "Capítulo 3. Concepto de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 31",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w081_a",
+          "text": "La enseñanza infantil"
+        },
+        {
+          "id": "w081_b",
+          "text": "La enseñanza secundaria"
+        },
+        {
+          "id": "w081_c",
+          "text": "La enseñanza universitaria"
+        },
+        {
+          "id": "w081_d",
+          "text": "La enseñanza primaria"
+        }
+      ],
+      "correctOptionId": "w081_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w082",
+      "originNumber": 82,
+      "originLabel": "Word · pregunta 82",
+      "question": "¿Cuál de las siguientes afirmaciones en relación a la disciplina escolar tradicional NO es correcta?",
+      "chapter": "Capítulo 3. Concepto de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 31",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w082_a",
+          "text": "Sigue las normas del centro"
+        },
+        {
+          "id": "w082_b",
+          "text": "Es restaurativa y educativa"
+        },
+        {
+          "id": "w082_c",
+          "text": "Tiene un carácter punitivo"
+        },
+        {
+          "id": "w082_d",
+          "text": "Se centra en buscar culpables"
+        }
+      ],
+      "correctOptionId": "w082_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w083",
+      "originNumber": 83,
+      "originLabel": "Word · pregunta 83",
+      "question": "Una de las características del círculo restaurativo que lo diferencia de la mediación es:",
+      "chapter": "Capítulo 3. Concepto de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 33",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w083_a",
+          "text": "que tiene carácter restaurativo."
+        },
+        {
+          "id": "w083_b",
+          "text": "que se basa en el diálogo."
+        },
+        {
+          "id": "w083_c",
+          "text": "que puede participar un grupo entero."
+        },
+        {
+          "id": "w083_d",
+          "text": "que se dan turnos de palabra."
+        }
+      ],
+      "correctOptionId": "w083_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w084",
+      "originNumber": 84,
+      "originLabel": "Word · pregunta 84",
+      "question": "Selecciona de qué manera NO se debe proceder a la hora de seleccionar al equipo de mediadores de un centro escolar:",
+      "chapter": "Capítulo 4. El proceso de la mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 35",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w084_a",
+          "text": "Eligiendo un mediador/a de un equipo relativamente estable"
+        },
+        {
+          "id": "w084_b",
+          "text": "Escogiendo voluntarios tras un curso de formación en mediación."
+        },
+        {
+          "id": "w084_c",
+          "text": "Obligando a participar por los beneficios que se obtienen"
+        },
+        {
+          "id": "w084_d",
+          "text": "Proponiendo candidatos que presentan ciertos problemas actitudinales"
+        }
+      ],
+      "correctOptionId": "w084_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w085",
+      "originNumber": 85,
+      "originLabel": "Word · pregunta 85",
+      "question": "Los cursos de formación en mediación suelen tener una duración de:",
+      "chapter": "Capítulo 4. El proceso de la mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 36",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w085_a",
+          "text": "Cinco horas"
+        },
+        {
+          "id": "w085_b",
+          "text": "Dos horas"
+        },
+        {
+          "id": "w085_c",
+          "text": "Entre quince y treinta horas"
+        },
+        {
+          "id": "w085_d",
+          "text": "Noventa horas"
+        }
+      ],
+      "correctOptionId": "w085_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w086",
+      "originNumber": 86,
+      "originLabel": "Word · pregunta 86",
+      "question": "Una cualidad importante del mediador / a es:",
+      "chapter": "Capítulo 4. El proceso de la mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 36",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w086_a",
+          "text": "Su poder en el centro"
+        },
+        {
+          "id": "w086_b",
+          "text": "Su nivel socioeconómico"
+        },
+        {
+          "id": "w086_c",
+          "text": "Su pesimismo"
+        },
+        {
+          "id": "w086_d",
+          "text": "Su capacidad de diálogo"
+        }
+      ],
+      "correctOptionId": "w086_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w087",
+      "originNumber": 87,
+      "originLabel": "Word · pregunta 87",
+      "question": "En cuanto a la selección de alumnado mediador, es importante:",
+      "chapter": "Capítulo 4. El proceso de la mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 36",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w087_a",
+          "text": "Que sean siempre amigos de las partes en conflicto"
+        },
+        {
+          "id": "w087_b",
+          "text": "Que sean del mismo curso y mejor del mismo aula"
+        },
+        {
+          "id": "w087_c",
+          "text": "Que sean de cursos superiores o, al menos, de otra aula diferente"
+        },
+        {
+          "id": "w087_d",
+          "text": "Que sean de cursos inferiores"
+        }
+      ],
+      "correctOptionId": "w087_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w088",
+      "originNumber": 88,
+      "originLabel": "Word · pregunta 88",
+      "question": "La metodología más exitosa de las sesiones de formación en mediación suele ser:",
+      "chapter": "Capítulo 4. El proceso de la mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 36",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w088_a",
+          "text": "Charla teórica con ronda de preguntas"
+        },
+        {
+          "id": "w088_b",
+          "text": "Teoría breve, actividades colaborativas y puesta en común"
+        },
+        {
+          "id": "w088_c",
+          "text": "Mesa redonda de expertos y profesionales"
+        },
+        {
+          "id": "w088_d",
+          "text": "Prácticas individuales"
+        }
+      ],
+      "correctOptionId": "w088_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w089",
+      "originNumber": 89,
+      "originLabel": "Word · pregunta 89",
+      "question": "¿Cuál de las siguientes opciones es un criterio para seleccionar al alumnado mediador?",
+      "chapter": "Capítulo 4. El proceso de la mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 36",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w089_a",
+          "text": "El estado físico"
+        },
+        {
+          "id": "w089_b",
+          "text": "El nivel de inteligencia"
+        },
+        {
+          "id": "w089_c",
+          "text": "Las habilidades digitales"
+        },
+        {
+          "id": "w089_d",
+          "text": "El aula y el curso en el que se encuentren"
+        }
+      ],
+      "correctOptionId": "w089_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w090",
+      "originNumber": 90,
+      "originLabel": "Word · pregunta 90",
+      "question": "En la fase de la \"premediación\" tiene lugar lo siguiente:",
+      "chapter": "Capítulo 4. El proceso de la mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 37",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w090_a",
+          "text": "Las partes en conflicto acuerdan cuál es el problema que tienen"
+        },
+        {
+          "id": "w090_b",
+          "text": "El equipo de mediación se reúne con cada una de las personas implicadas por separado"
+        },
+        {
+          "id": "w090_c",
+          "text": "Los mediadores/as explican las reglas de la mediación junto a ambas partes en conflicto"
+        },
+        {
+          "id": "w090_d",
+          "text": "Una lluvia de ideas para solucionar el conflicto"
+        }
+      ],
+      "correctOptionId": "w090_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w091",
+      "originNumber": 91,
+      "originLabel": "Word · pregunta 91",
+      "question": "¿En qué fase de la mediación se busca una visión consensuada sobre lo que es el conflicto?",
+      "chapter": "Capítulo 4. El proceso de la mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 38",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w091_a",
+          "text": "En la fase de “aclarar el problema”"
+        },
+        {
+          "id": "w091_b",
+          "text": "En la fase “cuéntame”"
+        },
+        {
+          "id": "w091_c",
+          "text": "En la fase de “llegar a un acuerdo”"
+        },
+        {
+          "id": "w091_d",
+          "text": "En la fase de “propuesta de soluciones”"
+        }
+      ],
+      "correctOptionId": "w091_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w092",
+      "originNumber": 92,
+      "originLabel": "Word · pregunta 92",
+      "question": "Una de las técnicas que suele usarse para la propuesta de soluciones durante la mediación es:",
+      "chapter": "Capítulo 4. El proceso de la mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 38",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w092_a",
+          "text": "El juego dinámico"
+        },
+        {
+          "id": "w092_b",
+          "text": "Los cuestionarios"
+        },
+        {
+          "id": "w092_c",
+          "text": "La lluvia de ideas"
+        },
+        {
+          "id": "w092_d",
+          "text": "La entrevista"
+        }
+      ],
+      "correctOptionId": "w092_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w093",
+      "originNumber": 93,
+      "originLabel": "Word · pregunta 93",
+      "question": "Se debe procurar que el acuerdo al que se llegue en la mediación sea:",
+      "chapter": "Capítulo 4. El proceso de la mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 38",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w093_a",
+          "text": "Bueno para uno y malo para otro"
+        },
+        {
+          "id": "w093_b",
+          "text": "Memorizable para no anotarlo"
+        },
+        {
+          "id": "w093_c",
+          "text": "Perjudicial para la parte culpable"
+        },
+        {
+          "id": "w093_d",
+          "text": "Beneficioso para las dos partes"
+        }
+      ],
+      "correctOptionId": "w093_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w094",
+      "originNumber": 94,
+      "originLabel": "Word · pregunta 94",
+      "question": "Señala la respuesta INCORRECTA con respecto a las características de la mediación",
+      "chapter": "Capítulo 4. El proceso de la mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 38",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w094_a",
+          "text": "Es un proceso voluntario"
+        },
+        {
+          "id": "w094_b",
+          "text": "Es un proceso confidencial"
+        },
+        {
+          "id": "w094_c",
+          "text": "Es un proceso colaborativo"
+        },
+        {
+          "id": "w094_d",
+          "text": "Los mediadores proponen soluciones"
+        }
+      ],
+      "correctOptionId": "w094_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w095",
+      "originNumber": 95,
+      "originLabel": "Word · pregunta 95",
+      "question": "La fase de la mediación de \"revisión del acuerdo\" tiene lugar:",
+      "chapter": "Capítulo 4. El proceso de la mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 38",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w095_a",
+          "text": "Entre la fase \"cuéntame\" y la fase de \"aclarar el problema\""
+        },
+        {
+          "id": "w095_b",
+          "text": "Antes de la premediación"
+        },
+        {
+          "id": "w095_c",
+          "text": "Después de la fase de \"llegar a un acuerdo\""
+        },
+        {
+          "id": "w095_d",
+          "text": "Antes de la fase de \"llegar a un acuerdo\""
+        }
+      ],
+      "correctOptionId": "w095_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w096",
+      "originNumber": 96,
+      "originLabel": "Word · pregunta 96",
+      "question": "La fase de la mediación en la que las partes implicadas en conflicto explican sus versiones de los hechos se conoce como:",
+      "chapter": "Capítulo 4. El proceso de la mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 38",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w096_a",
+          "text": "La fase de propuesta de soluciones"
+        },
+        {
+          "id": "w096_b",
+          "text": "La fase de acuerdo"
+        },
+        {
+          "id": "w096_c",
+          "text": "La fase \"cuéntame\""
+        },
+        {
+          "id": "w096_d",
+          "text": "La fase de negociación"
+        }
+      ],
+      "correctOptionId": "w096_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w097",
+      "originNumber": 97,
+      "originLabel": "Word · pregunta 97",
+      "question": "Dos de las principales funciones del mediador o mediadora son:",
+      "chapter": "Capítulo 4. El proceso de la mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 41",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w097_a",
+          "text": "Estimular el diálogo evitando recoger muchas soluciones"
+        },
+        {
+          "id": "w097_b",
+          "text": "Centrar el diálogo e involucrar a terceras partes"
+        },
+        {
+          "id": "w097_c",
+          "text": "Estimular la comunicación y centrar el diálogo en la resolución del problema"
+        },
+        {
+          "id": "w097_d",
+          "text": "Proponer soluciones y pedir silencio"
+        }
+      ],
+      "correctOptionId": "w097_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w098",
+      "originNumber": 98,
+      "originLabel": "Word · pregunta 98",
+      "question": "La técnica de 'reflejar emociones' utilizada por los mediadores y mediadoras suele emplearse en la fase de:",
+      "chapter": "Capítulo 4. El proceso de la mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 42",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w098_a",
+          "text": "Revisión del acuerdo"
+        },
+        {
+          "id": "w098_b",
+          "text": "'Cuéntame'"
+        },
+        {
+          "id": "w098_c",
+          "text": "Premediación"
+        },
+        {
+          "id": "w098_d",
+          "text": "Propuesta de soluciones"
+        }
+      ],
+      "correctOptionId": "w098_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w099",
+      "originNumber": 99,
+      "originLabel": "Word · pregunta 99",
+      "question": "La función del mediador/a en la que se da apoyo, aceptación, reconocimiento y protección a las partes en conflicto se corresponde con:",
+      "chapter": "Capítulo 4. El proceso de la mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 42",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w099_a",
+          "text": "La función de motivación."
+        },
+        {
+          "id": "w099_b",
+          "text": "La función creativa."
+        },
+        {
+          "id": "w099_c",
+          "text": "La función guía."
+        },
+        {
+          "id": "w099_d",
+          "text": "La función de sostén emocional."
+        }
+      ],
+      "correctOptionId": "w099_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w100",
+      "originNumber": 100,
+      "originLabel": "Word · pregunta 100",
+      "question": "El no tomar parte, ni a favor ni en contra, de ninguno de los implicados en conflicto, se conoce como:",
+      "chapter": "Capítulo 4. El proceso de la mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 42",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w100_a",
+          "text": "Imparcialidad"
+        },
+        {
+          "id": "w100_b",
+          "text": "Proactividad"
+        },
+        {
+          "id": "w100_c",
+          "text": "Estabilidad emocional"
+        },
+        {
+          "id": "w100_d",
+          "text": "Pasividad"
+        }
+      ],
+      "correctOptionId": "w100_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w101",
+      "originNumber": 101,
+      "originLabel": "Word · pregunta 101",
+      "question": "Los mediadores y mediadoras se caracterizan por ser:",
+      "chapter": "Capítulo 4. El proceso de la mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 42",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w101_a",
+          "text": "Impacientes y resolutivos"
+        },
+        {
+          "id": "w101_b",
+          "text": "Jueces exigentes"
+        },
+        {
+          "id": "w101_c",
+          "text": "Imparciales y neutrales"
+        },
+        {
+          "id": "w101_d",
+          "text": "Curiosos y prejuiciosos"
+        }
+      ],
+      "correctOptionId": "w101_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w102",
+      "originNumber": 102,
+      "originLabel": "Word · pregunta 102",
+      "question": "¿Cuál de las siguientes opciones NO es una cualidad de un buen mediador o mediadora?",
+      "chapter": "Capítulo 4. El proceso de la mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 43",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w102_a",
+          "text": "Es amable y respetuoso/a."
+        },
+        {
+          "id": "w102_b",
+          "text": "Es de mentalidad rígida y tradicional."
+        },
+        {
+          "id": "w102_c",
+          "text": "Es organizado/a."
+        },
+        {
+          "id": "w102_d",
+          "text": "Es optimista."
+        }
+      ],
+      "correctOptionId": "w102_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w103",
+      "originNumber": 103,
+      "originLabel": "Word · pregunta 103",
+      "question": "Según la clasificación de Benítez et al. (2021), ¿qué tipo de habilidades del mediador o mediadora son: la empatía, el autocontrol y el saber manejar el estrés?",
+      "chapter": "Capítulo 4. El proceso de la mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 44",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w103_a",
+          "text": "Habilidades para crear una buena primera impresión"
+        },
+        {
+          "id": "w103_b",
+          "text": "Habilidades de comprensión y gestión del conflicto"
+        },
+        {
+          "id": "w103_c",
+          "text": "Habilidades para facilitar la comunicación"
+        },
+        {
+          "id": "w103_d",
+          "text": "Habilidades de conciencia y regulación emocional"
+        }
+      ],
+      "correctOptionId": "w103_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w104",
+      "originNumber": 104,
+      "originLabel": "Word · pregunta 104",
+      "question": "¿Cuál de las siguientes opciones es una fortaleza de la mediación?",
+      "chapter": "Capítulo 4. El proceso de la mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 44",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w104_a",
+          "text": "No previene conflictos violentos pero es eficaz al momento"
+        },
+        {
+          "id": "w104_b",
+          "text": "Fortalece el 'locus de control interno' y responsabilidad ante los problemas"
+        },
+        {
+          "id": "w104_c",
+          "text": "Aumenta las sanciones disciplinarias"
+        },
+        {
+          "id": "w104_d",
+          "text": "Permite gestionar los conflictos de una manera autoritaria y eficaz"
+        }
+      ],
+      "correctOptionId": "w104_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w105",
+      "originNumber": 105,
+      "originLabel": "Word · pregunta 105",
+      "question": "Entre las ventajas de la mediación escolar se encuentra:",
+      "chapter": "Capítulo 4. El proceso de la mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 44",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w105_a",
+          "text": "La dependencia del mediador o mediadora"
+        },
+        {
+          "id": "w105_b",
+          "text": "La mejora en la autoestima del alumnado"
+        },
+        {
+          "id": "w105_c",
+          "text": "El no tener que dialogar"
+        },
+        {
+          "id": "w105_d",
+          "text": "La gestión autoritaria de los conflictos"
+        }
+      ],
+      "correctOptionId": "w105_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w106",
+      "originNumber": 106,
+      "originLabel": "Word · pregunta 106",
+      "question": "Elige la opción correcta en relación a los beneficios de la mediación escolar:",
+      "chapter": "Capítulo 4. El proceso de la mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 45",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w106_a",
+          "text": "No tiene beneficios para los mediadores"
+        },
+        {
+          "id": "w106_b",
+          "text": "Se quedan en el centro escolar"
+        },
+        {
+          "id": "w106_c",
+          "text": "Se transfieren a la vida fuera del centro"
+        },
+        {
+          "id": "w106_d",
+          "text": "Se dan solamente en el alumnado que resuelve su conflicto"
+        }
+      ],
+      "correctOptionId": "w106_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w107",
+      "originNumber": 107,
+      "originLabel": "Word · pregunta 107",
+      "question": "Una de las fortalezas de la mediación escolar es:",
+      "chapter": "Capítulo 4. El proceso de la mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 45",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w107_a",
+          "text": "Que reduce el número de sanciones"
+        },
+        {
+          "id": "w107_b",
+          "text": "Que encuentra siempre a los culpables"
+        },
+        {
+          "id": "w107_c",
+          "text": "Que los mediadores proponen soluciones"
+        },
+        {
+          "id": "w107_d",
+          "text": "Que se centra en buscar buenos castigos"
+        }
+      ],
+      "correctOptionId": "w107_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w108",
+      "originNumber": 108,
+      "originLabel": "Word · pregunta 108",
+      "question": "Una de las debilidades de la mediación escolar puede ser:",
+      "chapter": "Capítulo 4. El proceso de la mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 45",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w108_a",
+          "text": "La desconfianza por parte del profesorado y familiares"
+        },
+        {
+          "id": "w108_b",
+          "text": "La evaluación rigurosa del proceso"
+        },
+        {
+          "id": "w108_c",
+          "text": "La alta motivación para acudir a la formación"
+        },
+        {
+          "id": "w108_d",
+          "text": "Todas las opciones son correctas"
+        }
+      ],
+      "correctOptionId": "w108_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w109",
+      "originNumber": 109,
+      "originLabel": "Word · pregunta 109",
+      "question": "Cuando un centro escolar se plantea el acudir a algún congreso para compartir su experiencia con la mediación, está en la etapa de:",
+      "chapter": "Capítulo 5. Programas y actividades de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 48",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w109_a",
+          "text": "Inauguración y primeras mediaciones"
+        },
+        {
+          "id": "w109_b",
+          "text": "Concienciación de la comunidad educativa"
+        },
+        {
+          "id": "w109_c",
+          "text": "Mantenimiento y expansión"
+        },
+        {
+          "id": "w109_d",
+          "text": "Formación del equipo mediador"
+        }
+      ],
+      "correctOptionId": "w109_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w110",
+      "originNumber": 110,
+      "originLabel": "Word · pregunta 110",
+      "question": "Cuando un centro escolar comparte en su página web quiénes son los nuevos mediadores y cómo se puede contactar con ellos, está en la fase de:",
+      "chapter": "Capítulo 5. Programas y actividades de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 48",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w110_a",
+          "text": "Presentación del servicio de mediación"
+        },
+        {
+          "id": "w110_b",
+          "text": "Mantenimiento y expansión"
+        },
+        {
+          "id": "w110_c",
+          "text": "Concienciación de la comunidad educativa"
+        },
+        {
+          "id": "w110_d",
+          "text": "Revisión y perfeccionamiento"
+        }
+      ],
+      "correctOptionId": "w110_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w111",
+      "originNumber": 111,
+      "originLabel": "Word · pregunta 111",
+      "question": "¿Cuál de los siguientes programas, relacionados con la mediación, surge tras varios años de experiencia real en un instituto de Educación Secundaria?",
+      "chapter": "Capítulo 5. Programas y actividades de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 50",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w111_a",
+          "text": "Sabona"
+        },
+        {
+          "id": "w111_b",
+          "text": "El Proyecto Mediem"
+        },
+        {
+          "id": "w111_c",
+          "text": "El programa \"Mediando\""
+        },
+        {
+          "id": "w111_d",
+          "text": "La \"Escuela Espacio de Paz\""
+        }
+      ],
+      "correctOptionId": "w111_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w112",
+      "originNumber": 112,
+      "originLabel": "Word · pregunta 112",
+      "question": "En la actividad que pretende trabajar los aspectos positivos del conflicto, se comienza haciendo una lluvia de ideas sobre la palabra:",
+      "chapter": "Capítulo 5. Programas y actividades de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 51",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w112_a",
+          "text": "Compromiso"
+        },
+        {
+          "id": "w112_b",
+          "text": "Responsabilidad"
+        },
+        {
+          "id": "w112_c",
+          "text": "Conflicto"
+        },
+        {
+          "id": "w112_d",
+          "text": "Mediación"
+        }
+      ],
+      "correctOptionId": "w112_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w113",
+      "originNumber": 113,
+      "originLabel": "Word · pregunta 113",
+      "question": "Uno de los objetivos de la actividad “Expresiones asesinas de la comunicación” es:",
+      "chapter": "Capítulo 5. Programas y actividades de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 52",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w113_a",
+          "text": "Mejorar la autoestima"
+        },
+        {
+          "id": "w113_b",
+          "text": "Aprender las fases de la mediación"
+        },
+        {
+          "id": "w113_c",
+          "text": "Identificar las expresiones que nos pueden estar dificultando la comunicación"
+        },
+        {
+          "id": "w113_d",
+          "text": "Trabajar la asertividad"
+        }
+      ],
+      "correctOptionId": "w113_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w114",
+      "originNumber": 114,
+      "originLabel": "Word · pregunta 114",
+      "question": "Los tres elementos esenciales del conflicto propuesto por Lederach (2003) son:",
+      "chapter": "Capítulo 5. Programas y actividades de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 52",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w114_a",
+          "text": "El proceso, el sistema y el ambiente."
+        },
+        {
+          "id": "w114_b",
+          "text": "La persona, la situación y las personalidades."
+        },
+        {
+          "id": "w114_c",
+          "text": "El problema, la causa y la solución."
+        },
+        {
+          "id": "w114_d",
+          "text": "El problema, las personas y el proceso."
+        }
+      ],
+      "correctOptionId": "w114_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w115",
+      "originNumber": 115,
+      "originLabel": "Word · pregunta 115",
+      "question": "¿Qué tipo de expresión asesina sería decirle a alguien 'normal que pierdas las cosas si no las cuidas nunca'?",
+      "chapter": "Capítulo 5. Programas y actividades de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 53",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w115_a",
+          "text": "Amenaza"
+        },
+        {
+          "id": "w115_b",
+          "text": "Orden"
+        },
+        {
+          "id": "w115_c",
+          "text": "Consejo"
+        },
+        {
+          "id": "w115_d",
+          "text": "Crítica o menosprecio"
+        }
+      ],
+      "correctOptionId": "w115_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w116",
+      "originNumber": 116,
+      "originLabel": "Word · pregunta 116",
+      "question": "Darle consejos a una persona que no nos los ha pedido o diagnosticar los motivos de su situación, son expresiones:",
+      "chapter": "Capítulo 5. Programas y actividades de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 53",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w116_a",
+          "text": "Necesarias para el proceso de la mediación"
+        },
+        {
+          "id": "w116_b",
+          "text": "Neutrales"
+        },
+        {
+          "id": "w116_c",
+          "text": "Que dificultan o “asesinan” la comunicación"
+        },
+        {
+          "id": "w116_d",
+          "text": "Que fomentan la empatía"
+        }
+      ],
+      "correctOptionId": "w116_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w117",
+      "originNumber": 117,
+      "originLabel": "Word · pregunta 117",
+      "question": "El discurso autoafirmativo consiste en:",
+      "chapter": "Capítulo 5. Programas y actividades de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 54",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w117_a",
+          "text": "Hablar en público sobre temas personales"
+        },
+        {
+          "id": "w117_b",
+          "text": "Dejar claro lo que no te gusta del otro"
+        },
+        {
+          "id": "w117_c",
+          "text": "Describir lo que te pasa y decirle al otro lo que debe hacer"
+        },
+        {
+          "id": "w117_d",
+          "text": "Describir la situación, lo que sientes y lo que preferirías"
+        }
+      ],
+      "correctOptionId": "w117_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w118",
+      "originNumber": 118,
+      "originLabel": "Word · pregunta 118",
+      "question": "Una persona que expone su punto de vista personal sin culpar al otro, sin pedirle que cambie ni decirle lo que debería hacer estará usando:",
+      "chapter": "Capítulo 5. Programas y actividades de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 54",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w118_a",
+          "text": "Críticas."
+        },
+        {
+          "id": "w118_b",
+          "text": "Diálogo retórico."
+        },
+        {
+          "id": "w118_c",
+          "text": "Amenazas."
+        },
+        {
+          "id": "w118_d",
+          "text": "Frases autoafirmativas."
+        }
+      ],
+      "correctOptionId": "w118_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w119",
+      "originNumber": 119,
+      "originLabel": "Word · pregunta 119",
+      "question": "Elige la opción correcta en relación a la definición de empatía:",
+      "chapter": "Capítulo 5. Programas y actividades de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 55",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w119_a",
+          "text": "Significa reflexionar sobre lo que siente uno mismo"
+        },
+        {
+          "id": "w119_b",
+          "text": "Significa comprender los valores del otro sin necesidad de aceptarlos."
+        },
+        {
+          "id": "w119_c",
+          "text": "Significa comprender los valores del otro y aceptarlos como los de uno mismo."
+        },
+        {
+          "id": "w119_d",
+          "text": "Significa comunicarse usando frases autoafirmativas"
+        }
+      ],
+      "correctOptionId": "w119_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w120",
+      "originNumber": 120,
+      "originLabel": "Word · pregunta 120",
+      "question": "El principio de la mediación que hace referencia al hecho de que las personas deben acudir libremente y sin coacciones es:",
+      "chapter": "Capítulo 5. Programas y actividades de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 56",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w120_a",
+          "text": "La seguridad"
+        },
+        {
+          "id": "w120_b",
+          "text": "La confidencialidad"
+        },
+        {
+          "id": "w120_c",
+          "text": "La voluntariedad"
+        },
+        {
+          "id": "w120_d",
+          "text": "La imparcialidad"
+        }
+      ],
+      "correctOptionId": "w120_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w121",
+      "originNumber": 121,
+      "originLabel": "Word · pregunta 121",
+      "question": "El principio de la mediación llamado “simetría de poder” se refiere a:",
+      "chapter": "Capítulo 5. Programas y actividades de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 56",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w121_a",
+          "text": "Que ambos participantes se comprometan a hablar y decir la verdad."
+        },
+        {
+          "id": "w121_b",
+          "text": "Que los participantes deben tener una buena salud mental."
+        },
+        {
+          "id": "w121_c",
+          "text": "Que una parte no puede ser víctima de abuso, los participantes deben estar en igualdad de condiciones."
+        },
+        {
+          "id": "w121_d",
+          "text": "Que los participantes deben estar implicados de manera directa en el conflicto."
+        }
+      ],
+      "correctOptionId": "w121_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w122",
+      "originNumber": 122,
+      "originLabel": "Word · pregunta 122",
+      "question": "Cuando decimos que las personas que participan en la mediación deben estar implicadas en el propio conflicto, nos referimos al principio de:",
+      "chapter": "Capítulo 5. Programas y actividades de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 56",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w122_a",
+          "text": "Participación indirecta"
+        },
+        {
+          "id": "w122_b",
+          "text": "Participación directa"
+        },
+        {
+          "id": "w122_c",
+          "text": "Voluntariedad"
+        },
+        {
+          "id": "w122_d",
+          "text": "Confidencialidad"
+        }
+      ],
+      "correctOptionId": "w122_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w123",
+      "originNumber": 123,
+      "originLabel": "Word · pregunta 123",
+      "question": "Una actividad práctica para aprender a mediar en conflictos podría ser:",
+      "chapter": "Capítulo 5. Programas y actividades de mediación escolar",
+      "sourceGroup": "Manual",
+      "sourceDetail": "Manual, pág. 57",
+      "sourceType": "manual",
+      "options": [
+        {
+          "id": "w123_a",
+          "text": "Una explicación sobre los pasos de la mediación"
+        },
+        {
+          "id": "w123_b",
+          "text": "Una charla sobre la mediación"
+        },
+        {
+          "id": "w123_c",
+          "text": "Una dramatización del proceso de la mediación"
+        },
+        {
+          "id": "w123_d",
+          "text": "Una presentación sobre la mediación apoyada en Power Point"
+        }
+      ],
+      "correctOptionId": "w123_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w124",
+      "originNumber": 124,
+      "originLabel": "Word · pregunta 124",
+      "question": "Uno de los retos en cuanto a la investigación sobre mediación escolar sigue siendo:",
+      "chapter": "Artículo AA1",
+      "sourceGroup": "Artículo AA1",
+      "sourceDetail": "Artículo",
+      "sourceType": "article",
+      "options": [
+        {
+          "id": "w124_a",
+          "text": "Aumentar la participación del alumnado en cuestiones estructurales y culturales."
+        },
+        {
+          "id": "w124_b",
+          "text": "Conseguir igualar la participación de chicos y chicas como mediadores."
+        },
+        {
+          "id": "w124_c",
+          "text": "Ahondar en el rechazo que puede crear la figura del mediador/a."
+        },
+        {
+          "id": "w124_d",
+          "text": "Todas las opciones son correctas."
+        }
+      ],
+      "correctOptionId": "w124_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w125",
+      "originNumber": 125,
+      "originLabel": "Word · pregunta 125",
+      "question": "En cuanto a la mediación y resolución de conflictos, diferentes investigaciones muestran que el profesorado suele:",
+      "chapter": "Artículo AA1",
+      "sourceGroup": "Artículo AA1",
+      "sourceDetail": "Artículo",
+      "sourceType": "article",
+      "options": [
+        {
+          "id": "w125_a",
+          "text": "Tener pocas respuestas para las diversas situaciones conflictivas de sus aulas."
+        },
+        {
+          "id": "w125_b",
+          "text": "Contar con multitud de estrategias de intervención."
+        },
+        {
+          "id": "w125_c",
+          "text": "Estar muy preparado."
+        },
+        {
+          "id": "w125_d",
+          "text": "Ninguna opción es correcta."
+        }
+      ],
+      "correctOptionId": "w125_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w126",
+      "originNumber": 126,
+      "originLabel": "Word · pregunta 126",
+      "question": "¿Cuál de los siguientes aspectos NO es algo que se necesite mejorar en cuanto a la mediación?",
+      "chapter": "Artículo AA1",
+      "sourceGroup": "Artículo AA1",
+      "sourceDetail": "Artículo",
+      "sourceType": "article",
+      "options": [
+        {
+          "id": "w126_a",
+          "text": "La formación del alumnado mediador."
+        },
+        {
+          "id": "w126_b",
+          "text": "La valoración que hacen los propios mediadores."
+        },
+        {
+          "id": "w126_c",
+          "text": "La ampliación de las funciones de los mediadores."
+        },
+        {
+          "id": "w126_d",
+          "text": "La valoración de la mediación por parte del profesorado."
+        }
+      ],
+      "correctOptionId": "w126_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w127",
+      "originNumber": 127,
+      "originLabel": "Word · pregunta 127",
+      "question": "Señala cuál de los siguientes resultados NO se obtuvieron en el estudio de García- Raga et al. (2018) sobre la opinión del alumnado mediador:",
+      "chapter": "Artículo AA1",
+      "sourceGroup": "Artículo AA1",
+      "sourceDetail": "Artículo",
+      "sourceType": "article",
+      "options": [
+        {
+          "id": "w127_a",
+          "text": "La totalidad del alumnado no ha sido formado."
+        },
+        {
+          "id": "w127_b",
+          "text": "Predomina la violencia directa en cuanto al tipo de conflicto a resolver."
+        },
+        {
+          "id": "w127_c",
+          "text": "En general, se da una valoración muy positiva sobre la mediación."
+        },
+        {
+          "id": "w127_d",
+          "text": "Son más chicos que chicas los que ejercen el papel de mediadores."
+        }
+      ],
+      "correctOptionId": "w127_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w128",
+      "originNumber": 128,
+      "originLabel": "Word · pregunta 128",
+      "question": "El instrumento utilizado para recoger las opiniones de los estudiantes mediadores fue:",
+      "chapter": "Artículo AA1",
+      "sourceGroup": "Artículo AA1",
+      "sourceDetail": "Artículo",
+      "sourceType": "article",
+      "options": [
+        {
+          "id": "w128_a",
+          "text": "Una entrevista grupal."
+        },
+        {
+          "id": "w128_b",
+          "text": "Un cuestionario creado específicamente para el estudio."
+        },
+        {
+          "id": "w128_c",
+          "text": "Una entrevista individual."
+        },
+        {
+          "id": "w128_d",
+          "text": "Una hoja de registro observacional."
+        }
+      ],
+      "correctOptionId": "w128_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w129",
+      "originNumber": 129,
+      "originLabel": "Word · pregunta 129",
+      "question": "Siguiendo el marco teórico del estudio, la mediación es una estrategia que enseña a resolver conflictos de manera:",
+      "chapter": "Artículo AA1",
+      "sourceGroup": "Artículo AA1",
+      "sourceDetail": "Artículo",
+      "sourceType": "article",
+      "options": [
+        {
+          "id": "w129_a",
+          "text": "Comunicativa y obligatoria."
+        },
+        {
+          "id": "w129_b",
+          "text": "Comunicativa, participativa y autónoma."
+        },
+        {
+          "id": "w129_c",
+          "text": "Comunicativa, dependiente y libre."
+        },
+        {
+          "id": "w129_d",
+          "text": "Autónoma e individual."
+        }
+      ],
+      "correctOptionId": "w129_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w130",
+      "originNumber": 130,
+      "originLabel": "Word · pregunta 130",
+      "question": "Se encuentra que la mediación es más efectiva en el ámbito de:",
+      "chapter": "Artículo AA1",
+      "sourceGroup": "Artículo AA1",
+      "sourceDetail": "Artículo",
+      "sourceType": "article",
+      "options": [
+        {
+          "id": "w130_a",
+          "text": "Las relaciones interpersonales."
+        },
+        {
+          "id": "w130_b",
+          "text": "Las situaciones de enseñanza-aprendizaje."
+        },
+        {
+          "id": "w130_c",
+          "text": "Cuestiones de desafío a la autoridad."
+        },
+        {
+          "id": "w130_d",
+          "text": "Cuestiones estructurales y culturales."
+        }
+      ],
+      "correctOptionId": "w130_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w131",
+      "originNumber": 131,
+      "originLabel": "Word · pregunta 131",
+      "question": "En general, el alumnado mediador valora el proceso de la mediación como:",
+      "chapter": "Artículo AA1",
+      "sourceGroup": "Artículo AA1",
+      "sourceDetail": "Artículo",
+      "sourceType": "article",
+      "options": [
+        {
+          "id": "w131_a",
+          "text": "Muy positiva."
+        },
+        {
+          "id": "w131_b",
+          "text": "Negativa."
+        },
+        {
+          "id": "w131_c",
+          "text": "Regular."
+        },
+        {
+          "id": "w131_d",
+          "text": "Muy negativa."
+        }
+      ],
+      "correctOptionId": "w131_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w132",
+      "originNumber": 132,
+      "originLabel": "Word · pregunta 132",
+      "question": "Una de las hipótesis de las investigadoras era que se darían diferentes opiniones sobre la mediación según la provincia. Esto se debería a:",
+      "chapter": "Artículo AA1",
+      "sourceGroup": "Artículo AA1",
+      "sourceDetail": "Artículo",
+      "sourceType": "article",
+      "options": [
+        {
+          "id": "w132_a",
+          "text": "Las diferencias en el rendimiento académico."
+        },
+        {
+          "id": "w132_b",
+          "text": "La singularidad cultural de cada provincia."
+        },
+        {
+          "id": "w132_c",
+          "text": "Las diferencias socioeconómicas entre el alumnado."
+        },
+        {
+          "id": "w132_d",
+          "text": "La falta de normativa estatal consensuada sobre la mediación escolar."
+        }
+      ],
+      "correctOptionId": "w132_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w133",
+      "originNumber": 133,
+      "originLabel": "Word · pregunta 133",
+      "question": "Según el marco teórico del estudio, el conflicto debe considerarse como algo:",
+      "chapter": "Artículo AA1",
+      "sourceGroup": "Artículo AA1",
+      "sourceDetail": "Artículo",
+      "sourceType": "article",
+      "options": [
+        {
+          "id": "w133_a",
+          "text": "Negativo."
+        },
+        {
+          "id": "w133_b",
+          "text": "Malo."
+        },
+        {
+          "id": "w133_c",
+          "text": "Ni bueno ni malo, lo importante es cómo se gestiona."
+        },
+        {
+          "id": "w133_d",
+          "text": "Muy positivo."
+        }
+      ],
+      "correctOptionId": "w133_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w134",
+      "originNumber": 134,
+      "originLabel": "Word · pregunta 134",
+      "question": "¿Cuál es la edad media de los mediadores?",
+      "chapter": "Artículo AA1",
+      "sourceGroup": "Artículo AA1",
+      "sourceDetail": "Artículo",
+      "sourceType": "article",
+      "options": [
+        {
+          "id": "w134_a",
+          "text": "18 años."
+        },
+        {
+          "id": "w134_b",
+          "text": "22 años."
+        },
+        {
+          "id": "w134_c",
+          "text": "12 años."
+        },
+        {
+          "id": "w134_d",
+          "text": "15,28 años."
+        }
+      ],
+      "correctOptionId": "w134_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w135",
+      "originNumber": 135,
+      "originLabel": "Word · pregunta 135",
+      "question": "¿Qué tipo de conflicto fue señalado con mayor frecuencia como origen de las mediaciones?",
+      "chapter": "Artículo AA1",
+      "sourceGroup": "Artículo AA1",
+      "sourceDetail": "Artículo",
+      "sourceType": "article",
+      "options": [
+        {
+          "id": "w135_a",
+          "text": "Rumores (48,3%)"
+        },
+        {
+          "id": "w135_b",
+          "text": "Peleas físicas (38,3%)"
+        },
+        {
+          "id": "w135_c",
+          "text": "Razones culturales (13,5%)"
+        },
+        {
+          "id": "w135_d",
+          "text": "Insultos (65,7%)"
+        }
+      ],
+      "correctOptionId": "w135_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w136",
+      "originNumber": 136,
+      "originLabel": "Word · pregunta 136",
+      "question": "¿Cuál fue el motivo principal por el que un estudiante llegó a ser mediador/a?",
+      "chapter": "Artículo AA1",
+      "sourceGroup": "Artículo AA1",
+      "sourceDetail": "Artículo",
+      "sourceType": "article",
+      "options": [
+        {
+          "id": "w136_a",
+          "text": "Propuesta de otro mediador (12,8%)"
+        },
+        {
+          "id": "w136_b",
+          "text": "Propuesta de un profesor/a (32%)"
+        },
+        {
+          "id": "w136_c",
+          "text": "Por curiosidad (17,7%)"
+        },
+        {
+          "id": "w136_d",
+          "text": "Presentarse voluntario (28,6%)"
+        }
+      ],
+      "correctOptionId": "w136_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w137",
+      "originNumber": 137,
+      "originLabel": "Word · pregunta 137",
+      "question": "¿Qué ventaja valora menos el alumnado mediador?",
+      "chapter": "Artículo AA1",
+      "sourceGroup": "Artículo AA1",
+      "sourceDetail": "Artículo",
+      "sourceType": "article",
+      "options": [
+        {
+          "id": "w137_a",
+          "text": "Confianza de compañeros."
+        },
+        {
+          "id": "w137_b",
+          "text": "Reconocimiento del profesorado."
+        },
+        {
+          "id": "w137_c",
+          "text": "Perder horas de clase."
+        },
+        {
+          "id": "w137_d",
+          "text": "Comprensión de la familia."
+        }
+      ],
+      "correctOptionId": "w137_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w138",
+      "originNumber": 138,
+      "originLabel": "Word · pregunta 138",
+      "question": "¿En qué comunidades se realizó el estudio?",
+      "chapter": "Artículo AA1",
+      "sourceGroup": "Artículo AA1",
+      "sourceDetail": "Artículo",
+      "sourceType": "article",
+      "options": [
+        {
+          "id": "w138_a",
+          "text": "Comunidad Valenciana: Valencia, Castellón y Alicante."
+        },
+        {
+          "id": "w138_b",
+          "text": "Navarra, Galicia y Castilla-La Mancha."
+        },
+        {
+          "id": "w138_c",
+          "text": "Andalucía, Aragón y Murcia."
+        },
+        {
+          "id": "w138_d",
+          "text": "País Vasco, Madrid y Cataluña."
+        }
+      ],
+      "correctOptionId": "w138_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w139",
+      "originNumber": 139,
+      "originLabel": "Word · pregunta 139",
+      "question": "¿Qué curso concentraba más alumnado mediador?",
+      "chapter": "Artículo AA1",
+      "sourceGroup": "Artículo AA1",
+      "sourceDetail": "Artículo",
+      "sourceType": "article",
+      "options": [
+        {
+          "id": "w139_a",
+          "text": "1º de Bachillerato."
+        },
+        {
+          "id": "w139_b",
+          "text": "2º de Bachillerato."
+        },
+        {
+          "id": "w139_c",
+          "text": "1º de ESO."
+        },
+        {
+          "id": "w139_d",
+          "text": "4º de ESO."
+        }
+      ],
+      "correctOptionId": "w139_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w140",
+      "originNumber": 140,
+      "originLabel": "Word · pregunta 140",
+      "question": "¿Cuántos estudiantes participaron en la muestra?",
+      "chapter": "Artículo AA1",
+      "sourceGroup": "Artículo AA1",
+      "sourceDetail": "Artículo",
+      "sourceType": "article",
+      "options": [
+        {
+          "id": "w140_a",
+          "text": "310"
+        },
+        {
+          "id": "w140_b",
+          "text": "223"
+        },
+        {
+          "id": "w140_c",
+          "text": "100"
+        },
+        {
+          "id": "w140_d",
+          "text": "150"
+        }
+      ],
+      "correctOptionId": "w140_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w141",
+      "originNumber": 141,
+      "originLabel": "Word · pregunta 141",
+      "question": "¿Qué provincia se caracteriza por un mayor número de procesos de mediación realizados por el alumnado?",
+      "chapter": "Artículo AA1",
+      "sourceGroup": "Artículo AA1",
+      "sourceDetail": "Artículo",
+      "sourceType": "article",
+      "options": [
+        {
+          "id": "w141_a",
+          "text": "Alicante."
+        },
+        {
+          "id": "w141_b",
+          "text": "Valencia."
+        },
+        {
+          "id": "w141_c",
+          "text": "Castellón."
+        },
+        {
+          "id": "w141_d",
+          "text": "Ninguna, todas iguales."
+        }
+      ],
+      "correctOptionId": "w141_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w142",
+      "originNumber": 142,
+      "originLabel": "Word · pregunta 142",
+      "question": "¿Qué porcentaje de alumnado mediador afirmó haber participado en dos o menos procesos de mediación?",
+      "chapter": "Artículo AA1",
+      "sourceGroup": "Artículo AA1",
+      "sourceDetail": "Artículo",
+      "sourceType": "article",
+      "options": [
+        {
+          "id": "w142_a",
+          "text": "62,2 %"
+        },
+        {
+          "id": "w142_b",
+          "text": "83,6 %"
+        },
+        {
+          "id": "w142_c",
+          "text": "32,2 %"
+        },
+        {
+          "id": "w142_d",
+          "text": "47,9 %"
+        }
+      ],
+      "correctOptionId": "w142_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w143",
+      "originNumber": 143,
+      "originLabel": "Word · pregunta 143",
+      "question": "¿Qué porcentaje de alumnado afirma que la formación es condición indispensable?",
+      "chapter": "Artículo AA1",
+      "sourceGroup": "Artículo AA1",
+      "sourceDetail": "Artículo",
+      "sourceType": "article",
+      "options": [
+        {
+          "id": "w143_a",
+          "text": "50 %"
+        },
+        {
+          "id": "w143_b",
+          "text": "Más del 80%"
+        },
+        {
+          "id": "w143_c",
+          "text": "No se menciona."
+        },
+        {
+          "id": "w143_d",
+          "text": "20 %"
+        }
+      ],
+      "correctOptionId": "w143_c",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w144",
+      "originNumber": 144,
+      "originLabel": "Word · pregunta 144",
+      "question": "¿Cuál fue el origen principal de los programas pioneros en España?",
+      "chapter": "Artículo AA1",
+      "sourceGroup": "Artículo AA1",
+      "sourceDetail": "Artículo",
+      "sourceType": "article",
+      "options": [
+        {
+          "id": "w144_a",
+          "text": "País Vasco, con el centro Gernika Gogoratuz (1993)."
+        },
+        {
+          "id": "w144_b",
+          "text": "Andalucía."
+        },
+        {
+          "id": "w144_c",
+          "text": "Comunidad de Madrid."
+        },
+        {
+          "id": "w144_d",
+          "text": "Cataluña."
+        }
+      ],
+      "correctOptionId": "w144_a",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w145",
+      "originNumber": 145,
+      "originLabel": "Word · pregunta 145",
+      "question": "¿Cuál es el principal objetivo del artículo?",
+      "chapter": "Artículo AA1",
+      "sourceGroup": "Artículo AA1",
+      "sourceDetail": "Artículo",
+      "sourceType": "article",
+      "options": [
+        {
+          "id": "w145_a",
+          "text": "Estudiar la mediación internacional."
+        },
+        {
+          "id": "w145_b",
+          "text": "Evaluar la perspectiva del alumnado mediador de secundaria."
+        },
+        {
+          "id": "w145_c",
+          "text": "Analizar los conflictos familiares."
+        },
+        {
+          "id": "w145_d",
+          "text": "Conocer la percepción del profesorado sobre la mediación."
+        }
+      ],
+      "correctOptionId": "w145_b",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w146",
+      "originNumber": 146,
+      "originLabel": "Word · pregunta 146",
+      "question": "¿Qué porcentaje se hizo mediador porque se lo propuso un profesor?",
+      "chapter": "Artículo AA1",
+      "sourceGroup": "Artículo AA1",
+      "sourceDetail": "Artículo",
+      "sourceType": "article",
+      "options": [
+        {
+          "id": "w146_a",
+          "text": "12 %"
+        },
+        {
+          "id": "w146_b",
+          "text": "50 %"
+        },
+        {
+          "id": "w146_c",
+          "text": "17 %"
+        },
+        {
+          "id": "w146_d",
+          "text": "32%."
+        }
+      ],
+      "correctOptionId": "w146_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "w147",
+      "originNumber": 147,
+      "originLabel": "Word · pregunta 147",
+      "question": "¿Qué porcentaje se ha sentido criticado por ser mediador?",
+      "chapter": "Artículo AA1",
+      "sourceGroup": "Artículo AA1",
+      "sourceDetail": "Artículo",
+      "sourceType": "article",
+      "options": [
+        {
+          "id": "w147_a",
+          "text": "70 %"
+        },
+        {
+          "id": "w147_b",
+          "text": "50 %"
+        },
+        {
+          "id": "w147_c",
+          "text": "10 %"
+        },
+        {
+          "id": "w147_d",
+          "text": "23,3 %"
+        }
+      ],
+      "correctOptionId": "w147_d",
+      "explanation": "",
+      "hasExplanation": false
+    },
+    {
+      "id": "h001",
+      "originNumber": 1,
+      "originLabel": "HTML · pregunta 1",
+      "question": "¿Qué caracteriza al conflicto escolar según el manual?",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h001_a",
+          "text": "Una situación de tensión que se explica por diferencias de rendimiento académico."
+        },
+        {
+          "id": "h001_b",
+          "text": "Una conducta agresiva con daño físico entre estudiantes."
+        },
+        {
+          "id": "h001_c",
+          "text": "Una discrepancia entre miembros de la comunidad educativa por intereses o valores incompatibles."
+        },
+        {
+          "id": "h001_d",
+          "text": "Una infracción de las normas que exige una sanción disciplinaria."
+        }
+      ],
+      "correctOptionId": "h001_c",
+      "explanation": "El conflicto implica desacuerdo entre personas o grupos por intereses, metas, valores, emociones o conductas contrapuestas. Puede desarrollarse sin agresión y no equivale necesariamente a violencia.",
+      "hasExplanation": true,
+      "topic": "Concepto de conflicto"
+    },
+    {
+      "id": "h002",
+      "originNumber": 2,
+      "originLabel": "HTML · pregunta 2",
+      "question": "Dos alumnos discrepan sobre el reparto de tareas y dialogan sin agredirse. ¿Cómo se interpreta?",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h002_a",
+          "text": "Como violencia verbal encubierta."
+        },
+        {
+          "id": "h002_b",
+          "text": "Una discrepancia que requiere analizar los intereses y las necesidades de las partes."
+        },
+        {
+          "id": "h002_c",
+          "text": "Como un conflicto que puede resolverse constructivamente."
+        },
+        {
+          "id": "h002_d",
+          "text": "Como un problema disciplinario grave."
+        }
+      ],
+      "correctOptionId": "h002_c",
+      "explanation": "La discrepancia es un conflicto, pero la violencia requiere una dimensión de daño o agresión. El diálogo puede transformar el desacuerdo en una oportunidad de aprendizaje.",
+      "hasExplanation": true,
+      "topic": "Conflicto y violencia"
+    },
+    {
+      "id": "h003",
+      "originNumber": 3,
+      "originLabel": "HTML · pregunta 3",
+      "question": "¿De qué depende que un conflicto contribuya a mejorar la convivencia?",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h003_a",
+          "text": "De que intervenga una autoridad para imponer una solución."
+        },
+        {
+          "id": "h003_b",
+          "text": "De que las partes identifiquen las causas y acuerden cómo abordarlas."
+        },
+        {
+          "id": "h003_c",
+          "text": "De que se evite hablar de él para reducir tensiones."
+        },
+        {
+          "id": "h003_d",
+          "text": "De que se gestione mediante diálogo y estrategias constructivas."
+        }
+      ],
+      "correctOptionId": "h003_d",
+      "explanation": "El manual sostiene que el conflicto no es positivo ni negativo por sí mismo. Su efecto depende de cómo se afronte: una gestión dialogada puede desarrollar habilidades y mejorar relaciones.",
+      "hasExplanation": true,
+      "topic": "Visión positiva"
+    },
+    {
+      "id": "h004",
+      "originNumber": 4,
+      "originLabel": "HTML · pregunta 4",
+      "question": "¿Qué aprendizaje puede promover un conflicto escolar bien gestionado?",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h004_a",
+          "text": "Competencia individual para imponer la propia postura."
+        },
+        {
+          "id": "h004_b",
+          "text": "Obediencia inmediata a la figura de autoridad."
+        },
+        {
+          "id": "h004_c",
+          "text": "Identificación de intereses y toma de decisiones compartidas."
+        },
+        {
+          "id": "h004_d",
+          "text": "Comunicación, razonamiento y resolución pacífica de problemas."
+        }
+      ],
+      "correctOptionId": "h004_d",
+      "explanation": "El enfoque positivo destaca habilidades comunicativas, razonamiento y resolución de problemas. Estas competencias son transferibles a situaciones familiares, laborales y sociales.",
+      "hasExplanation": true,
+      "topic": "Visión positiva"
+    },
+    {
+      "id": "h005",
+      "originNumber": 5,
+      "originLabel": "HTML · pregunta 5",
+      "question": "Un estudiante copia en un examen. Según la clasificación del manual, ¿dónde encaja?",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h005_a",
+          "text": "Conflictos entre alumnado y profesorado."
+        },
+        {
+          "id": "h005_b",
+          "text": "Conflictos entre profesorado y familias."
+        },
+        {
+          "id": "h005_c",
+          "text": "Conflictos entre iguales."
+        },
+        {
+          "id": "h005_d",
+          "text": "Conflictos con el sistema escolar."
+        }
+      ],
+      "correctOptionId": "h005_d",
+      "explanation": "Copiar en exámenes figura entre los conflictos con el sistema escolar, al afectar al funcionamiento y las normas de la institución educativa.",
+      "hasExplanation": true,
+      "topic": "Tipos de conflicto"
+    },
+    {
+      "id": "h006",
+      "originNumber": 6,
+      "originLabel": "HTML · pregunta 6",
+      "question": "Dos compañeros se insultan durante un trabajo en grupo. ¿Qué clasificación por agentes corresponde?",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h006_a",
+          "text": "Conflicto entre familiares y docentes."
+        },
+        {
+          "id": "h006_b",
+          "text": "Conflicto entre alumnado y personal del centro."
+        },
+        {
+          "id": "h006_c",
+          "text": "Conflicto entre iguales."
+        },
+        {
+          "id": "h006_d",
+          "text": "Conflicto entre docentes."
+        }
+      ],
+      "correctOptionId": "h006_c",
+      "explanation": "Los insultos entre estudiantes se encuadran en conflictos entre iguales. La clasificación por agentes distingue quiénes participan en el problema.",
+      "hasExplanation": true,
+      "topic": "Tipos de conflicto"
+    },
+    {
+      "id": "h008",
+      "originNumber": 8,
+      "originLabel": "HTML · pregunta 8",
+      "question": "¿Qué elemento distingue especialmente el acoso escolar de un desacuerdo ordinario?",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h008_a",
+          "text": "La participación de más de dos estudiantes."
+        },
+        {
+          "id": "h008_b",
+          "text": "La presencia de desacuerdo sobre una norma."
+        },
+        {
+          "id": "h008_c",
+          "text": "La persistencia del desacuerdo y la dificultad para alcanzar un compromiso."
+        },
+        {
+          "id": "h008_d",
+          "text": "La asimetría de poder junto con daño intencional y reiterado."
+        }
+      ],
+      "correctOptionId": "h008_d",
+      "explanation": "El manual destaca la asimetría de poder previa y la victimización intencionada y repetida. No es una negociación entre partes en igualdad de condiciones.",
+      "hasExplanation": true,
+      "topic": "Acoso escolar"
+    },
+    {
+      "id": "h009",
+      "originNumber": 9,
+      "originLabel": "HTML · pregunta 9",
+      "question": "Ante un caso de acoso con clara desigualdad de poder, ¿qué decisión se ajusta al manual?",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h009_a",
+          "text": "Pedir a la víctima que acepte una solución de compromiso."
+        },
+        {
+          "id": "h009_b",
+          "text": "Plantear un diálogo con garantías y supervisión del equipo de convivencia."
+        },
+        {
+          "id": "h009_c",
+          "text": "Activar medidas de protección y evitar plantear la mediación ordinaria como respuesta inicial."
+        },
+        {
+          "id": "h009_d",
+          "text": "Solicitar a víctima y agresor que negocien cara a cara sin apoyos."
+        }
+      ],
+      "correctOptionId": "h009_c",
+      "explanation": "La mediación exige equilibrio de poder y libertad para expresarse. En el acoso, esa condición no se cumple; el manual desaconseja, en principio, la mediación convencional.",
+      "hasExplanation": true,
+      "topic": "Límites de mediación"
+    },
+    {
+      "id": "h010",
+      "originNumber": 10,
+      "originLabel": "HTML · pregunta 10",
+      "question": "Dos personas mantienen una tensión persistente, dejan de hablarse y no explican el motivo. ¿Qué tipo de conflicto es?",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h010_a",
+          "text": "Abierto, porque la tensión afecta a la relación entre las personas."
+        },
+        {
+          "id": "h010_b",
+          "text": "De rendimiento, porque afecta a la comunicación."
+        },
+        {
+          "id": "h010_c",
+          "text": "Cerrado, porque permanece oculto o reprimido."
+        },
+        {
+          "id": "h010_d",
+          "text": "Abierto, porque las partes se conocen."
+        }
+      ],
+      "correctOptionId": "h010_c",
+      "explanation": "Los conflictos cerrados se manifiestan en un clima tenso sin expresión clara de la discrepancia. Los abiertos son visibles, como discusiones o peleas.",
+      "hasExplanation": true,
+      "topic": "Conflictos abiertos y cerrados"
+    },
+    {
+      "id": "h011",
+      "originNumber": 11,
+      "originLabel": "HTML · pregunta 11",
+      "question": "¿Cómo describe el manual las causas de la conflictividad escolar?",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h011_a",
+          "text": "Como una consecuencia directa de las normas disciplinarias."
+        },
+        {
+          "id": "h011_b",
+          "text": "Como el resultado principal de la personalidad del alumnado."
+        },
+        {
+          "id": "h011_c",
+          "text": "Como una interacción entre las características personales y el clima de aula."
+        },
+        {
+          "id": "h011_d",
+          "text": "Como un fenómeno multicausal con factores escolares, personales, familiares y sociales."
+        }
+      ],
+      "correctOptionId": "h011_d",
+      "explanation": "La conflictividad es multicausal: intervienen organización del centro, profesorado, alumnado, familias y contexto social. Reducirla a una sola causa empobrece el análisis.",
+      "hasExplanation": true,
+      "topic": "Causas del conflicto"
+    },
+    {
+      "id": "h012",
+      "originNumber": 12,
+      "originLabel": "HTML · pregunta 12",
+      "question": "La escasa coordinación entre departamentos y la falta de normas consensuadas son causas relacionadas con…",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h012_a",
+          "text": "La organización del centro."
+        },
+        {
+          "id": "h012_b",
+          "text": "La preparación del profesorado para resolver desacuerdos."
+        },
+        {
+          "id": "h012_c",
+          "text": "El contexto económico familiar."
+        },
+        {
+          "id": "h012_d",
+          "text": "Las características personales del alumnado."
+        }
+      ],
+      "correctOptionId": "h012_a",
+      "explanation": "Ambos elementos pertenecen a las causas organizativas del centro. El manual distingue este plano de los factores individuales, familiares y sociales.",
+      "hasExplanation": true,
+      "topic": "Causas del conflicto"
+    },
+    {
+      "id": "h013",
+      "originNumber": 13,
+      "originLabel": "HTML · pregunta 13",
+      "question": "¿Qué pretende el estilo integrador de gestión del conflicto?",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h013_a",
+          "text": "Priorizar la solución que preserve la relación entre las partes."
+        },
+        {
+          "id": "h013_b",
+          "text": "Que se suspenda la discusión hasta que desaparezca."
+        },
+        {
+          "id": "h013_c",
+          "text": "Que una parte ceda para terminar rápidamente."
+        },
+        {
+          "id": "h013_d",
+          "text": "Encontrar una solución que atienda las necesidades de ambas partes."
+        }
+      ],
+      "correctOptionId": "h013_d",
+      "explanation": "El estilo integrador o cooperativo combina preocupación por las propias necesidades y por las ajenas, y busca alternativas beneficiosas para ambas partes.",
+      "hasExplanation": true,
+      "topic": "Estilos de gestión"
+    },
+    {
+      "id": "h014",
+      "originNumber": 14,
+      "originLabel": "HTML · pregunta 14",
+      "question": "Una alumna acepta la postura de otra porque comprende sus razones. ¿Qué estrategia del manual ejemplifica?",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h014_a",
+          "text": "Negociación para alcanzar un acuerdo intermedio."
+        },
+        {
+          "id": "h014_b",
+          "text": "Afirmación de poder."
+        },
+        {
+          "id": "h014_c",
+          "text": "Aceptación sin convencimiento."
+        },
+        {
+          "id": "h014_d",
+          "text": "Adaptación con comprensión."
+        }
+      ],
+      "correctOptionId": "h014_d",
+      "explanation": "La adaptación con comprensión implica aceptar la postura ajena con convencimiento. La aceptación del estilo evitador, en cambio, se produce sin compartir realmente esa postura.",
+      "hasExplanation": true,
+      "topic": "Estilos de gestión"
+    },
+    {
+      "id": "h015",
+      "originNumber": 15,
+      "originLabel": "HTML · pregunta 15",
+      "question": "Un estudiante evita discutir, se cambia de sitio y deja el problema sin abordar. ¿Qué estrategia utiliza?",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h015_a",
+          "text": "Persuasión."
+        },
+        {
+          "id": "h015_b",
+          "text": "Negociación."
+        },
+        {
+          "id": "h015_c",
+          "text": "Aceptación de la postura de la otra persona."
+        },
+        {
+          "id": "h015_d",
+          "text": "Evasión."
+        }
+      ],
+      "correctOptionId": "h015_d",
+      "explanation": "La evasión supone ignorar, rehuir o restar importancia al conflicto. No debe confundirse con la negociación, que busca un punto de acuerdo.",
+      "hasExplanation": true,
+      "topic": "Estilos de gestión"
+    },
+    {
+      "id": "h016",
+      "originNumber": 16,
+      "originLabel": "HTML · pregunta 16",
+      "question": "¿Qué estilo muestra una persona que prioriza sus intereses y desatiende los de la otra parte?",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h016_a",
+          "text": "Integrativo."
+        },
+        {
+          "id": "h016_b",
+          "text": "Acomodativo."
+        },
+        {
+          "id": "h016_c",
+          "text": "Evitativo."
+        },
+        {
+          "id": "h016_d",
+          "text": "Dominante."
+        }
+      ],
+      "correctOptionId": "h016_d",
+      "explanation": "El estilo dominante presenta alta preocupación por uno mismo y baja por los demás. El acomodativo responde al patrón inverso.",
+      "hasExplanation": true,
+      "topic": "Estilos de gestión"
+    },
+    {
+      "id": "h017",
+      "originNumber": 17,
+      "originLabel": "HTML · pregunta 17",
+      "question": "¿Cuál es un ejemplo de meta a largo plazo en la resolución de conflictos?",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h017_a",
+          "text": "Castigar de inmediato a quien se considera responsable."
+        },
+        {
+          "id": "h017_b",
+          "text": "Reducir la tensión emocional en el momento del conflicto."
+        },
+        {
+          "id": "h017_c",
+          "text": "Mantener la relación y favorecer la reflexión de la otra persona."
+        },
+        {
+          "id": "h017_d",
+          "text": "Evitar una emoción desagradable en ese momento."
+        }
+      ],
+      "correctOptionId": "h017_c",
+      "explanation": "El manual distingue metas inmediatas, como evitar sufrir o castigar, y metas a largo plazo, como preservar vínculos, respetar normas y promover reflexión.",
+      "hasExplanation": true,
+      "topic": "Metas del conflicto"
+    },
+    {
+      "id": "h018",
+      "originNumber": 18,
+      "originLabel": "HTML · pregunta 18",
+      "question": "En el modelo de dos ejes, ¿qué combinación describe el estilo acomodativo?",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h018_a",
+          "text": "Alta preocupación por ambas partes."
+        },
+        {
+          "id": "h018_b",
+          "text": "Alta preocupación por uno mismo y baja por la otra parte."
+        },
+        {
+          "id": "h018_c",
+          "text": "Baja preocupación por ambas partes."
+        },
+        {
+          "id": "h018_d",
+          "text": "Baja preocupación por uno mismo y alta por la otra parte."
+        }
+      ],
+      "correctOptionId": "h018_d",
+      "explanation": "El estilo acomodativo prioriza las necesidades ajenas dejando en segundo plano las propias. Es distinto del evitativo, que muestra baja preocupación por ambas.",
+      "hasExplanation": true,
+      "topic": "Estilos de gestión"
+    },
+    {
+      "id": "h019",
+      "originNumber": 19,
+      "originLabel": "HTML · pregunta 19",
+      "question": "¿Qué idea destaca el Informe Delors en relación con la convivencia?",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h019_a",
+          "text": "La convivencia se logra aumentando las sanciones."
+        },
+        {
+          "id": "h019_b",
+          "text": "Aprender a convivir es un pilar de la educación."
+        },
+        {
+          "id": "h019_c",
+          "text": "La convivencia depende del rendimiento académico."
+        },
+        {
+          "id": "h019_d",
+          "text": "Aprender a participar en las decisiones es una competencia educativa."
+        }
+      ],
+      "correctOptionId": "h019_b",
+      "explanation": "El Informe Delors destaca aprender a vivir juntos como pilar educativo. La convivencia es un aprendizaje en sí mismo y favorece otros aprendizajes.",
+      "hasExplanation": true,
+      "topic": "Convivencia escolar"
+    },
+    {
+      "id": "h020",
+      "originNumber": 20,
+      "originLabel": "HTML · pregunta 20",
+      "question": "¿Cómo se entiende la convivencia escolar en el enfoque amplio del manual?",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h020_a",
+          "text": "Como un conjunto de normas para regular las relaciones del centro."
+        },
+        {
+          "id": "h020_b",
+          "text": "Como la ausencia de expedientes disciplinarios."
+        },
+        {
+          "id": "h020_c",
+          "text": "Como la construcción de una paz duradera mediante prácticas inclusivas y participativas."
+        },
+        {
+          "id": "h020_d",
+          "text": "Como el cumplimiento de las normas de aula durante las clases."
+        }
+      ],
+      "correctOptionId": "h020_c",
+      "explanation": "La convivencia comprende relaciones, inclusión, equidad, participación y gestión constructiva del conflicto; va mucho más allá de evitar incidentes.",
+      "hasExplanation": true,
+      "topic": "Convivencia escolar"
+    },
+    {
+      "id": "h022",
+      "originNumber": 22,
+      "originLabel": "HTML · pregunta 22",
+      "question": "¿Qué dimensión negativa alude a comportamientos que alteran el orden establecido?",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h022_a",
+          "text": "Disruptividad."
+        },
+        {
+          "id": "h022_b",
+          "text": "Ajuste a las normas."
+        },
+        {
+          "id": "h022_c",
+          "text": "Indisciplina."
+        },
+        {
+          "id": "h022_d",
+          "text": "Gestión interpersonal positiva."
+        }
+      ],
+      "correctOptionId": "h022_a",
+      "explanation": "La disruptividad describe conductas que perturban el orden. Es una dimensión negativa diferente de la indisciplina, la victimización o la agresión.",
+      "hasExplanation": true,
+      "topic": "Escala de convivencia"
+    },
+    {
+      "id": "h023",
+      "originNumber": 23,
+      "originLabel": "HTML · pregunta 23",
+      "question": "¿Qué dimensión se refiere al desinterés o incompetencia profesional del profesorado percibida por el alumnado?",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h023_a",
+          "text": "La prevención de conductas disruptivas mediante actuaciones de aula."
+        },
+        {
+          "id": "h023_b",
+          "text": "Desidia docente."
+        },
+        {
+          "id": "h023_c",
+          "text": "Agresión."
+        },
+        {
+          "id": "h023_d",
+          "text": "Victimización."
+        }
+      ],
+      "correctOptionId": "h023_b",
+      "explanation": "El manual define la desidia docente como desinterés o incompetencia profesional observada por los estudiantes, y la incluye entre las dimensiones negativas.",
+      "hasExplanation": true,
+      "topic": "Escala de convivencia"
+    },
+    {
+      "id": "h024",
+      "originNumber": 24,
+      "originLabel": "HTML · pregunta 24",
+      "question": "Según la escala presentada, ¿qué dimensión positiva tiene especial relevancia?",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h024_a",
+          "text": "La reducción de actividades grupales."
+        },
+        {
+          "id": "h024_b",
+          "text": "La gestión interpersonal positiva del profesorado."
+        },
+        {
+          "id": "h024_c",
+          "text": "La respuesta coordinada ante situaciones que afectan a la convivencia."
+        },
+        {
+          "id": "h024_d",
+          "text": "La aplicación uniforme de sanciones."
+        }
+      ],
+      "correctOptionId": "h024_b",
+      "explanation": "La gestión interpersonal positiva del profesorado se destaca como el factor más importante: incluye comunicación adecuada, ejemplo personal y atención a alumnado y familias.",
+      "hasExplanation": true,
+      "topic": "Rol docente"
+    },
+    {
+      "id": "h025",
+      "originNumber": 25,
+      "originLabel": "HTML · pregunta 25",
+      "question": "En el modelo de convivencia, ¿qué caracteriza a la prevención primaria?",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h025_a",
+          "text": "Responder con urgencia ante un episodio grave."
+        },
+        {
+          "id": "h025_b",
+          "text": "Centro, familia y servicios de orientación."
+        },
+        {
+          "id": "h025_c",
+          "text": "Transformar prácticas pedagógicas y de gestión mediante inclusión, equidad y participación."
+        },
+        {
+          "id": "h025_d",
+          "text": "Resolver un conflicto concreto mediante técnicas de negociación."
+        }
+      ],
+      "correctOptionId": "h025_c",
+      "explanation": "El primer nivel busca crear condiciones para una paz duradera mediante inclusión, equidad y participación. La resolución de conflictos es el segundo nivel.",
+      "hasExplanation": true,
+      "topic": "Modelo de prevención"
+    },
+    {
+      "id": "h026",
+      "originNumber": 26,
+      "originLabel": "HTML · pregunta 26",
+      "question": "¿Qué acción corresponde al nivel secundario del modelo?",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h026_a",
+          "text": "Reorganizar la gestión institucional a largo plazo."
+        },
+        {
+          "id": "h026_b",
+          "text": "Contener inmediatamente un episodio de violencia."
+        },
+        {
+          "id": "h026_c",
+          "text": "La organización de un equipo de alumnado ayudante."
+        },
+        {
+          "id": "h026_d",
+          "text": "Desarrollar capacidades para resolver constructivamente conflictos."
+        }
+      ],
+      "correctOptionId": "h026_d",
+      "explanation": "La prevención secundaria se centra en la resolución de conflictos y el desarrollo de habilidades socioemocionales y de mediación.",
+      "hasExplanation": true,
+      "topic": "Modelo de prevención"
+    },
+    {
+      "id": "h028",
+      "originNumber": 28,
+      "originLabel": "HTML · pregunta 28",
+      "question": "¿Qué ámbitos de actuación distingue el modelo del manual?",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h028_a",
+          "text": "La elaboración de una memoria de convivencia al finalizar el curso."
+        },
+        {
+          "id": "h028_b",
+          "text": "Aula, centro y ámbito sociocomunitario."
+        },
+        {
+          "id": "h028_c",
+          "text": "Educación infantil, primaria y secundaria."
+        },
+        {
+          "id": "h028_d",
+          "text": "Profesorado, inspección y administración central."
+        }
+      ],
+      "correctOptionId": "h028_b",
+      "explanation": "Los tres ámbitos son aula, centro y sociocomunitario; el manual añade que el ámbito virtual puede considerarse relevante en la sociedad digital.",
+      "hasExplanation": true,
+      "topic": "Ámbitos de convivencia"
+    },
+    {
+      "id": "h029",
+      "originNumber": 29,
+      "originLabel": "HTML · pregunta 29",
+      "question": "Según el artículo 124 de la LOMLOE, ¿qué deben elaborar los centros educativos?",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h029_a",
+          "text": "Un programa de actividades tutoriales y participación familiar."
+        },
+        {
+          "id": "h029_b",
+          "text": "Un programa de mediación externa permanente."
+        },
+        {
+          "id": "h029_c",
+          "text": "Un Plan de Convivencia."
+        },
+        {
+          "id": "h029_d",
+          "text": "Un protocolo individual para cada estudiante."
+        }
+      ],
+      "correctOptionId": "h029_c",
+      "explanation": "El artículo 124 establece la elaboración del Plan de Convivencia. El manual también menciona normas obligatorias y protocolos de intervención ante violencia.",
+      "hasExplanation": true,
+      "topic": "Normativa"
+    },
+    {
+      "id": "h030",
+      "originNumber": 30,
+      "originLabel": "HTML · pregunta 30",
+      "question": "¿Qué figura aparece como obligatoria en el marco normativo resumido en el manual?",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h030_a",
+          "text": "Un coordinador o coordinadora de bienestar y protección."
+        },
+        {
+          "id": "h030_b",
+          "text": "Un delegado judicial de convivencia."
+        },
+        {
+          "id": "h030_c",
+          "text": "Una persona responsable de coordinar los acuerdos de mediación."
+        },
+        {
+          "id": "h030_d",
+          "text": "Un mediador profesional externo."
+        }
+      ],
+      "correctOptionId": "h030_a",
+      "explanation": "El manual señala las funciones del coordinador o coordinadora de bienestar y protección como figura obligatoria, junto a protocolos frente a la violencia.",
+      "hasExplanation": true,
+      "topic": "Normativa"
+    },
+    {
+      "id": "h031",
+      "originNumber": 31,
+      "originLabel": "HTML · pregunta 31",
+      "question": "Una asamblea donde el alumnado participa en la elaboración de normas es una estrategia de…",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h031_a",
+          "text": "Participación."
+        },
+        {
+          "id": "h031_b",
+          "text": "Sanción reparadora."
+        },
+        {
+          "id": "h031_c",
+          "text": "Colaboración con las familias para mejorar el clima del centro."
+        },
+        {
+          "id": "h031_d",
+          "text": "Contención."
+        }
+      ],
+      "correctOptionId": "h031_a",
+      "explanation": "Las estrategias de participación fomentan la intervención democrática de la comunidad educativa, por ejemplo, mediante asambleas y toma compartida de decisiones.",
+      "hasExplanation": true,
+      "topic": "Medidas de convivencia"
+    },
+    {
+      "id": "h032",
+      "originNumber": 32,
+      "originLabel": "HTML · pregunta 32",
+      "question": "Un taller para mejorar la regulación emocional y sensibilizar sobre el acoso se clasifica, en el esquema de medidas, como…",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h032_a",
+          "text": "Medida de evaluación normativa."
+        },
+        {
+          "id": "h032_b",
+          "text": "Estrategia de participación administrativa."
+        },
+        {
+          "id": "h032_c",
+          "text": "Estrategia de intervención."
+        },
+        {
+          "id": "h032_d",
+          "text": "Estrategia de prevención primaria."
+        }
+      ],
+      "correctOptionId": "h032_c",
+      "explanation": "El manual sitúa talleres de habilidades socioemocionales y sensibilización frente al acoso entre las estrategias de intervención para mitigar la violencia.",
+      "hasExplanation": true,
+      "topic": "Medidas de convivencia"
+    },
+    {
+      "id": "h033",
+      "originNumber": 33,
+      "originLabel": "HTML · pregunta 33",
+      "question": "¿Qué debe realizarse antes de diseñar nuevas medidas en un Plan de Convivencia?",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h033_a",
+          "text": "Diagnosticar las necesidades y la situación real del centro."
+        },
+        {
+          "id": "h033_b",
+          "text": "Identificar los recursos disponibles y definir las actividades previstas."
+        },
+        {
+          "id": "h033_c",
+          "text": "Establecer sanciones para cada conflicto."
+        },
+        {
+          "id": "h033_d",
+          "text": "Difundir los resultados del curso siguiente."
+        }
+      ],
+      "correctOptionId": "h033_a",
+      "explanation": "La fase diagnóstica identifica fortalezas, problemas, frecuencia de conflictos y necesidades. Esa información permite definir objetivos y medidas ajustados a la realidad.",
+      "hasExplanation": true,
+      "topic": "Plan de Convivencia"
+    },
+    {
+      "id": "h034",
+      "originNumber": 34,
+      "originLabel": "HTML · pregunta 34",
+      "question": "¿Qué debe recoger la fase de evaluación y seguimiento del Plan de Convivencia?",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h034_a",
+          "text": "Una lista de actividades sin criterios de seguimiento."
+        },
+        {
+          "id": "h034_b",
+          "text": "Las normas generales de conducta del alumnado."
+        },
+        {
+          "id": "h034_c",
+          "text": "Responsables, momentos, objetivos, instrumentos y fuentes de información."
+        },
+        {
+          "id": "h034_d",
+          "text": "La descripción de las medidas que se han implantado en el centro."
+        }
+      ],
+      "correctOptionId": "h034_c",
+      "explanation": "La evaluación debe indicar quién evalúa, cuándo, qué objetivos revisa, con qué instrumentos y de quién obtiene datos. Los resultados alimentan la memoria anual.",
+      "hasExplanation": true,
+      "topic": "Plan de Convivencia"
+    },
+    {
+      "id": "h035",
+      "originNumber": 35,
+      "originLabel": "HTML · pregunta 35",
+      "question": "¿Por qué la difusión de resultados es una fase importante del Plan de Convivencia?",
+      "chapter": "Capítulo 2. La convivencia escolar",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h035_a",
+          "text": "Porque informa, sensibiliza y refuerza la implicación de la comunidad educativa."
+        },
+        {
+          "id": "h035_b",
+          "text": "Porque permite prescindir de la evaluación posterior."
+        },
+        {
+          "id": "h035_c",
+          "text": "Porque reemplaza el diagnóstico inicial."
+        },
+        {
+          "id": "h035_d",
+          "text": "Porque permite ajustar las medidas a las necesidades detectadas."
+        }
+      ],
+      "correctOptionId": "h035_a",
+      "explanation": "El manual concibe el plan como un ciclo: comunicar actuaciones y resultados contribuye a sensibilizar y sostener la participación de toda la comunidad.",
+      "hasExplanation": true,
+      "topic": "Plan de Convivencia"
+    },
+    {
+      "id": "h037",
+      "originNumber": 37,
+      "originLabel": "HTML · pregunta 37",
+      "question": "¿Con qué ámbito se vinculó el impulso inicial de la mediación durante el New Deal?",
+      "chapter": "Capítulo 3. Concepto de mediación escolar",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h037_a",
+          "text": "Laboral."
+        },
+        {
+          "id": "h037_b",
+          "text": "Escolar."
+        },
+        {
+          "id": "h037_c",
+          "text": "Comunitario."
+        },
+        {
+          "id": "h037_d",
+          "text": "Deportivo."
+        }
+      ],
+      "correctOptionId": "h037_a",
+      "explanation": "La crisis de 1929 y el New Deal impulsaron mecanismos de acuerdo en conflictos laborales; después se extendió la mediación comunitaria y familiar.",
+      "hasExplanation": true,
+      "topic": "Origen de la mediación"
+    },
+    {
+      "id": "h038",
+      "originNumber": 38,
+      "originLabel": "HTML · pregunta 38",
+      "question": "¿Dónde se ofreció el primer servicio de mediación en España mencionado en el manual?",
+      "chapter": "Capítulo 3. Concepto de mediación escolar",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h038_a",
+          "text": "San Sebastián, en 1988."
+        },
+        {
+          "id": "h038_b",
+          "text": "Valencia, en 1972."
+        },
+        {
+          "id": "h038_c",
+          "text": "Madrid, en 1999."
+        },
+        {
+          "id": "h038_d",
+          "text": "Barcelona, en 1992."
+        }
+      ],
+      "correctOptionId": "h038_a",
+      "explanation": "El manual identifica el Servicio de Mediación a la familia en conflicto, en San Sebastián (País Vasco), en 1988, como el primero en España.",
+      "hasExplanation": true,
+      "topic": "Origen de la mediación"
+    },
+    {
+      "id": "h039",
+      "originNumber": 39,
+      "originLabel": "HTML · pregunta 39",
+      "question": "¿En qué comunidades españolas comenzaron a implantarse programas de mediación escolar durante los años noventa?",
+      "chapter": "Capítulo 3. Concepto de mediación escolar",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h039_a",
+          "text": "Galicia, Andalucía y Murcia."
+        },
+        {
+          "id": "h039_b",
+          "text": "Cataluña, Andalucía y Madrid."
+        },
+        {
+          "id": "h039_c",
+          "text": "Aragón, Navarra y Castilla-La Mancha."
+        },
+        {
+          "id": "h039_d",
+          "text": "País Vasco, Cataluña y Madrid."
+        }
+      ],
+      "correctOptionId": "h039_d",
+      "explanation": "El manual señala País Vasco, Cataluña y Madrid como comunidades pioneras en la implantación de programas escolares en los años noventa.",
+      "hasExplanation": true,
+      "topic": "Origen escolar"
+    },
+    {
+      "id": "h040",
+      "originNumber": 40,
+      "originLabel": "HTML · pregunta 40",
+      "question": "¿Cuál describe mejor la mediación escolar?",
+      "chapter": "Capítulo 3. Concepto de mediación escolar",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h040_a",
+          "text": "Un tercero neutral facilita la comunicación para que las partes encuentren soluciones."
+        },
+        {
+          "id": "h040_b",
+          "text": "Una autoridad determina quién incumplió las normas y establece la sanción."
+        },
+        {
+          "id": "h040_c",
+          "text": "Un equipo docente facilita el cumplimiento de acuerdos de convivencia."
+        },
+        {
+          "id": "h040_d",
+          "text": "Un profesional elabora un acuerdo y pide a las partes que lo firmen."
+        }
+      ],
+      "correctOptionId": "h040_a",
+      "explanation": "La mediación es un método no jerárquico ni disciplinario: un tercero formado y neutral ayuda a dialogar, pero el acuerdo corresponde a las partes.",
+      "hasExplanation": true,
+      "topic": "Definición de mediación"
+    },
+    {
+      "id": "h042",
+      "originNumber": 42,
+      "originLabel": "HTML · pregunta 42",
+      "question": "¿Qué objetivo de la mediación se relaciona con la prevención?",
+      "chapter": "Capítulo 3. Concepto de mediación escolar",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h042_a",
+          "text": "Determinar la responsabilidad disciplinaria."
+        },
+        {
+          "id": "h042_b",
+          "text": "Prevenir desigualdades, injusticias y violencia."
+        },
+        {
+          "id": "h042_c",
+          "text": "Redactar una sanción tras un incidente."
+        },
+        {
+          "id": "h042_d",
+          "text": "Facilitar la comunicación y mejorar las relaciones entre las partes."
+        }
+      ],
+      "correctOptionId": "h042_b",
+      "explanation": "El manual agrupa entre los objetivos preventivos evitar desigualdades e injusticias y prevenir la violencia, además de objetivos de formación e intervención.",
+      "hasExplanation": true,
+      "topic": "Objetivos"
+    },
+    {
+      "id": "h043",
+      "originNumber": 43,
+      "originLabel": "HTML · pregunta 43",
+      "question": "¿Qué significa que la mediación escolar sea voluntaria?",
+      "chapter": "Capítulo 3. Concepto de mediación escolar",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h043_a",
+          "text": "Que los estudiantes pueden modificar las normas del centro."
+        },
+        {
+          "id": "h043_b",
+          "text": "Que las partes y la persona mediadora pueden decidir participar y abandonar el proceso."
+        },
+        {
+          "id": "h043_c",
+          "text": "Que la dirección puede designar un acuerdo obligatorio."
+        },
+        {
+          "id": "h043_d",
+          "text": "Que cada parte puede proponer alternativas antes de alcanzar el acuerdo."
+        }
+      ],
+      "correctOptionId": "h043_b",
+      "explanation": "La voluntariedad se aplica a las partes y a quien media; el proceso puede abandonarse. La libertad de participación es esencial para la legitimidad del acuerdo.",
+      "hasExplanation": true,
+      "topic": "Principios"
+    },
+    {
+      "id": "h044",
+      "originNumber": 44,
+      "originLabel": "HTML · pregunta 44",
+      "question": "¿Qué exige el principio de confidencialidad?",
+      "chapter": "Capítulo 3. Concepto de mediación escolar",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h044_a",
+          "text": "Compartir los acuerdos alcanzados con las personas implicadas."
+        },
+        {
+          "id": "h044_b",
+          "text": "Publicar un resumen del caso para prevenir otros conflictos."
+        },
+        {
+          "id": "h044_c",
+          "text": "No divulgar los asuntos tratados durante la mediación."
+        },
+        {
+          "id": "h044_d",
+          "text": "Compartir las declaraciones con el grupo-clase."
+        }
+      ],
+      "correctOptionId": "h044_c",
+      "explanation": "La confidencialidad protege lo tratado durante el proceso: las partes y la persona mediadora se comprometen a no divulgarlo.",
+      "hasExplanation": true,
+      "topic": "Principios"
+    },
+    {
+      "id": "h045",
+      "originNumber": 45,
+      "originLabel": "HTML · pregunta 45",
+      "question": "¿Quién debe decidir las soluciones en un proceso de mediación?",
+      "chapter": "Capítulo 3. Concepto de mediación escolar",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h045_a",
+          "text": "Las partes implicadas en el conflicto."
+        },
+        {
+          "id": "h045_b",
+          "text": "La persona mediadora junto con el equipo de convivencia."
+        },
+        {
+          "id": "h045_c",
+          "text": "El equipo directivo."
+        },
+        {
+          "id": "h045_d",
+          "text": "La persona mediadora."
+        }
+      ],
+      "correctOptionId": "h045_a",
+      "explanation": "El protagonismo corresponde a las partes. La persona mediadora facilita la comunicación y no está autorizada para imponer una solución.",
+      "hasExplanation": true,
+      "topic": "Principios"
+    },
+    {
+      "id": "h046",
+      "originNumber": 46,
+      "originLabel": "HTML · pregunta 46",
+      "question": "Un docente ayuda a resolver una discusión espontánea en el pasillo, sin sesiones ni fases predeterminadas. ¿Qué modalidad es?",
+      "chapter": "Capítulo 3. Concepto de mediación escolar",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h046_a",
+          "text": "Mediación formal."
+        },
+        {
+          "id": "h046_b",
+          "text": "Mediación informal."
+        },
+        {
+          "id": "h046_c",
+          "text": "Mediación formal institucionalizada."
+        },
+        {
+          "id": "h046_d",
+          "text": "Mediación externa."
+        }
+      ],
+      "correctOptionId": "h046_b",
+      "explanation": "La mediación informal surge espontáneamente y no sigue fases rígidas ni requiere un espacio específico; la formal se organiza en tiempos y fases previstos.",
+      "hasExplanation": true,
+      "topic": "Tipos de mediación"
+    },
+    {
+      "id": "h047",
+      "originNumber": 47,
+      "originLabel": "HTML · pregunta 47",
+      "question": "Dos estudiantes formados facilitan el diálogo entre compañeros de su centro. ¿Qué tipo de mediación realizan?",
+      "chapter": "Capítulo 3. Concepto de mediación escolar",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h047_a",
+          "text": "Interna y entre docentes."
+        },
+        {
+          "id": "h047_b",
+          "text": "Familiar y disciplinaria."
+        },
+        {
+          "id": "h047_c",
+          "text": "Interna y entre iguales."
+        },
+        {
+          "id": "h047_d",
+          "text": "Externa y profesional."
+        }
+      ],
+      "correctOptionId": "h047_c",
+      "explanation": "Es interna porque los mediadores pertenecen al centro y entre iguales porque son estudiantes que median conflictos de compañeros.",
+      "hasExplanation": true,
+      "topic": "Tipos de mediación"
+    },
+    {
+      "id": "h048",
+      "originNumber": 48,
+      "originLabel": "HTML · pregunta 48",
+      "question": "¿Qué es la comediación?",
+      "chapter": "Capítulo 3. Concepto de mediación escolar",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h048_a",
+          "text": "La intervención de dos personas mediadoras en un mismo proceso."
+        },
+        {
+          "id": "h048_b",
+          "text": "La participación de las familias en la revisión del plan."
+        },
+        {
+          "id": "h048_c",
+          "text": "La participación sucesiva de distintos mediadores en cada fase."
+        },
+        {
+          "id": "h048_d",
+          "text": "La intervención de un mediador junto a un juez."
+        }
+      ],
+      "correctOptionId": "h048_a",
+      "explanation": "La comediación supone dos mediadores, que pueden complementarse por experiencia, habilidades o cercanía a las partes.",
+      "hasExplanation": true,
+      "topic": "Tipos de mediación"
+    },
+    {
+      "id": "h050",
+      "originNumber": 50,
+      "originLabel": "HTML · pregunta 50",
+      "question": "¿Cómo se relaciona la mediación con las prácticas restaurativas?",
+      "chapter": "Capítulo 3. Concepto de mediación escolar",
+      "sourceGroup": "Banco HTML previo",
+      "sourceDetail": "HTML inicial · explicación original conservada",
+      "sourceType": "html",
+      "options": [
+        {
+          "id": "h050_a",
+          "text": "La mediación es una práctica restaurativa centrada en conflictos concretos entre dos partes."
+        },
+        {
+          "id": "h050_b",
+          "text": "Las prácticas restaurativas se limitan a aplicar sanciones educativas."
+        },
+        {
+          "id": "h050_c",
+          "text": "La mediación y las prácticas restaurativas buscan mejorar la convivencia mediante procesos participativos."
+        },
+        {
+          "id": "h050_d",
+          "text": "Son procedimientos incompatibles para gestionar conflictos."
+        }
+      ],
+      "correctOptionId": "h050_a",
+      "explanation": "El manual presenta la mediación como una práctica restaurativa específica. Otras prácticas restaurativas pueden trabajar con grupos, fortalecer vínculos y abordar situaciones más amplias.",
+      "hasExplanation": true,
+      "topic": "Prácticas restaurativas"
+    }
+  ]
+}
