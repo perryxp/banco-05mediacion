@@ -30,6 +30,8 @@ jobs:
           path: staging
       - name: Configure Pages
         uses: actions/configure-pages@v5
+        with:
+          enablement: true
       - name: Assemble both environments
         run: |
           mkdir -p _site/test
