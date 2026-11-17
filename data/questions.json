@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "total": 191,
+  "total": 219,
   "questions": [
     {
       "id": "w001",
@@ -2635,8 +2635,9 @@
         }
       ],
       "correctOptionId": "w085_c",
-      "explanation": "",
-      "hasExplanation": false
+      "explanation": "El test indica una duración aproximada de entre 15 y 30 horas para los cursos de formación.",
+      "hasExplanation": true,
+      "explanationSource": "Test interactivo Tema 4 · pregunta 5"
     },
     {
       "id": "w086",
@@ -2697,8 +2698,9 @@
         }
       ],
       "correctOptionId": "w087_c",
-      "explanation": "",
-      "hasExplanation": false
+      "explanation": "El material recomienda recurrir a estudiantes de cursos superiores y de aulas diferentes a las de las partes implicadas.",
+      "hasExplanation": true,
+      "explanationSource": "Test interactivo Tema 4 · pregunta 2"
     },
     {
       "id": "w088",
@@ -2728,8 +2730,9 @@
         }
       ],
       "correctOptionId": "w088_b",
-      "explanation": "",
-      "hasExplanation": false
+      "explanation": "La secuencia formativa combina una explicación teórica breve, actividades colaborativas y una puesta en común final.",
+      "hasExplanation": true,
+      "explanationSource": "Test interactivo Tema 4 · pregunta 7"
     },
     {
       "id": "w089",
@@ -2790,8 +2793,9 @@
         }
       ],
       "correctOptionId": "w090_b",
-      "explanation": "",
-      "hasExplanation": false
+      "explanation": "En la premediación se entrevista por separado a las partes y se valora la viabilidad del proceso.",
+      "hasExplanation": true,
+      "explanationSource": "Test interactivo Tema 4 · pregunta 9"
     },
     {
       "id": "w091",
@@ -2821,8 +2825,9 @@
         }
       ],
       "correctOptionId": "w091_a",
-      "explanation": "",
-      "hasExplanation": false
+      "explanation": "La fase de aclarar el problema permite precisarlo y reformularlo para construir una visión compartida.",
+      "hasExplanation": true,
+      "explanationSource": "Test interactivo Tema 4 · pregunta 18"
     },
     {
       "id": "w092",
@@ -2852,8 +2857,9 @@
         }
       ],
       "correctOptionId": "w092_c",
-      "explanation": "",
-      "hasExplanation": false
+      "explanation": "La lluvia de ideas puede estimular propuestas creativas durante la fase de búsqueda de soluciones.",
+      "hasExplanation": true,
+      "explanationSource": "Test interactivo Tema 4 · pregunta 20"
     },
     {
       "id": "w093",
@@ -2883,8 +2889,9 @@
         }
       ],
       "correctOptionId": "w093_d",
-      "explanation": "",
-      "hasExplanation": false
+      "explanation": "El acuerdo debe resultar aceptable y beneficioso para ambas partes, siguiendo una lógica de beneficio mutuo.",
+      "hasExplanation": true,
+      "explanationSource": "Test interactivo Tema 4 · pregunta 21"
     },
     {
       "id": "w094",
@@ -2976,8 +2983,9 @@
         }
       ],
       "correctOptionId": "w096_c",
-      "explanation": "",
-      "hasExplanation": false
+      "explanation": "En «Cuéntame», cada parte expone su versión, sus percepciones y sentimientos, respetando los turnos de palabra.",
+      "hasExplanation": true,
+      "explanationSource": "Test interactivo Tema 4 · pregunta 16"
     },
     {
       "id": "w097",
@@ -3038,8 +3046,9 @@
         }
       ],
       "correctOptionId": "w098_b",
-      "explanation": "",
-      "hasExplanation": false
+      "explanation": "Reflejar emociones consiste en reconocer y nombrar las emociones expresadas por una de las partes.",
+      "hasExplanation": true,
+      "explanationSource": "Test interactivo Tema 4 · pregunta 28"
     },
     {
       "id": "w099",
@@ -3100,8 +3109,9 @@
         }
       ],
       "correctOptionId": "w100_a",
-      "explanation": "",
-      "hasExplanation": false
+      "explanation": "La imparcialidad implica no tomar partido a favor ni en contra de ninguna de las personas implicadas.",
+      "hasExplanation": true,
+      "explanationSource": "Test interactivo Tema 4 · pregunta 26"
     },
     {
       "id": "w101",
@@ -3193,8 +3203,9 @@
         }
       ],
       "correctOptionId": "w103_d",
-      "explanation": "",
-      "hasExplanation": false
+      "explanation": "El material incluye el autocontrol, la gestión del estrés y la regulación de la ira entre las habilidades de conciencia y regulación emocional.",
+      "hasExplanation": true,
+      "explanationSource": "Test interactivo Tema 4 · pregunta 37"
     },
     {
       "id": "w104",
@@ -3224,8 +3235,9 @@
         }
       ],
       "correctOptionId": "w104_b",
-      "explanation": "",
-      "hasExplanation": false
+      "explanation": "La mediación refuerza la percepción de que las personas pueden contribuir a generar los problemas y también a resolverlos, asumiendo responsabilidad.",
+      "hasExplanation": true,
+      "explanationSource": "Test interactivo Tema 4 · pregunta 40"
     },
     {
       "id": "w105",
@@ -3286,8 +3298,9 @@
         }
       ],
       "correctOptionId": "w106_c",
-      "explanation": "",
-      "hasExplanation": false
+      "explanation": "Las habilidades comunicativas y de resolución de problemas adquiridas en la mediación pueden transferirse a otros contextos de la vida cotidiana.",
+      "hasExplanation": true,
+      "explanationSource": "Test interactivo Tema 4 · pregunta 42"
     },
     {
       "id": "w107",
@@ -5967,6 +5980,902 @@
       "explanation": "El manual presenta la mediación como una práctica restaurativa específica. Otras prácticas restaurativas pueden trabajar con grupos, fortalecer vínculos y abordar situaciones más amplias.",
       "hasExplanation": true,
       "topic": "Prácticas restaurativas"
+    },
+    {
+      "id": "t4_001",
+      "originNumber": 1,
+      "originLabel": "Test interactivo Tema 4 · pregunta 1",
+      "question": "¿Quién puede participar como mediador en un programa escolar?",
+      "chapter": "Tema 4.1 · Selección y formación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 4",
+      "sourceDetail": "Test interactivo Tema 4 · Apartado 4.1 · Selección",
+      "sourceType": "tema4_html",
+      "options": [
+        {
+          "id": "t4_001_a",
+          "text": "El profesorado y el equipo de orientación, tras una preparación específica."
+        },
+        {
+          "id": "t4_001_b",
+          "text": "Personas de la comunidad educativa, con formación adecuada."
+        },
+        {
+          "id": "t4_001_c",
+          "text": "El alumnado elegido por sus compañeros, con supervisión docente."
+        },
+        {
+          "id": "t4_001_d",
+          "text": "Profesionales especializados que colaboran con el centro."
+        }
+      ],
+      "correctOptionId": "t4_001_b",
+      "explanation": "En los programas de mediación participan alumnado, profesorado y familiares; la formación es importante para ejercer el papel.",
+      "hasExplanation": true,
+      "topic": "Selección"
+    },
+    {
+      "id": "t4_003",
+      "originNumber": 3,
+      "originLabel": "Test interactivo Tema 4 · pregunta 3",
+      "question": "¿Qué característica es deseable en la composición del equipo de mediadores?",
+      "chapter": "Tema 4.1 · Selección y formación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 4",
+      "sourceDetail": "Test interactivo Tema 4 · Apartado 4.1 · Diversidad",
+      "sourceType": "tema4_html",
+      "options": [
+        {
+          "id": "t4_003_a",
+          "text": "Equilibrio de edad y experiencia para facilitar la coordinación."
+        },
+        {
+          "id": "t4_003_b",
+          "text": "Representación heterogénea de perfiles."
+        },
+        {
+          "id": "t4_003_c",
+          "text": "Selección según el rendimiento y la asistencia a clase."
+        },
+        {
+          "id": "t4_003_d",
+          "text": "Distribución por cursos con criterios de antigüedad."
+        }
+      ],
+      "correctOptionId": "t4_003_b",
+      "explanation": "Es recomendable grupos heterogéneos en sexo, procedencia y otros perfiles.",
+      "hasExplanation": true,
+      "topic": "Diversidad"
+    },
+    {
+      "id": "t4_004",
+      "originNumber": 4,
+      "originLabel": "Test interactivo Tema 4 · pregunta 4",
+      "question": "¿Por qué puede ser útil incluir alumnado con dificultades de comportamiento en la formación?",
+      "chapter": "Tema 4.1 · Selección y formación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 4",
+      "sourceDetail": "Test interactivo Tema 4 · Apartado 4.1 · Selección",
+      "sourceType": "tema4_html",
+      "options": [
+        {
+          "id": "t4_004_a",
+          "text": "Porque permite sustituir parte de las intervenciones correctivas habituales."
+        },
+        {
+          "id": "t4_004_b",
+          "text": "Porque reduce la probabilidad de conflicto mediante la asignación de responsabilidades."
+        },
+        {
+          "id": "t4_004_c",
+          "text": "Porque permite trabajar competencias y sentirse útil."
+        },
+        {
+          "id": "t4_004_d",
+          "text": "Porque facilita que el grupo regule su conducta con menor intervención docente."
+        }
+      ],
+      "correctOptionId": "t4_004_c",
+      "explanation": "Participar puede ayudarles a mejorar habilidades y a sentirse valorados contribuyendo a la convivencia.",
+      "hasExplanation": true,
+      "topic": "Selección"
+    },
+    {
+      "id": "t4_006",
+      "originNumber": 6,
+      "originLabel": "Test interactivo Tema 4 · pregunta 6",
+      "question": "¿Qué combinación refleja los contenidos habituales de la formación?",
+      "chapter": "Tema 4.1 · Selección y formación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 4",
+      "sourceDetail": "Test interactivo Tema 4 · Apartado 4.1 · Formación",
+      "sourceType": "tema4_html",
+      "options": [
+        {
+          "id": "t4_006_a",
+          "text": "Normativa de convivencia, técnicas de negociación y registro de incidencias."
+        },
+        {
+          "id": "t4_006_b",
+          "text": "Teoría del conflicto, comunicación y práctica de mediaciones."
+        },
+        {
+          "id": "t4_006_c",
+          "text": "Comunicación persuasiva, coordinación de grupos y gestión de reuniones."
+        },
+        {
+          "id": "t4_006_d",
+          "text": "Tutoría entre iguales, orientación personal y seguimiento de compromisos."
+        }
+      ],
+      "correctOptionId": "t4_006_b",
+      "explanation": "Se incluyen fundamentos de paz, habilidades comunicativas, teoría y dramatizaciones o análisis de casos.",
+      "hasExplanation": true,
+      "topic": "Formación"
+    },
+    {
+      "id": "t4_008",
+      "originNumber": 8,
+      "originLabel": "Test interactivo Tema 4 · pregunta 8",
+      "question": "¿En qué se pueden basar los niveles aprendiz, principiante, veterano y experto asesor?",
+      "chapter": "Tema 4.1 · Selección y formación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 4",
+      "sourceDetail": "Test interactivo Tema 4 · Apartado 4.1 · Evaluación",
+      "sourceType": "tema4_html",
+      "options": [
+        {
+          "id": "t4_008_a",
+          "text": "En la edad del mediador."
+        },
+        {
+          "id": "t4_008_b",
+          "text": "En la popularidad entre compañeros."
+        },
+        {
+          "id": "t4_008_c",
+          "text": "En las competencias y la experiencia demostradas."
+        },
+        {
+          "id": "t4_008_d",
+          "text": "En el número de conflictos personales."
+        }
+      ],
+      "correctOptionId": "t4_008_c",
+      "explanation": "Los niveles se vinculan a competencias, mediaciones realizadas y participación en formación y seguimiento.",
+      "hasExplanation": true,
+      "topic": "Evaluación"
+    },
+    {
+      "id": "t4_011",
+      "originNumber": 11,
+      "originLabel": "Test interactivo Tema 4 · pregunta 11",
+      "question": "¿Cuál de estas decisiones corresponde a la premediación?",
+      "chapter": "Tema 4.2 · Fases del proceso",
+      "sourceGroup": "HTML · Mediación VIU · Tema 4",
+      "sourceDetail": "Test interactivo Tema 4 · Apartado 4.2 · Premediación",
+      "sourceType": "tema4_html",
+      "options": [
+        {
+          "id": "t4_011_a",
+          "text": "Precisar los compromisos reparadores que aceptará cada parte."
+        },
+        {
+          "id": "t4_011_b",
+          "text": "Contrastar las versiones para establecer los hechos compartidos."
+        },
+        {
+          "id": "t4_011_c",
+          "text": "Acordar lugar, fecha y duración del encuentro."
+        },
+        {
+          "id": "t4_011_d",
+          "text": "Definir los indicadores con los que se evaluará el acuerdo."
+        }
+      ],
+      "correctOptionId": "t4_011_c",
+      "explanation": "En esta fase se prepara el encuentro y se concretan detalles organizativos y aceptación.",
+      "hasExplanation": true,
+      "topic": "Premediación"
+    },
+    {
+      "id": "t4_012",
+      "originNumber": 12,
+      "originLabel": "Test interactivo Tema 4 · pregunta 12",
+      "question": "Si el conflicto es muy intenso, ¿qué recomienda el manual antes del encuentro conjunto?",
+      "chapter": "Tema 4.2 · Fases del proceso",
+      "sourceGroup": "HTML · Mediación VIU · Tema 4",
+      "sourceDetail": "Test interactivo Tema 4 · Apartado 4.2 · Premediación",
+      "sourceType": "tema4_html",
+      "options": [
+        {
+          "id": "t4_012_a",
+          "text": "Priorizar el encuentro conjunto para reducir las interpretaciones divergentes."
+        },
+        {
+          "id": "t4_012_b",
+          "text": "Esperar un tiempo para favorecer serenidad."
+        },
+        {
+          "id": "t4_012_c",
+          "text": "Empezar por formular propuestas para centrar la conversación."
+        },
+        {
+          "id": "t4_012_d",
+          "text": "Realizar una sesión conjunta breve centrada en los hechos."
+        }
+      ],
+      "correctOptionId": "t4_012_b",
+      "explanation": "En situaciones intensas puede ser conveniente dejar pasar un tiempo para afrontar el encuentro con mayor calma.",
+      "hasExplanation": true,
+      "topic": "Premediación"
+    },
+    {
+      "id": "t4_013",
+      "originNumber": 13,
+      "originLabel": "Test interactivo Tema 4 · pregunta 13",
+      "question": "¿Qué espacio se considera más adecuado para el encuentro?",
+      "chapter": "Tema 4.2 · Fases del proceso",
+      "sourceGroup": "HTML · Mediación VIU · Tema 4",
+      "sourceDetail": "Test interactivo Tema 4 · Apartado 4.2 · Presentación",
+      "sourceType": "tema4_html",
+      "options": [
+        {
+          "id": "t4_013_a",
+          "text": "Un despacho asociado a autoridad."
+        },
+        {
+          "id": "t4_013_b",
+          "text": "Un aula con las mesas en filas."
+        },
+        {
+          "id": "t4_013_c",
+          "text": "Un lugar relajado, flexible y no asociado al poder."
+        },
+        {
+          "id": "t4_013_d",
+          "text": "Un pasillo de paso frecuente."
+        }
+      ],
+      "correctOptionId": "t4_013_c",
+      "explanation": "Se aconseja un espacio no ligado al poder, cómodo y con mobiliario adaptable, por ejemplo una mesa redonda.",
+      "hasExplanation": true,
+      "topic": "Presentación"
+    },
+    {
+      "id": "t4_014",
+      "originNumber": 14,
+      "originLabel": "Test interactivo Tema 4 · pregunta 14",
+      "question": "¿Qué normas se explican al inicio del encuentro?",
+      "chapter": "Tema 4.2 · Fases del proceso",
+      "sourceGroup": "HTML · Mediación VIU · Tema 4",
+      "sourceDetail": "Test interactivo Tema 4 · Apartado 4.2 · Presentación",
+      "sourceType": "tema4_html",
+      "options": [
+        {
+          "id": "t4_014_a",
+          "text": "Escucha, flexibilidad y evaluación de propuestas."
+        },
+        {
+          "id": "t4_014_b",
+          "text": "Cooperación, respeto y confidencialidad."
+        },
+        {
+          "id": "t4_014_c",
+          "text": "Turnos de palabra, cumplimiento de compromisos y seguimiento."
+        },
+        {
+          "id": "t4_014_d",
+          "text": "Reconocimiento de intereses, búsqueda de alternativas y consenso."
+        }
+      ],
+      "correctOptionId": "t4_014_b",
+      "explanation": "Resulta importante cooperación, respeto y confidencialidad como normas básicas.",
+      "hasExplanation": true,
+      "topic": "Presentación"
+    },
+    {
+      "id": "t4_015",
+      "originNumber": 15,
+      "originLabel": "Test interactivo Tema 4 · pregunta 15",
+      "question": "Si alguien interrumpe e insulta durante la sesión, ¿qué debería hacer el mediador?",
+      "chapter": "Tema 4.2 · Fases del proceso",
+      "sourceGroup": "HTML · Mediación VIU · Tema 4",
+      "sourceDetail": "Test interactivo Tema 4 · Apartado 4.2 · Presentación",
+      "sourceType": "tema4_html",
+      "options": [
+        {
+          "id": "t4_015_a",
+          "text": "Tomar partido por la persona interrumpida."
+        },
+        {
+          "id": "t4_015_b",
+          "text": "Recordar las normas aceptadas al inicio."
+        },
+        {
+          "id": "t4_015_c",
+          "text": "Decidir la sanción inmediatamente."
+        },
+        {
+          "id": "t4_015_d",
+          "text": "Ignorar siempre la conducta."
+        }
+      ],
+      "correctOptionId": "t4_015_b",
+      "explanation": "Una función del mediador es reconducir el diálogo y recordar los compromisos iniciales.",
+      "hasExplanation": true,
+      "topic": "Presentación"
+    },
+    {
+      "id": "t4_017",
+      "originNumber": 17,
+      "originLabel": "Test interactivo Tema 4 · pregunta 17",
+      "question": "¿Qué principio ayuda a evitar reproches personales durante «cuéntame»?",
+      "chapter": "Tema 4.2 · Fases del proceso",
+      "sourceGroup": "HTML · Mediación VIU · Tema 4",
+      "sourceDetail": "Test interactivo Tema 4 · Apartado 4.2 · Cuéntame",
+      "sourceType": "tema4_html",
+      "options": [
+        {
+          "id": "t4_017_a",
+          "text": "Separar a las personas del problema."
+        },
+        {
+          "id": "t4_017_b",
+          "text": "Identificar al culpable antes de escuchar."
+        },
+        {
+          "id": "t4_017_c",
+          "text": "Eliminar las emociones del relato."
+        },
+        {
+          "id": "t4_017_d",
+          "text": "Interrumpir los relatos extensos de inmediato."
+        }
+      ],
+      "correctOptionId": "t4_017_a",
+      "explanation": "El diálogo debe centrarse en el problema, sin convertir a las personas en el problema.",
+      "hasExplanation": true,
+      "topic": "Cuéntame"
+    },
+    {
+      "id": "t4_022",
+      "originNumber": 22,
+      "originLabel": "Test interactivo Tema 4 · pregunta 22",
+      "question": "¿Qué se recomienda hacer tras alcanzar una solución aceptada?",
+      "chapter": "Tema 4.2 · Fases del proceso",
+      "sourceGroup": "HTML · Mediación VIU · Tema 4",
+      "sourceDetail": "Test interactivo Tema 4 · Apartado 4.2 · Acuerdo",
+      "sourceType": "tema4_html",
+      "options": [
+        {
+          "id": "t4_022_a",
+          "text": "Dejar el compromiso sin registrar."
+        },
+        {
+          "id": "t4_022_b",
+          "text": "Redactar compromisos y fijar una revisión posterior."
+        },
+        {
+          "id": "t4_022_c",
+          "text": "Difundir los detalles a todo el centro."
+        },
+        {
+          "id": "t4_022_d",
+          "text": "Suspender toda comunicación entre las partes."
+        }
+      ],
+      "correctOptionId": "t4_022_b",
+      "explanation": "Se redacta un acuerdo que concreta los compromisos y se programa su seguimiento.",
+      "hasExplanation": true,
+      "topic": "Acuerdo"
+    },
+    {
+      "id": "t4_023",
+      "originNumber": 23,
+      "originLabel": "Test interactivo Tema 4 · pregunta 23",
+      "question": "¿Cuándo propone aproximadamente el manual revisar el acuerdo?",
+      "chapter": "Tema 4.2 · Fases del proceso",
+      "sourceGroup": "HTML · Mediación VIU · Tema 4",
+      "sourceDetail": "Test interactivo Tema 4 · Apartado 4.2 · Seguimiento",
+      "sourceType": "tema4_html",
+      "options": [
+        {
+          "id": "t4_023_a",
+          "text": "Al día siguiente."
+        },
+        {
+          "id": "t4_023_b",
+          "text": "A las dos o tres semanas."
+        },
+        {
+          "id": "t4_023_c",
+          "text": "Al finalizar el curso escolar."
+        },
+        {
+          "id": "t4_023_d",
+          "text": "Un año después."
+        }
+      ],
+      "correctOptionId": "t4_023_b",
+      "explanation": "Se recomienda una fecha aproximada de dos o tres semanas para comprobar el cumplimiento.",
+      "hasExplanation": true,
+      "topic": "Seguimiento"
+    },
+    {
+      "id": "t4_024",
+      "originNumber": 24,
+      "originLabel": "Test interactivo Tema 4 · pregunta 24",
+      "question": "¿Qué se comprueba en la fase de revisión?",
+      "chapter": "Tema 4.2 · Fases del proceso",
+      "sourceGroup": "HTML · Mediación VIU · Tema 4",
+      "sourceDetail": "Test interactivo Tema 4 · Apartado 4.2 · Seguimiento",
+      "sourceType": "tema4_html",
+      "options": [
+        {
+          "id": "t4_024_a",
+          "text": "La popularidad de los mediadores."
+        },
+        {
+          "id": "t4_024_b",
+          "text": "La calificación de las partes."
+        },
+        {
+          "id": "t4_024_c",
+          "text": "El cumplimiento de los compromisos acordados."
+        },
+        {
+          "id": "t4_024_d",
+          "text": "La responsabilidad disciplinaria inicial."
+        }
+      ],
+      "correctOptionId": "t4_024_c",
+      "explanation": "Las partes y mediadores se reúnen de nuevo para revisar si se cumplió lo pactado.",
+      "hasExplanation": true,
+      "topic": "Seguimiento"
+    },
+    {
+      "id": "t4_029",
+      "originNumber": 29,
+      "originLabel": "Test interactivo Tema 4 · pregunta 29",
+      "question": "¿Qué técnica consiste en expresar con otras palabras lo que alguien ha dicho, conservando su significado?",
+      "chapter": "Tema 4.3 · Funciones del mediador",
+      "sourceGroup": "HTML · Mediación VIU · Tema 4",
+      "sourceDetail": "Test interactivo Tema 4 · Apartado 4.3 · Parafrasear",
+      "sourceType": "tema4_html",
+      "options": [
+        {
+          "id": "t4_029_a",
+          "text": "Preguntas circulares."
+        },
+        {
+          "id": "t4_029_b",
+          "text": "Parafraseo."
+        },
+        {
+          "id": "t4_029_c",
+          "text": "Lluvia de ideas."
+        },
+        {
+          "id": "t4_029_d",
+          "text": "Negociación final."
+        }
+      ],
+      "correctOptionId": "t4_029_b",
+      "explanation": "Parafrasear reformula un mensaje sin cambiar su sentido para comprobar la comprensión.",
+      "hasExplanation": true,
+      "topic": "Parafrasear"
+    },
+    {
+      "id": "t4_030",
+      "originNumber": 30,
+      "originLabel": "Test interactivo Tema 4 · pregunta 30",
+      "question": "«Cuando dices que te excluyeron, ¿a qué momento concreto te refieres?» es un ejemplo de…",
+      "chapter": "Tema 4.3 · Funciones del mediador",
+      "sourceGroup": "HTML · Mediación VIU · Tema 4",
+      "sourceDetail": "Test interactivo Tema 4 · Apartado 4.3 · Clarificación",
+      "sourceType": "tema4_html",
+      "options": [
+        {
+          "id": "t4_030_a",
+          "text": "Felicitación."
+        },
+        {
+          "id": "t4_030_b",
+          "text": "Acuerdo."
+        },
+        {
+          "id": "t4_030_c",
+          "text": "Petición de aclaración."
+        },
+        {
+          "id": "t4_030_d",
+          "text": "Lenguaje inclusivo."
+        }
+      ],
+      "correctOptionId": "t4_030_c",
+      "explanation": "Pedir aclaraciones ayuda a precisar aspectos del relato que necesitan más detalle.",
+      "hasExplanation": true,
+      "topic": "Clarificación"
+    },
+    {
+      "id": "t4_031",
+      "originNumber": 31,
+      "originLabel": "Test interactivo Tema 4 · pregunta 31",
+      "question": "«¿Cómo crees que la otra persona vivió esa situación?» es una…",
+      "chapter": "Tema 4.3 · Funciones del mediador",
+      "sourceGroup": "HTML · Mediación VIU · Tema 4",
+      "sourceDetail": "Test interactivo Tema 4 · Apartado 4.3 · Preguntas circulares",
+      "sourceType": "tema4_html",
+      "options": [
+        {
+          "id": "t4_031_a",
+          "text": "Pregunta circular o de imaginación."
+        },
+        {
+          "id": "t4_031_b",
+          "text": "Pregunta de control disciplinario."
+        },
+        {
+          "id": "t4_031_c",
+          "text": "Declaración de culpabilidad."
+        },
+        {
+          "id": "t4_031_d",
+          "text": "Propuesta de acuerdo cerrada."
+        }
+      ],
+      "correctOptionId": "t4_031_a",
+      "explanation": "Las preguntas circulares permiten explorar el conflicto desde otras perspectivas.",
+      "hasExplanation": true,
+      "topic": "Preguntas circulares"
+    },
+    {
+      "id": "t4_032",
+      "originNumber": 32,
+      "originLabel": "Test interactivo Tema 4 · pregunta 32",
+      "question": "¿Qué finalidad tiene usar expresiones como «vamos a explorar opciones»?",
+      "chapter": "Tema 4.3 · Funciones del mediador",
+      "sourceGroup": "HTML · Mediación VIU · Tema 4",
+      "sourceDetail": "Test interactivo Tema 4 · Apartado 4.3 · Lenguaje",
+      "sourceType": "tema4_html",
+      "options": [
+        {
+          "id": "t4_032_a",
+          "text": "Reforzar la cooperación mediante lenguaje inclusivo."
+        },
+        {
+          "id": "t4_032_b",
+          "text": "Indicar que el mediador decide por todos."
+        },
+        {
+          "id": "t4_032_c",
+          "text": "Reducir el tiempo de escucha."
+        },
+        {
+          "id": "t4_032_d",
+          "text": "Evitar las intervenciones individuales."
+        }
+      ],
+      "correctOptionId": "t4_032_a",
+      "explanation": "La primera persona del plural ayuda a construir un clima de colaboración.",
+      "hasExplanation": true,
+      "topic": "Lenguaje"
+    },
+    {
+      "id": "t4_034",
+      "originNumber": 34,
+      "originLabel": "Test interactivo Tema 4 · pregunta 34",
+      "question": "¿Qué cualidad se refleja al dar tiempo para hablar y aprovechar los silencios?",
+      "chapter": "Tema 4.4 · Cualidades y habilidades",
+      "sourceGroup": "HTML · Mediación VIU · Tema 4",
+      "sourceDetail": "Test interactivo Tema 4 · Apartado 4.4 · Perfil",
+      "sourceType": "tema4_html",
+      "options": [
+        {
+          "id": "t4_034_a",
+          "text": "Paciencia."
+        },
+        {
+          "id": "t4_034_b",
+          "text": "Asertividad."
+        },
+        {
+          "id": "t4_034_c",
+          "text": "Autocontrol."
+        },
+        {
+          "id": "t4_034_d",
+          "text": "Flexibilidad."
+        }
+      ],
+      "correctOptionId": "t4_034_a",
+      "explanation": "La paciencia evita transmitir prisa y facilita que las partes puedan comprenderse.",
+      "hasExplanation": true,
+      "topic": "Perfil"
+    },
+    {
+      "id": "t4_035",
+      "originNumber": 35,
+      "originLabel": "Test interactivo Tema 4 · pregunta 35",
+      "question": "Un mediador atribuye el éxito del acuerdo a las personas implicadas. ¿Qué cualidad muestra?",
+      "chapter": "Tema 4.4 · Cualidades y habilidades",
+      "sourceGroup": "HTML · Mediación VIU · Tema 4",
+      "sourceDetail": "Test interactivo Tema 4 · Apartado 4.4 · Perfil",
+      "sourceType": "tema4_html",
+      "options": [
+        {
+          "id": "t4_035_a",
+          "text": "Humildad."
+        },
+        {
+          "id": "t4_035_b",
+          "text": "Empatía."
+        },
+        {
+          "id": "t4_035_c",
+          "text": "Autoconciencia."
+        },
+        {
+          "id": "t4_035_d",
+          "text": "Discreción."
+        }
+      ],
+      "correctOptionId": "t4_035_a",
+      "explanation": "La humildad implica reconocer que son las partes quienes construyen el acuerdo.",
+      "hasExplanation": true,
+      "topic": "Perfil"
+    },
+    {
+      "id": "t4_036",
+      "originNumber": 36,
+      "originLabel": "Test interactivo Tema 4 · pregunta 36",
+      "question": "¿Qué debería hacer un mediador ante un acuerdo que percibe como abusivo?",
+      "chapter": "Tema 4.4 · Cualidades y habilidades",
+      "sourceGroup": "HTML · Mediación VIU · Tema 4",
+      "sourceDetail": "Test interactivo Tema 4 · Apartado 4.4 · Perfil",
+      "sourceType": "tema4_html",
+      "options": [
+        {
+          "id": "t4_036_a",
+          "text": "Ratificarlo cuando las dos personas manifiesten su consentimiento."
+        },
+        {
+          "id": "t4_036_b",
+          "text": "Valorar su justicia y no dar por bueno un acuerdo abusivo."
+        },
+        {
+          "id": "t4_036_c",
+          "text": "Dejar constancia de las reservas y continuar con la firma."
+        },
+        {
+          "id": "t4_036_d",
+          "text": "Remitir el acuerdo a revisión sin intervenir en su valoración."
+        }
+      ],
+      "correctOptionId": "t4_036_b",
+      "explanation": "Se considera que no sería ético dar el visto bueno a acuerdos abusivos.",
+      "hasExplanation": true,
+      "topic": "Perfil"
+    },
+    {
+      "id": "t4_038",
+      "originNumber": 38,
+      "originLabel": "Test interactivo Tema 4 · pregunta 38",
+      "question": "Evaluar intereses, negociar y resaltar puntos comunes son habilidades de…",
+      "chapter": "Tema 4.4 · Cualidades y habilidades",
+      "sourceGroup": "HTML · Mediación VIU · Tema 4",
+      "sourceDetail": "Test interactivo Tema 4 · Apartado 4.4 · Habilidades",
+      "sourceType": "tema4_html",
+      "options": [
+        {
+          "id": "t4_038_a",
+          "text": "Comprensión y gestión del conflicto."
+        },
+        {
+          "id": "t4_038_b",
+          "text": "Facilitación de la comunicación."
+        },
+        {
+          "id": "t4_038_c",
+          "text": "Regulación de las emociones."
+        },
+        {
+          "id": "t4_038_d",
+          "text": "Organización del proceso de mediación."
+        }
+      ],
+      "correctOptionId": "t4_038_a",
+      "explanation": "La mediación escolar agrupa estas competencias en la comprensión y gestión del conflicto.",
+      "hasExplanation": true,
+      "topic": "Habilidades"
+    },
+    {
+      "id": "t4_039",
+      "originNumber": 39,
+      "originLabel": "Test interactivo Tema 4 · pregunta 39",
+      "question": "Escuchar activamente, resumir y usar mensajes yo son habilidades de…",
+      "chapter": "Tema 4.4 · Cualidades y habilidades",
+      "sourceGroup": "HTML · Mediación VIU · Tema 4",
+      "sourceDetail": "Test interactivo Tema 4 · Apartado 4.4 · Habilidades",
+      "sourceType": "tema4_html",
+      "options": [
+        {
+          "id": "t4_039_a",
+          "text": "Comprensión de los intereses en conflicto."
+        },
+        {
+          "id": "t4_039_b",
+          "text": "Facilitación de la comunicación."
+        },
+        {
+          "id": "t4_039_c",
+          "text": "Regulación emocional del mediador."
+        },
+        {
+          "id": "t4_039_d",
+          "text": "Evaluación y seguimiento de acuerdos."
+        }
+      ],
+      "correctOptionId": "t4_039_b",
+      "explanation": "La facilitación de la comunicación comprende escucha activa, parafraseo, resumen y mensajes yo.",
+      "hasExplanation": true,
+      "topic": "Habilidades"
+    },
+    {
+      "id": "t4_043",
+      "originNumber": 43,
+      "originLabel": "Test interactivo Tema 4 · pregunta 43",
+      "question": "¿Qué dificultad de implantación menciona el manual?",
+      "chapter": "Tema 4.5 · Fortalezas y debilidades",
+      "sourceGroup": "HTML · Mediación VIU · Tema 4",
+      "sourceDetail": "Test interactivo Tema 4 · Apartado 4.5 · Debilidades",
+      "sourceType": "tema4_html",
+      "options": [
+        {
+          "id": "t4_043_a",
+          "text": "Dificultades para integrar la formación en el calendario escolar."
+        },
+        {
+          "id": "t4_043_b",
+          "text": "Falta de coordinación y evaluación del proceso."
+        },
+        {
+          "id": "t4_043_c",
+          "text": "Necesidad de adaptar el programa a distintos grupos de edad."
+        },
+        {
+          "id": "t4_043_d",
+          "text": "Diferencias entre la percepción del alumnado y del profesorado."
+        }
+      ],
+      "correctOptionId": "t4_043_b",
+      "explanation": "Entre las debilidades figuran la falta de evaluación rigurosa y la escasa coordinación.",
+      "hasExplanation": true,
+      "topic": "Debilidades"
+    },
+    {
+      "id": "t4_046",
+      "originNumber": 46,
+      "originLabel": "Test interactivo Tema 4 · pregunta 46",
+      "question": "¿Qué obstáculo organizativo señalan mediadores docentes?",
+      "chapter": "Tema 4.5 · Fortalezas y debilidades",
+      "sourceGroup": "HTML · Mediación VIU · Tema 4",
+      "sourceDetail": "Test interactivo Tema 4 · Apartado 4.5 · Implantación",
+      "sourceType": "tema4_html",
+      "options": [
+        {
+          "id": "t4_046_a",
+          "text": "Dificultad para combinar formación y atención a los casos."
+        },
+        {
+          "id": "t4_046_b",
+          "text": "Necesidad de coordinar a docentes de diferentes departamentos."
+        },
+        {
+          "id": "t4_046_c",
+          "text": "Depender del voluntarismo y sobrecargar a una sola persona."
+        },
+        {
+          "id": "t4_046_d",
+          "text": "Variabilidad en la disponibilidad de espacios y horarios."
+        }
+      ],
+      "correctOptionId": "t4_046_c",
+      "explanation": "La sobrecarga de una sola persona acreditada y la ausencia de tiempo reconocido dificultan la mediación.",
+      "hasExplanation": true,
+      "topic": "Implantación"
+    },
+    {
+      "id": "t4_048",
+      "originNumber": 48,
+      "originLabel": "Test interactivo Tema 4 · pregunta 48",
+      "question": "¿Qué secuencia respeta el orden del proceso descrito en el manual?",
+      "chapter": "Tema 4.2 · Fases del proceso",
+      "sourceGroup": "HTML · Mediación VIU · Tema 4",
+      "sourceDetail": "Test interactivo Tema 4 · Apartado 4.2 · Secuencia",
+      "sourceType": "tema4_html",
+      "options": [
+        {
+          "id": "t4_048_a",
+          "text": "Premediación, cuéntame, presentación, acuerdo y propuestas."
+        },
+        {
+          "id": "t4_048_b",
+          "text": "Presentación, premediación, aclaración y revisión."
+        },
+        {
+          "id": "t4_048_c",
+          "text": "Premediación, presentación, cuéntame, aclaración, propuestas, acuerdo y revisión."
+        },
+        {
+          "id": "t4_048_d",
+          "text": "Premediación, acuerdo, propuestas, cuéntame y revisión."
+        }
+      ],
+      "correctOptionId": "t4_048_c",
+      "explanation": "El proceso incluye premediación y seis fases del encuentro, incluida la revisión posterior.",
+      "hasExplanation": true,
+      "topic": "Secuencia"
+    },
+    {
+      "id": "t4_049",
+      "originNumber": 49,
+      "originLabel": "Test interactivo Tema 4 · pregunta 49",
+      "question": "«Por lo que entiendo, discrepáis sobre cómo repartir el trabajo». ¿Qué técnica ejemplifica principalmente?",
+      "chapter": "Tema 4.3 · Funciones del mediador",
+      "sourceGroup": "HTML · Mediación VIU · Tema 4",
+      "sourceDetail": "Test interactivo Tema 4 · Apartado 4.3 · Resumen",
+      "sourceType": "tema4_html",
+      "options": [
+        {
+          "id": "t4_049_a",
+          "text": "Resumir la situación de forma descriptiva."
+        },
+        {
+          "id": "t4_049_b",
+          "text": "Reformular una emoción expresada por una de las partes."
+        },
+        {
+          "id": "t4_049_c",
+          "text": "Identificar una necesidad que no se ha verbalizado."
+        },
+        {
+          "id": "t4_049_d",
+          "text": "Comprobar la viabilidad de una propuesta de acuerdo."
+        }
+      ],
+      "correctOptionId": "t4_049_a",
+      "explanation": "Resumir ayuda a enmarcar el desacuerdo de manera clara y descriptiva.",
+      "hasExplanation": true,
+      "topic": "Resumen"
+    },
+    {
+      "id": "t4_050",
+      "originNumber": 50,
+      "originLabel": "Test interactivo Tema 4 · pregunta 50",
+      "question": "¿Por qué puede enriquecer la formación conjunta de alumnado y adultos?",
+      "chapter": "Tema 4.1 · Selección y formación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 4",
+      "sourceDetail": "Test interactivo Tema 4 · Apartado 4.1 · Formación",
+      "sourceType": "tema4_html",
+      "options": [
+        {
+          "id": "t4_050_a",
+          "text": "Porque permite contrastar interpretaciones de un mismo conflicto."
+        },
+        {
+          "id": "t4_050_b",
+          "text": "Porque crea identidad y sentimiento de pertenencia al equipo."
+        },
+        {
+          "id": "t4_050_c",
+          "text": "Porque facilita unificar los criterios de seguimiento."
+        },
+        {
+          "id": "t4_050_d",
+          "text": "Porque ayuda a distribuir las funciones entre los participantes."
+        }
+      ],
+      "correctOptionId": "t4_050_b",
+      "explanation": "Se considera que la formación conjunta favorece el sentimiento de pertenencia e identidad grupal.",
+      "hasExplanation": true,
+      "topic": "Formación"
     }
   ]
 }
