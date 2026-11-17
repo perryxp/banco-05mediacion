@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "total": 219,
+  "total": 227,
   "questions": [
     {
       "id": "w001",
@@ -6876,6 +6876,262 @@
       "explanation": "Se considera que la formación conjunta favorece el sentimiento de pertenencia e identidad grupal.",
       "hasExplanation": true,
       "topic": "Formación"
+    },
+    {
+      "id": "rcm_121",
+      "originNumber": 121,
+      "originLabel": "Recopilatorio compañeros · M121",
+      "question": "Según el manual, ¿cómo pueden influir los medios de comunicación en la conflictividad escolar?",
+      "chapter": "Capítulo 1. El conflicto en la escuela",
+      "sourceGroup": "Recopilatorio compañeros · contrastado con manual 2025",
+      "sourceDetail": "Recopilatorio compañeros · M121 · Daypo «Mediación VIU» (mayo 2025) · Contraste: manual 2025, pág. 12",
+      "sourceType": "pdf_companeros_manual",
+      "options": [
+        {
+          "id": "rcm_121_a",
+          "text": "Al difundir el valor del triunfo frente a la derrota y la admiración por los vencedores, alimentando la competitividad y la confrontación."
+        },
+        {
+          "id": "rcm_121_b",
+          "text": "Al reducir la importancia del éxito y fomentar la aceptación de la derrota."
+        },
+        {
+          "id": "rcm_121_c",
+          "text": "Al eliminar las desigualdades sociales entre el alumnado."
+        },
+        {
+          "id": "rcm_121_d",
+          "text": "Al limitar los modelos de comportamiento que llegan al alumnado."
+        }
+      ],
+      "correctOptionId": "rcm_121_a",
+      "explanation": "El manual señala que los medios difunden el valor del triunfo frente a la derrota y la admiración por los vencedores. Esta fascinación por ganar puede generar sentimientos de inferioridad y alimentar confrontaciones.",
+      "hasExplanation": true,
+      "topic": "Medios de comunicación"
+    },
+    {
+      "id": "rcm_275",
+      "originNumber": 275,
+      "originLabel": "Recopilatorio compañeros · M275",
+      "question": "Más allá de ser una técnica concreta para resolver conflictos particulares, ¿qué contribuye a construir la mediación escolar?",
+      "chapter": "Capítulo 3. Concepto de mediación escolar",
+      "sourceGroup": "Recopilatorio compañeros · contrastado con manual 2025",
+      "sourceDetail": "Recopilatorio compañeros · M275 · Daypo «Mediación VIU» (mayo 2025) · Contraste: manual 2025, pág. 45",
+      "sourceType": "pdf_companeros_manual",
+      "options": [
+        {
+          "id": "rcm_275_a",
+          "text": "Una cultura de paz y de convivencia."
+        },
+        {
+          "id": "rcm_275_b",
+          "text": "Un sistema disciplinario común para todos los centros."
+        },
+        {
+          "id": "rcm_275_c",
+          "text": "Un procedimiento para sustituir las normas de convivencia."
+        },
+        {
+          "id": "rcm_275_d",
+          "text": "Un mecanismo para que el mediador decida la solución."
+        }
+      ],
+      "correctOptionId": "rcm_275_a",
+      "explanation": "El manual destaca que la mediación, más allá de resolver conflictos particulares, ayuda a construir una cultura de paz y de convivencia.",
+      "hasExplanation": true,
+      "topic": "Cultura de paz"
+    },
+    {
+      "id": "rcm_282",
+      "originNumber": 282,
+      "originLabel": "Recopilatorio compañeros · M282",
+      "question": "Según la clasificación de habilidades del mediador recogida en el manual, ¿dónde se incluyen el autocontrol, la templanza y la gestión de la ira?",
+      "chapter": "Capítulo 4. El proceso de la mediación escolar",
+      "sourceGroup": "Recopilatorio compañeros · contrastado con manual 2025",
+      "sourceDetail": "Recopilatorio compañeros · M282 · Daypo «Mediación VIU» (mayo 2025) · Contraste: manual 2025, pág. 44",
+      "sourceType": "pdf_companeros_manual",
+      "options": [
+        {
+          "id": "rcm_282_a",
+          "text": "En las habilidades para facilitar la comunicación."
+        },
+        {
+          "id": "rcm_282_b",
+          "text": "En las habilidades para la comprensión y gestión del conflicto."
+        },
+        {
+          "id": "rcm_282_c",
+          "text": "En las habilidades para la conciencia y regulación emocional."
+        },
+        {
+          "id": "rcm_282_d",
+          "text": "En las habilidades para organizar y evaluar el servicio de mediación."
+        }
+      ],
+      "correctOptionId": "rcm_282_c",
+      "explanation": "El manual incluye el autocontrol, responder con templanza y gestionar la ira entre las habilidades para la conciencia y regulación emocional.",
+      "hasExplanation": true,
+      "topic": "Regulación emocional"
+    },
+    {
+      "id": "rcm_288",
+      "originNumber": 288,
+      "originLabel": "Recopilatorio compañeros · M288",
+      "question": "¿Qué tipos de preguntas ayudan al mediador a aclarar el relato y explorar el conflicto desde otros puntos de vista?",
+      "chapter": "Capítulo 4. El proceso de la mediación escolar",
+      "sourceGroup": "Recopilatorio compañeros · contrastado con manual 2025",
+      "sourceDetail": "Recopilatorio compañeros · M288 · Daypo «Mediación VIU» (mayo 2025) · Contraste: manual 2025, pág. 42",
+      "sourceType": "pdf_companeros_manual",
+      "options": [
+        {
+          "id": "rcm_288_a",
+          "text": "Preguntas cerradas y centradas exclusivamente en comprobar hechos."
+        },
+        {
+          "id": "rcm_288_b",
+          "text": "Preguntas abiertas de aclaración y preguntas circulares o de imaginación."
+        },
+        {
+          "id": "rcm_288_c",
+          "text": "Preguntas acusatorias para identificar responsabilidades."
+        },
+        {
+          "id": "rcm_288_d",
+          "text": "Preguntas coercitivas que conduzcan a aceptar una solución."
+        }
+      ],
+      "correctOptionId": "rcm_288_b",
+      "explanation": "El manual recoge preguntas abiertas para pedir aclaraciones y preguntas circulares o de imaginación para reformular el conflicto y explorarlo desde otros ángulos.",
+      "hasExplanation": true,
+      "topic": "Preguntas en mediación"
+    },
+    {
+      "id": "rcm_289",
+      "originNumber": 289,
+      "originLabel": "Recopilatorio compañeros · M289",
+      "question": "¿Qué actitud debe evitar el mediador al relacionarse con las personas implicadas?",
+      "chapter": "Capítulo 4. El proceso de la mediación escolar",
+      "sourceGroup": "Recopilatorio compañeros · contrastado con manual 2025",
+      "sourceDetail": "Recopilatorio compañeros · M289 · Daypo «Mediación VIU» (mayo 2025) · Contraste: manual 2025, pág. 42",
+      "sourceType": "pdf_companeros_manual",
+      "options": [
+        {
+          "id": "rcm_289_a",
+          "text": "Escuchar y reconocer las preocupaciones de ambas partes."
+        },
+        {
+          "id": "rcm_289_b",
+          "text": "Mantener una relación de igual a igual."
+        },
+        {
+          "id": "rcm_289_c",
+          "text": "Respetar las opiniones e intereses de las personas implicadas."
+        },
+        {
+          "id": "rcm_289_d",
+          "text": "Situarse en una posición de superioridad respecto a las partes."
+        }
+      ],
+      "correctOptionId": "rcm_289_d",
+      "explanation": "El manual indica que los mediadores deben establecer una relación de persona a persona y de igual a igual, sin considerarse superiores a las partes.",
+      "hasExplanation": true,
+      "topic": "Relación con las partes"
+    },
+    {
+      "id": "rcm_291",
+      "originNumber": 291,
+      "originLabel": "Recopilatorio compañeros · M291",
+      "question": "¿Cuáles son los objetivos de las actividades propuestas para trabajar la mediación escolar en el aula?",
+      "chapter": "Capítulo 5. Programas y actividades de mediación escolar",
+      "sourceGroup": "Recopilatorio compañeros · contrastado con manual 2025",
+      "sourceDetail": "Recopilatorio compañeros · M291 · Test de repaso de la profesora Laura (HTML) · Contraste: manual 2025, pág. 47",
+      "sourceType": "pdf_companeros_manual",
+      "options": [
+        {
+          "id": "rcm_291_a",
+          "text": "Clasificar al alumnado por su capacidad para resolver conflictos y evaluar su rendimiento."
+        },
+        {
+          "id": "rcm_291_b",
+          "text": "Comprender el conflicto y promover una visión positiva, mejorar la comunicación y el entendimiento, y experimentar el proceso de mediación."
+        },
+        {
+          "id": "rcm_291_c",
+          "text": "Sustituir las normas de convivencia por acuerdos individuales."
+        },
+        {
+          "id": "rcm_291_d",
+          "text": "Centrar la intervención en la identificación de responsables y la aplicación de sanciones."
+        }
+      ],
+      "correctOptionId": "rcm_291_b",
+      "explanation": "El capítulo 5 señala tres objetivos: comprender el conflicto y promover su visión positiva; mejorar la comunicación y el entendimiento; y experimentar el proceso de mediación.",
+      "hasExplanation": true,
+      "topic": "Objetivos de las actividades"
+    },
+    {
+      "id": "rcm_344",
+      "originNumber": 344,
+      "originLabel": "Recopilatorio compañeros · M344",
+      "question": "¿Qué debe garantizarse al establecer los turnos de palabra en una sesión de mediación?",
+      "chapter": "Capítulo 4. El proceso de la mediación escolar",
+      "sourceGroup": "Recopilatorio compañeros · contrastado con manual 2025",
+      "sourceDetail": "Recopilatorio compañeros · M344 · Daypo «05MSEC curso 24-25 mayo» · Contraste: manual 2025, pág. 39",
+      "sourceType": "pdf_companeros_manual",
+      "options": [
+        {
+          "id": "rcm_344_a",
+          "text": "Que el mediador pueda interrumpir cualquier relato para adelantar el acuerdo."
+        },
+        {
+          "id": "rcm_344_b",
+          "text": "Que la parte que inicia el relato disponga de más tiempo."
+        },
+        {
+          "id": "rcm_344_c",
+          "text": "Que ambas partes tengan el mismo tiempo para intervenir y puedan hablar sin interrupciones."
+        },
+        {
+          "id": "rcm_344_d",
+          "text": "Que solo intervenga una parte cada vez que el mediador lo autorice."
+        }
+      ],
+      "correctOptionId": "rcm_344_c",
+      "explanation": "El guion del manual establece turnos de palabra, el mismo tiempo para intervenir y la prohibición de interrumpir el discurso de la otra persona.",
+      "hasExplanation": true,
+      "topic": "Turnos de palabra"
+    },
+    {
+      "id": "rcm_355",
+      "originNumber": 355,
+      "originLabel": "Recopilatorio compañeros · M355",
+      "question": "¿Cómo pueden llegar los casos al equipo de mediación durante la fase de premediación?",
+      "chapter": "Capítulo 4. El proceso de la mediación escolar",
+      "sourceGroup": "Recopilatorio compañeros · contrastado con manual 2025",
+      "sourceDetail": "Recopilatorio compañeros · M355 · Daypo «Mediación VIU» (mayo 2025) · Contraste: manual 2025, pág. 37",
+      "sourceType": "pdf_companeros_manual",
+      "options": [
+        {
+          "id": "rcm_355_a",
+          "text": "Únicamente por iniciativa de la dirección del centro."
+        },
+        {
+          "id": "rcm_355_b",
+          "text": "Solo por iniciativa directa de una de las partes."
+        },
+        {
+          "id": "rcm_355_c",
+          "text": "Exclusivamente por derivación del profesorado."
+        },
+        {
+          "id": "rcm_355_d",
+          "text": "Por iniciativa propia o por derivación de compañeros, profesores, directores o familiares."
+        }
+      ],
+      "correctOptionId": "rcm_355_d",
+      "explanation": "El manual indica que los casos pueden llegar por iniciativa propia o mediante derivación de compañeros, profesores, directores o familiares.",
+      "hasExplanation": true,
+      "topic": "Acceso al servicio"
     }
   ]
 }
