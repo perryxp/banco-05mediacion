@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "total": 237,
+  "total": 247,
   "questions": [
     {
       "id": "w001",
@@ -7452,6 +7452,326 @@
       "explanation": "La secuencia es concienciación, selección, formación, diseño, presentación, inauguración, revisión y mantenimiento.",
       "hasExplanation": true,
       "topic": "Secuencia"
+    },
+    {
+      "id": "t5_011",
+      "originNumber": 11,
+      "originLabel": "Test interactivo Tema 5 · pregunta 11",
+      "question": "¿Qué rasgo caracteriza al programa noruego Sabona?",
+      "chapter": "Tema 5.2 · Programas de mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.2 · Sabona",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_011_a",
+          "text": "Se centra en obtener reconocimientos mediante evaluación externa anual."
+        },
+        {
+          "id": "t5_011_b",
+          "text": "Extiende un proyecto municipal de Castellón a centros de primaria."
+        },
+        {
+          "id": "t5_011_c",
+          "text": "Se organiza en torno a una simulación de cuatro participantes."
+        },
+        {
+          "id": "t5_011_d",
+          "text": "Promueve transformar conflictos y mejorar relaciones desde una cultura de paz."
+        }
+      ],
+      "correctOptionId": "t5_011_d",
+      "explanation": "Sabona está vinculado a Galtung, la filosofía de Gandhi y una visión amplia de la comunidad educativa.",
+      "hasExplanation": true,
+      "topic": "Sabona"
+    },
+    {
+      "id": "t5_012",
+      "originNumber": 12,
+      "originLabel": "Test interactivo Tema 5 · pregunta 12",
+      "question": "¿Qué significado atribuye el manual al nombre Sabona, procedente del zulú?",
+      "chapter": "Tema 5.2 · Programas de mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.2 · Sabona",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_012_a",
+          "text": "Hablemos juntos."
+        },
+        {
+          "id": "t5_012_b",
+          "text": "Espacio de paz."
+        },
+        {
+          "id": "t5_012_c",
+          "text": "Te veo."
+        },
+        {
+          "id": "t5_012_d",
+          "text": "Aprender a escuchar."
+        }
+      ],
+      "correctOptionId": "t5_012_c",
+      "explanation": "El nombre se traduce como «te veo» y se relaciona con el valor de la reconciliación.",
+      "hasExplanation": true,
+      "topic": "Sabona"
+    },
+    {
+      "id": "t5_013",
+      "originNumber": 13,
+      "originLabel": "Test interactivo Tema 5 · pregunta 13",
+      "question": "¿Por qué Sabona incluye familias, docentes y personal del centro?",
+      "chapter": "Tema 5.2 · Programas de mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.2 · Sabona",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_013_a",
+          "text": "Para concentrar las intervenciones en el rendimiento del alumnado."
+        },
+        {
+          "id": "t5_013_b",
+          "text": "Para reconocer que los conflictos afectan a toda la comunidad educativa."
+        },
+        {
+          "id": "t5_013_c",
+          "text": "Para sustituir la formación del equipo de mediadores por reuniones familiares."
+        },
+        {
+          "id": "t5_013_d",
+          "text": "Para establecer una evaluación externa al final de cada trimestre."
+        }
+      ],
+      "correctOptionId": "t5_013_b",
+      "explanation": "Su apertura evita asociar la conflictividad exclusivamente al alumnado.",
+      "hasExplanation": true,
+      "topic": "Sabona"
+    },
+    {
+      "id": "t5_014",
+      "originNumber": 14,
+      "originLabel": "Test interactivo Tema 5 · pregunta 14",
+      "question": "¿Qué es la Red Andaluza «Escuela: Espacio de Paz»?",
+      "chapter": "Tema 5.2 · Programas de mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.2 · Red andaluza",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_014_a",
+          "text": "Una red de centros comprometidos con ámbitos del Plan de Convivencia y buenas prácticas."
+        },
+        {
+          "id": "t5_014_b",
+          "text": "Un curso noruego de formación en derechos humanos."
+        },
+        {
+          "id": "t5_014_c",
+          "text": "Un proyecto municipal iniciado en el IES Miralcamp."
+        },
+        {
+          "id": "t5_014_d",
+          "text": "Una técnica de dramatización en grupos de cuatro."
+        }
+      ],
+      "correctOptionId": "t5_014_a",
+      "explanation": "Se trata de una red que fomenta prácticas de mejora de la convivencia en seis ámbitos.",
+      "hasExplanation": true,
+      "topic": "Red andaluza"
+    },
+    {
+      "id": "t5_015",
+      "originNumber": 15,
+      "originLabel": "Test interactivo Tema 5 · pregunta 15",
+      "question": "¿Qué reconocimiento pueden solicitar los centros de la Red tras evaluación externa?",
+      "chapter": "Tema 5.2 · Programas de mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.2 · Red andaluza",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_015_a",
+          "text": "Centros de Mediación Internacional Sabona."
+        },
+        {
+          "id": "t5_015_b",
+          "text": "Centros de Innovación Mediem."
+        },
+        {
+          "id": "t5_015_c",
+          "text": "Escuelas de Formación de Mediadores Expertos."
+        },
+        {
+          "id": "t5_015_d",
+          "text": "Centros Promotores de Convivencia Positiva (Convivencia+)."
+        }
+      ],
+      "correctOptionId": "t5_015_d",
+      "explanation": "El manual indica que pueden solicitar evaluación externa al final del curso para optar a Convivencia+.",
+      "hasExplanation": true,
+      "topic": "Red andaluza"
+    },
+    {
+      "id": "t5_016",
+      "originNumber": 16,
+      "originLabel": "Test interactivo Tema 5 · pregunta 16",
+      "question": "¿Cuál de los siguientes ámbitos figura en la Red «Escuela: Espacio de Paz»?",
+      "chapter": "Tema 5.2 · Programas de mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.2 · Red andaluza",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_016_a",
+          "text": "Clasificación de conflictos por continentes."
+        },
+        {
+          "id": "t5_016_b",
+          "text": "Sustitución del Plan de Convivencia por actas de mediación."
+        },
+        {
+          "id": "t5_016_c",
+          "text": "Reeducación de actitudes y restauración de la convivencia."
+        },
+        {
+          "id": "t5_016_d",
+          "text": "Calificación individual de mediadores por exámenes."
+        }
+      ],
+      "correctOptionId": "t5_016_c",
+      "explanation": "La restauración de la convivencia es uno de los seis ámbitos de trabajo de la Red.",
+      "hasExplanation": true,
+      "topic": "Red andaluza"
+    },
+    {
+      "id": "t5_017",
+      "originNumber": 17,
+      "originLabel": "Test interactivo Tema 5 · pregunta 17",
+      "question": "¿De qué experiencia surge el proyecto Mediem?",
+      "chapter": "Tema 5.2 · Programas de mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.2 · Mediem",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_017_a",
+          "text": "De la creación de la red autonómica andaluza."
+        },
+        {
+          "id": "t5_017_b",
+          "text": "De nueve años de mediación en el IES Miralcamp de Castellón."
+        },
+        {
+          "id": "t5_017_c",
+          "text": "De un programa noruego basado en la filosofía de Gandhi."
+        },
+        {
+          "id": "t5_017_d",
+          "text": "De una actividad de análisis de noticias históricas."
+        }
+      ],
+      "correctOptionId": "t5_017_b",
+      "explanation": "El manual sitúa su origen en la experiencia del IES Miralcamp.",
+      "hasExplanation": true,
+      "topic": "Mediem"
+    },
+    {
+      "id": "t5_018",
+      "originNumber": 18,
+      "originLabel": "Test interactivo Tema 5 · pregunta 18",
+      "question": "¿Cuál es el objetivo territorial del proyecto Mediem?",
+      "chapter": "Tema 5.2 · Programas de mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.2 · Mediem",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_018_a",
+          "text": "Extender la mediación a centros de primaria y secundaria de Villarreal."
+        },
+        {
+          "id": "t5_018_b",
+          "text": "Crear una red europea de institutos con evaluación anual."
+        },
+        {
+          "id": "t5_018_c",
+          "text": "Formar mediadores en centros universitarios de toda España."
+        },
+        {
+          "id": "t5_018_d",
+          "text": "Limitar la intervención al centro que inició el proyecto."
+        }
+      ],
+      "correctOptionId": "t5_018_a",
+      "explanation": "Mediem busca difundir la mediación en los centros escolares del municipio de Villarreal.",
+      "hasExplanation": true,
+      "topic": "Mediem"
+    },
+    {
+      "id": "t5_019",
+      "originNumber": 19,
+      "originLabel": "Test interactivo Tema 5 · pregunta 19",
+      "question": "¿Qué actividad forma parte de las fases del proyecto Mediem?",
+      "chapter": "Tema 5.2 · Programas de mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.2 · Mediem",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_019_a",
+          "text": "Seleccionar conflictos periodísticos para situarlos en un mapamundi."
+        },
+        {
+          "id": "t5_019_b",
+          "text": "Clasificar expresiones que dificultan la comunicación."
+        },
+        {
+          "id": "t5_019_c",
+          "text": "Construir una pirámide de principios en cada sesión."
+        },
+        {
+          "id": "t5_019_d",
+          "text": "Asesorar a centros y seguir la implementación de la mediación."
+        }
+      ],
+      "correctOptionId": "t5_019_d",
+      "explanation": "Mediem incluye formación, seminarios, asesoramiento, seguimiento y transferencia a otros ámbitos.",
+      "hasExplanation": true,
+      "topic": "Mediem"
+    },
+    {
+      "id": "t5_020",
+      "originNumber": 20,
+      "originLabel": "Test interactivo Tema 5 · pregunta 20",
+      "question": "¿Qué relación entre programa y característica es correcta?",
+      "chapter": "Tema 5.2 · Programas de mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.2 · Comparación",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_020_a",
+          "text": "Mediem: evaluación externa para obtener Convivencia+."
+        },
+        {
+          "id": "t5_020_b",
+          "text": "Red andaluza: origen en el IES Miralcamp."
+        },
+        {
+          "id": "t5_020_c",
+          "text": "Sabona: comunidad educativa y cultura de paz."
+        },
+        {
+          "id": "t5_020_d",
+          "text": "Sabona: implantación municipal en Villarreal."
+        }
+      ],
+      "correctOptionId": "t5_020_c",
+      "explanation": "Sabona se abre a toda la comunidad y enfatiza paz, derechos humanos, democracia y empatía.",
+      "hasExplanation": true,
+      "topic": "Comparación"
     }
   ]
 }
