@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "total": 267,
+  "total": 277,
   "questions": [
     {
       "id": "w001",
@@ -8412,6 +8412,326 @@
       "explanation": "La actividad trabaja la toma de perspectiva mediante el caso de José y Juan.",
       "hasExplanation": true,
       "topic": "Empatía"
+    },
+    {
+      "id": "t5_041",
+      "originNumber": 41,
+      "originLabel": "Test interactivo Tema 5 · pregunta 41",
+      "question": "¿Qué principio se vulnera al contar a terceros lo hablado en mediación?",
+      "chapter": "Tema 5.5 · Experimentar la mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.5 · Principios",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_041_a",
+          "text": "Intimidad."
+        },
+        {
+          "id": "t5_041_b",
+          "text": "Confidencialidad."
+        },
+        {
+          "id": "t5_041_c",
+          "text": "Participación directa."
+        },
+        {
+          "id": "t5_041_d",
+          "text": "Legalidad."
+        }
+      ],
+      "correctOptionId": "t5_041_b",
+      "explanation": "La confidencialidad exige preservar el contenido de las conversaciones.",
+      "hasExplanation": true,
+      "topic": "Principios"
+    },
+    {
+      "id": "t5_042",
+      "originNumber": 42,
+      "originLabel": "Test interactivo Tema 5 · pregunta 42",
+      "question": "Si se insiste en que alguien revele algo que considera íntimo, ¿qué principio se vulnera?",
+      "chapter": "Tema 5.5 · Experimentar la mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.5 · Principios",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_042_a",
+          "text": "Intimidad."
+        },
+        {
+          "id": "t5_042_b",
+          "text": "Imparcialidad."
+        },
+        {
+          "id": "t5_042_c",
+          "text": "Simetría de poder."
+        },
+        {
+          "id": "t5_042_d",
+          "text": "Participación directa."
+        }
+      ],
+      "correctOptionId": "t5_042_a",
+      "explanation": "La intimidad protege de tener que hablar de asuntos personales que no se desean compartir.",
+      "hasExplanation": true,
+      "topic": "Principios"
+    },
+    {
+      "id": "t5_043",
+      "originNumber": 43,
+      "originLabel": "Test interactivo Tema 5 · pregunta 43",
+      "question": "Si un mediador afirma que una parte miente y apoya a la otra, ¿qué principio compromete?",
+      "chapter": "Tema 5.5 · Experimentar la mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.5 · Principios",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_043_a",
+          "text": "Legalidad."
+        },
+        {
+          "id": "t5_043_b",
+          "text": "Salud mental."
+        },
+        {
+          "id": "t5_043_c",
+          "text": "Participación directa."
+        },
+        {
+          "id": "t5_043_d",
+          "text": "Imparcialidad."
+        }
+      ],
+      "correctOptionId": "t5_043_d",
+      "explanation": "La imparcialidad exige no tomar partido por ninguna de las partes.",
+      "hasExplanation": true,
+      "topic": "Principios"
+    },
+    {
+      "id": "t5_044",
+      "originNumber": 44,
+      "originLabel": "Test interactivo Tema 5 · pregunta 44",
+      "question": "Si las partes comienzan a insultarse, ¿qué principio requiere intervención para reconducir el diálogo?",
+      "chapter": "Tema 5.5 · Experimentar la mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.5 · Principios",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_044_a",
+          "text": "Intimidad."
+        },
+        {
+          "id": "t5_044_b",
+          "text": "Legalidad."
+        },
+        {
+          "id": "t5_044_c",
+          "text": "Seguridad."
+        },
+        {
+          "id": "t5_044_d",
+          "text": "Participación directa."
+        }
+      ],
+      "correctOptionId": "t5_044_c",
+      "explanation": "La seguridad implica mantener una atmósfera respetuosa y recordar las normas acordadas.",
+      "hasExplanation": true,
+      "topic": "Principios"
+    },
+    {
+      "id": "t5_045",
+      "originNumber": 45,
+      "originLabel": "Test interactivo Tema 5 · pregunta 45",
+      "question": "¿Qué principio impide obligar a una persona a aceptar el proceso bajo amenaza de expulsión?",
+      "chapter": "Tema 5.5 · Experimentar la mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.5 · Principios",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_045_a",
+          "text": "Confidencialidad."
+        },
+        {
+          "id": "t5_045_b",
+          "text": "Voluntariedad."
+        },
+        {
+          "id": "t5_045_c",
+          "text": "Participación directa."
+        },
+        {
+          "id": "t5_045_d",
+          "text": "Legalidad."
+        }
+      ],
+      "correctOptionId": "t5_045_b",
+      "explanation": "Las partes deben participar libremente y sin coacciones.",
+      "hasExplanation": true,
+      "topic": "Principios"
+    },
+    {
+      "id": "t5_046",
+      "originNumber": 46,
+      "originLabel": "Test interactivo Tema 5 · pregunta 46",
+      "question": "¿Qué significa participación directa en la tabla de principios?",
+      "chapter": "Tema 5.5 · Experimentar la mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.5 · Principios",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_046_a",
+          "text": "Que intervengan las propias personas implicadas, sin delegar el conflicto."
+        },
+        {
+          "id": "t5_046_b",
+          "text": "Que las familias representen a los estudiantes durante el encuentro."
+        },
+        {
+          "id": "t5_046_c",
+          "text": "Que el mediador asuma las decisiones por las partes."
+        },
+        {
+          "id": "t5_046_d",
+          "text": "Que el profesorado valide cada propuesta antes de escucharla."
+        }
+      ],
+      "correctOptionId": "t5_046_a",
+      "explanation": "El principio señala que quienes viven el conflicto participan personalmente.",
+      "hasExplanation": true,
+      "topic": "Principios"
+    },
+    {
+      "id": "t5_047",
+      "originNumber": 47,
+      "originLabel": "Test interactivo Tema 5 · pregunta 47",
+      "question": "¿Por qué es importante la simetría de poder en la mediación?",
+      "chapter": "Tema 5.5 · Experimentar la mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.5 · Principios",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_047_a",
+          "text": "Porque exige que ambas partes tengan la misma edad."
+        },
+        {
+          "id": "t5_047_b",
+          "text": "Porque requiere idéntica formación académica."
+        },
+        {
+          "id": "t5_047_c",
+          "text": "Porque supone que las partes presenten el mismo número de propuestas."
+        },
+        {
+          "id": "t5_047_d",
+          "text": "Porque permite expresarse libremente en condiciones de igualdad."
+        }
+      ],
+      "correctOptionId": "t5_047_d",
+      "explanation": "El manual excluye la mediación entre agresor y víctima de maltrato por la desigualdad de poder.",
+      "hasExplanation": true,
+      "topic": "Principios"
+    },
+    {
+      "id": "t5_048",
+      "originNumber": 48,
+      "originLabel": "Test interactivo Tema 5 · pregunta 48",
+      "question": "¿Qué condición describe el principio de salud mental en la actividad?",
+      "chapter": "Tema 5.5 · Experimentar la mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.5 · Principios",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_048_a",
+          "text": "Que los participantes tengan igual nivel de conocimientos."
+        },
+        {
+          "id": "t5_048_b",
+          "text": "Que los mediadores dispongan de un espacio tranquilo."
+        },
+        {
+          "id": "t5_048_c",
+          "text": "Que las partes estén en condiciones de dialogar y comprenderse."
+        },
+        {
+          "id": "t5_048_d",
+          "text": "Que los acuerdos se revisen en una fecha prevista."
+        }
+      ],
+      "correctOptionId": "t5_048_c",
+      "explanation": "El texto considera inviable mediar bajo efectos de estupefacientes o alteraciones psiquiátricas graves.",
+      "hasExplanation": true,
+      "topic": "Principios"
+    },
+    {
+      "id": "t5_049",
+      "originNumber": 49,
+      "originLabel": "Test interactivo Tema 5 · pregunta 49",
+      "question": "¿Qué finalidad tiene elaborar una pirámide de principios de mediación?",
+      "chapter": "Tema 5.5 · Experimentar la mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.5 · Pirámide",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_049_a",
+          "text": "Eliminar del programa los principios que queden en la base."
+        },
+        {
+          "id": "t5_049_b",
+          "text": "Debatir y consensuar una jerarquía, reflexionando después sobre todos los principios."
+        },
+        {
+          "id": "t5_049_c",
+          "text": "Asignar sanciones distintas según el principio vulnerado."
+        },
+        {
+          "id": "t5_049_d",
+          "text": "Sustituir la explicación inicial por una clasificación individual."
+        }
+      ],
+      "correctOptionId": "t5_049_b",
+      "explanation": "La actividad propone ordenar principios en grupo y cerrar recordando la importancia de todos.",
+      "hasExplanation": true,
+      "topic": "Pirámide"
+    },
+    {
+      "id": "t5_050",
+      "originNumber": 50,
+      "originLabel": "Test interactivo Tema 5 · pregunta 50",
+      "question": "¿Cómo se organizan los roles en la dramatización de mediación?",
+      "chapter": "Tema 5.5 · Experimentar la mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.5 · Dramatización",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_050_a",
+          "text": "Grupos de cuatro: dos mediadores y dos partes en conflicto."
+        },
+        {
+          "id": "t5_050_b",
+          "text": "Grupos de cinco: un juez, dos testigos y dos partes."
+        },
+        {
+          "id": "t5_050_c",
+          "text": "Parejas: un mediador y un observador."
+        },
+        {
+          "id": "t5_050_d",
+          "text": "Grupos de tres: un docente y dos portavoces."
+        }
+      ],
+      "correctOptionId": "t5_050_a",
+      "explanation": "El capítulo describe comediación con dos mediadores y dos participantes implicados.",
+      "hasExplanation": true,
+      "topic": "Dramatización"
     }
   ]
 }
