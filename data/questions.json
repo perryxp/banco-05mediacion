@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "total": 257,
+  "total": 267,
   "questions": [
     {
       "id": "w001",
@@ -8092,6 +8092,326 @@
       "explanation": "«Personas» examina perspectivas, emociones, efectos y necesidades de los implicados.",
       "hasExplanation": true,
       "topic": "Tres P"
+    },
+    {
+      "id": "t5_031",
+      "originNumber": 31,
+      "originLabel": "Test interactivo Tema 5 · pregunta 31",
+      "question": "¿Qué se pretende con la actividad «Expresiones asesinas de la comunicación»?",
+      "chapter": "Tema 5.4 · Comunicación y empatía",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.4 · Expresiones",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_031_a",
+          "text": "Organizar los principios de mediación según importancia."
+        },
+        {
+          "id": "t5_031_b",
+          "text": "Reproducir las etapas de implantación de un servicio escolar."
+        },
+        {
+          "id": "t5_031_c",
+          "text": "Investigar conflictos bélicos a partir de noticias."
+        },
+        {
+          "id": "t5_031_d",
+          "text": "Reconocer mensajes que bloquean el diálogo y reformularlos de forma facilitadora."
+        }
+      ],
+      "correctOptionId": "t5_031_d",
+      "explanation": "Se detectan expresiones problemáticas y se sustituyen por apoyo, validación y escucha.",
+      "hasExplanation": true,
+      "topic": "Expresiones"
+    },
+    {
+      "id": "t5_032",
+      "originNumber": 32,
+      "originLabel": "Test interactivo Tema 5 · pregunta 32",
+      "question": "Ante una amiga preocupada por suspender, ¿qué respuesta ejemplifica una expresión que dificulta la comunicación?",
+      "chapter": "Tema 5.4 · Comunicación y empatía",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.4 · Expresiones",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_032_a",
+          "text": "«Parece que te preocupa mucho recuperar las asignaturas»."
+        },
+        {
+          "id": "t5_032_b",
+          "text": "«¿Te apetece contarme qué te está costando?»."
+        },
+        {
+          "id": "t5_032_c",
+          "text": "«No apruebas porque eres una vaga»."
+        },
+        {
+          "id": "t5_032_d",
+          "text": "«Entiendo que esta situación te esté agobiando»."
+        }
+      ],
+      "correctOptionId": "t5_032_c",
+      "explanation": "Atribuir un rasgo despectivo diagnostica motivos y dificulta el entendimiento.",
+      "hasExplanation": true,
+      "topic": "Expresiones"
+    },
+    {
+      "id": "t5_033",
+      "originNumber": 33,
+      "originLabel": "Test interactivo Tema 5 · pregunta 33",
+      "question": "¿Qué tipo de expresión representa «Eso no es nada, yo he pasado por cosas peores»?",
+      "chapter": "Tema 5.4 · Comunicación y empatía",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.4 · Expresiones",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_033_a",
+          "text": "Reflejar y validar sus sentimientos."
+        },
+        {
+          "id": "t5_033_b",
+          "text": "Restar importancia a lo que siente la otra persona."
+        },
+        {
+          "id": "t5_033_c",
+          "text": "Describir objetivamente una situación."
+        },
+        {
+          "id": "t5_033_d",
+          "text": "Solicitar información para comprender el contexto."
+        }
+      ],
+      "correctOptionId": "t5_033_b",
+      "explanation": "La frase minimiza la vivencia ajena en lugar de reconocerla.",
+      "hasExplanation": true,
+      "topic": "Expresiones"
+    },
+    {
+      "id": "t5_034",
+      "originNumber": 34,
+      "originLabel": "Test interactivo Tema 5 · pregunta 34",
+      "question": "¿Por qué puede dificultar la comunicación dar consejos no solicitados?",
+      "chapter": "Tema 5.4 · Comunicación y empatía",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.4 · Expresiones",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_034_a",
+          "text": "Porque desplaza la escucha de las necesidades hacia una solución impuesta."
+        },
+        {
+          "id": "t5_034_b",
+          "text": "Porque expresa con claridad las emociones propias sin culpar."
+        },
+        {
+          "id": "t5_034_c",
+          "text": "Porque ayuda a conocer la perspectiva del otro mediante preguntas abiertas."
+        },
+        {
+          "id": "t5_034_d",
+          "text": "Porque reconoce el malestar antes de proponer alternativas."
+        }
+      ],
+      "correctOptionId": "t5_034_a",
+      "explanation": "El manual incluye los consejos no requeridos entre las expresiones que obstaculizan el diálogo.",
+      "hasExplanation": true,
+      "topic": "Expresiones"
+    },
+    {
+      "id": "t5_035",
+      "originNumber": 35,
+      "originLabel": "Test interactivo Tema 5 · pregunta 35",
+      "question": "¿Cuál es la estructura de una frase autoafirmativa?",
+      "chapter": "Tema 5.4 · Comunicación y empatía",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.4 · Autoafirmación",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_035_a",
+          "text": "Explicar los hechos, identificar a la persona culpable y exigir una disculpa."
+        },
+        {
+          "id": "t5_035_b",
+          "text": "Exponer una queja, proponer una sanción y fijar un plazo."
+        },
+        {
+          "id": "t5_035_c",
+          "text": "Describir las emociones del otro, corregirlas y proponer una solución."
+        },
+        {
+          "id": "t5_035_d",
+          "text": "Describir la situación, expresar la propia respuesta y comunicar lo que se preferiría."
+        }
+      ],
+      "correctOptionId": "t5_035_d",
+      "explanation": "La actividad enseña tres pasos centrados en la experiencia propia y sin culpabilizar.",
+      "hasExplanation": true,
+      "topic": "Autoafirmación"
+    },
+    {
+      "id": "t5_036",
+      "originNumber": 36,
+      "originLabel": "Test interactivo Tema 5 · pregunta 36",
+      "question": "¿Qué frase se aproxima más al discurso autoafirmativo?",
+      "chapter": "Tema 5.4 · Comunicación y empatía",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.4 · Autoafirmación",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_036_a",
+          "text": "«Cuando hay ruido es porque no os importa aprender»."
+        },
+        {
+          "id": "t5_036_b",
+          "text": "«Deberíais comportaros mejor para que pueda explicar»."
+        },
+        {
+          "id": "t5_036_c",
+          "text": "«Cuando hay ruido me cuesta explicar y me gustaría hacerlo con calma»."
+        },
+        {
+          "id": "t5_036_d",
+          "text": "«Si seguís hablando tendré que cambiaros de sitio»."
+        }
+      ],
+      "correctOptionId": "t5_036_c",
+      "explanation": "La primera opción describe situación, efecto personal y preferencia sin atacar a los demás.",
+      "hasExplanation": true,
+      "topic": "Autoafirmación"
+    },
+    {
+      "id": "t5_037",
+      "originNumber": 37,
+      "originLabel": "Test interactivo Tema 5 · pregunta 37",
+      "question": "¿Por qué se evita culpabilizar en las frases autoafirmativas?",
+      "chapter": "Tema 5.4 · Comunicación y empatía",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.4 · Autoafirmación",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_037_a",
+          "text": "Para prescindir de expresar necesidades personales."
+        },
+        {
+          "id": "t5_037_b",
+          "text": "Para reducir reacciones defensivas y facilitar la escucha."
+        },
+        {
+          "id": "t5_037_c",
+          "text": "Para convertir el mensaje en una instrucción disciplinaria."
+        },
+        {
+          "id": "t5_037_d",
+          "text": "Para evitar mencionar las emociones vinculadas al conflicto."
+        }
+      ],
+      "correctOptionId": "t5_037_b",
+      "explanation": "El mensaje en primera persona favorece el diálogo al no exigir cambios mediante reproches.",
+      "hasExplanation": true,
+      "topic": "Autoafirmación"
+    },
+    {
+      "id": "t5_038",
+      "originNumber": 38,
+      "originLabel": "Test interactivo Tema 5 · pregunta 38",
+      "question": "Según el texto del capítulo, ¿qué implica mostrar empatía?",
+      "chapter": "Tema 5.4 · Comunicación y empatía",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.4 · Empatía",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_038_a",
+          "text": "Comprender la perspectiva y los sentimientos ajenos sin tener que aprobarlos."
+        },
+        {
+          "id": "t5_038_b",
+          "text": "Compartir el mismo juicio y sentimiento que la otra persona."
+        },
+        {
+          "id": "t5_038_c",
+          "text": "Aceptar la explicación ajena como solución definitiva."
+        },
+        {
+          "id": "t5_038_d",
+          "text": "Renunciar a expresar la propia necesidad para evitar desacuerdos."
+        }
+      ],
+      "correctOptionId": "t5_038_a",
+      "explanation": "La empatía supone comprender al otro desde su punto de vista sin confundir comprensión con acuerdo.",
+      "hasExplanation": true,
+      "topic": "Empatía"
+    },
+    {
+      "id": "t5_039",
+      "originNumber": 39,
+      "originLabel": "Test interactivo Tema 5 · pregunta 39",
+      "question": "En el ejemplo del juego prestado, ¿qué respuesta de Juan favorece la empatía?",
+      "chapter": "Tema 5.4 · Comunicación y empatía",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.4 · Empatía",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_039_a",
+          "text": "«Como no lo has devuelto, no volveré a prestarte nada»."
+        },
+        {
+          "id": "t5_039_b",
+          "text": "«Seguro que lo has perdido por ser descuidado»."
+        },
+        {
+          "id": "t5_039_c",
+          "text": "«No me importa lo que haya pasado; tráelo mañana»."
+        },
+        {
+          "id": "t5_039_d",
+          "text": "«Ha pasado el plazo, ¿te ha ocurrido algo? ¿Quieres hablar?»."
+        }
+      ],
+      "correctOptionId": "t5_039_d",
+      "explanation": "La pregunta reconoce el retraso y abre un espacio para comprender qué sucede.",
+      "hasExplanation": true,
+      "topic": "Empatía"
+    },
+    {
+      "id": "t5_040",
+      "originNumber": 40,
+      "originLabel": "Test interactivo Tema 5 · pregunta 40",
+      "question": "¿Qué aprendizaje se busca con la actividad «La empatía»?",
+      "chapter": "Tema 5.4 · Comunicación y empatía",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.4 · Empatía",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_040_a",
+          "text": "Aprender a clasificar conflictos en categorías históricas."
+        },
+        {
+          "id": "t5_040_b",
+          "text": "Repartir los papeles de comediación en grupos de cuatro."
+        },
+        {
+          "id": "t5_040_c",
+          "text": "Explorar cómo la comprensión mutua mejora comunicación y resolución de conflictos."
+        },
+        {
+          "id": "t5_040_d",
+          "text": "Preparar una campaña para inaugurar un servicio."
+        }
+      ],
+      "correctOptionId": "t5_040_c",
+      "explanation": "La actividad trabaja la toma de perspectiva mediante el caso de José y Juan.",
+      "hasExplanation": true,
+      "topic": "Empatía"
     }
   ]
 }
