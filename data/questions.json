@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "total": 227,
+  "total": 237,
   "questions": [
     {
       "id": "w001",
@@ -7132,6 +7132,326 @@
       "explanation": "El manual indica que los casos pueden llegar por iniciativa propia o mediante derivación de compañeros, profesores, directores o familiares.",
       "hasExplanation": true,
       "topic": "Acceso al servicio"
+    },
+    {
+      "id": "t5_001",
+      "originNumber": 1,
+      "originLabel": "Test interactivo Tema 5 · pregunta 1",
+      "question": "Un centro comienza a implantar mediación. ¿Qué acción corresponde a la primera etapa?",
+      "chapter": "Tema 5.1 · Implantación del servicio",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.1 · Concienciación",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_001_a",
+          "text": "Asignar parejas de mediadores y reservar una sala."
+        },
+        {
+          "id": "t5_001_b",
+          "text": "Informar a toda la comunidad educativa de sus objetivos y beneficios."
+        },
+        {
+          "id": "t5_001_c",
+          "text": "Celebrar reuniones para renovar al equipo."
+        },
+        {
+          "id": "t5_001_d",
+          "text": "Organizar las primeras sesiones con casos reales."
+        }
+      ],
+      "correctOptionId": "t5_001_b",
+      "explanation": "La concienciación genera interés y expectativas favorables antes de poner en marcha el servicio.",
+      "hasExplanation": true,
+      "topic": "Concienciación"
+    },
+    {
+      "id": "t5_002",
+      "originNumber": 2,
+      "originLabel": "Test interactivo Tema 5 · pregunta 2",
+      "question": "¿Qué criterio debe orientar la selección de futuros mediadores?",
+      "chapter": "Tema 5.1 · Implantación del servicio",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.1 · Selección",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_002_a",
+          "text": "Representar la diversidad del centro y comprobar su interés por formarse."
+        },
+        {
+          "id": "t5_002_b",
+          "text": "Elegir a quienes acumulan más experiencia en conflictos disciplinarios."
+        },
+        {
+          "id": "t5_002_c",
+          "text": "Escoger a los estudiantes con mejores calificaciones."
+        },
+        {
+          "id": "t5_002_d",
+          "text": "Concentrar la selección en un mismo curso para facilitar horarios."
+        }
+      ],
+      "correctOptionId": "t5_002_a",
+      "explanation": "El manual destaca variedad de género, edad y origen, con candidaturas voluntarias o propuestas.",
+      "hasExplanation": true,
+      "topic": "Selección"
+    },
+    {
+      "id": "t5_003",
+      "originNumber": 3,
+      "originLabel": "Test interactivo Tema 5 · pregunta 3",
+      "question": "¿Qué duración aproximada contempla el manual para formar al equipo mediador?",
+      "chapter": "Tema 5.1 · Implantación del servicio",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.1 · Formación",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_003_a",
+          "text": "Entre 5 y 10 horas de presentación general."
+        },
+        {
+          "id": "t5_003_b",
+          "text": "Entre 35 y 50 horas de prácticas supervisadas."
+        },
+        {
+          "id": "t5_003_c",
+          "text": "Un trimestre de formación semanal obligatoria."
+        },
+        {
+          "id": "t5_003_d",
+          "text": "Entre 15 y 30 horas como referencia mínima aproximada."
+        }
+      ],
+      "correctOptionId": "t5_003_d",
+      "explanation": "La tercera etapa prevé aproximadamente 15 a 30 horas, habitualmente fuera del horario lectivo.",
+      "hasExplanation": true,
+      "topic": "Formación"
+    },
+    {
+      "id": "t5_004",
+      "originNumber": 4,
+      "originLabel": "Test interactivo Tema 5 · pregunta 4",
+      "question": "Un centro decide horarios, sala, vías de solicitud y tipos de conflictos admitidos. ¿En qué etapa se encuentra?",
+      "chapter": "Tema 5.1 · Implantación del servicio",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.1 · Diseño",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_004_a",
+          "text": "Concienciación de la comunidad."
+        },
+        {
+          "id": "t5_004_b",
+          "text": "Revisión y perfeccionamiento."
+        },
+        {
+          "id": "t5_004_c",
+          "text": "Diseño inicial del servicio."
+        },
+        {
+          "id": "t5_004_d",
+          "text": "Mantenimiento y expansión."
+        }
+      ],
+      "correctOptionId": "t5_004_c",
+      "explanation": "La cuarta etapa concreta la organización y las condiciones operativas del servicio.",
+      "hasExplanation": true,
+      "topic": "Diseño"
+    },
+    {
+      "id": "t5_005",
+      "originNumber": 5,
+      "originLabel": "Test interactivo Tema 5 · pregunta 5",
+      "question": "¿Qué información conviene destacar en la campaña de presentación del servicio?",
+      "chapter": "Tema 5.1 · Implantación del servicio",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.1 · Difusión",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_005_a",
+          "text": "Las actas completas de mediaciones realizadas en otros centros."
+        },
+        {
+          "id": "t5_005_b",
+          "text": "Quiénes median, su función, cómo acudir y dónde se encuentra la sala."
+        },
+        {
+          "id": "t5_005_c",
+          "text": "El historial de conflictos de quienes se han formado."
+        },
+        {
+          "id": "t5_005_d",
+          "text": "Los resultados de una evaluación externa ya concedida."
+        }
+      ],
+      "correctOptionId": "t5_005_b",
+      "explanation": "La quinta etapa presenta el equipo y las vías de acceso mediante los canales de comunicación del centro.",
+      "hasExplanation": true,
+      "topic": "Difusión"
+    },
+    {
+      "id": "t5_006",
+      "originNumber": 6,
+      "originLabel": "Test interactivo Tema 5 · pregunta 6",
+      "question": "¿Cómo distingue el manual informarse del servicio y aceptar una mediación?",
+      "chapter": "Tema 5.1 · Implantación del servicio",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.1 · Inauguración",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_006_a",
+          "text": "Puede exigirse acudir a informarse; participar después es voluntario."
+        },
+        {
+          "id": "t5_006_b",
+          "text": "Ambos pasos dependen de la autorización del equipo mediador."
+        },
+        {
+          "id": "t5_006_c",
+          "text": "La información se reserva a quienes hayan firmado un acuerdo."
+        },
+        {
+          "id": "t5_006_d",
+          "text": "La participación se decide mediante votación del grupo."
+        }
+      ],
+      "correctOptionId": "t5_006_a",
+      "explanation": "El texto diferencia la invitación o información inicial del consentimiento voluntario para mediar.",
+      "hasExplanation": true,
+      "topic": "Inauguración"
+    },
+    {
+      "id": "t5_007",
+      "originNumber": 7,
+      "originLabel": "Test interactivo Tema 5 · pregunta 7",
+      "question": "¿Qué caracteriza a la séptima etapa de implantación?",
+      "chapter": "Tema 5.1 · Implantación del servicio",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.1 · Revisión",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_007_a",
+          "text": "Una campaña para dar a conocer por primera vez el servicio."
+        },
+        {
+          "id": "t5_007_b",
+          "text": "La elección de las personas que iniciarán la formación."
+        },
+        {
+          "id": "t5_007_c",
+          "text": "La celebración de encuentros externos para divulgar logros."
+        },
+        {
+          "id": "t5_007_d",
+          "text": "Reuniones periódicas para detectar dificultades y mejorar el programa."
+        }
+      ],
+      "correctOptionId": "t5_007_d",
+      "explanation": "Revisión y perfeccionamiento incluye analizar casos, necesidades formativas y renovación del equipo.",
+      "hasExplanation": true,
+      "topic": "Revisión"
+    },
+    {
+      "id": "t5_008",
+      "originNumber": 8,
+      "originLabel": "Test interactivo Tema 5 · pregunta 8",
+      "question": "Un equipo comparte buenas prácticas en un congreso y celebra sus logros. ¿Qué etapa ejemplifica?",
+      "chapter": "Tema 5.1 · Implantación del servicio",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.1 · Expansión",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_008_a",
+          "text": "Diseño inicial del servicio."
+        },
+        {
+          "id": "t5_008_b",
+          "text": "Selección de futuros mediadores."
+        },
+        {
+          "id": "t5_008_c",
+          "text": "Mantenimiento y expansión."
+        },
+        {
+          "id": "t5_008_d",
+          "text": "Inauguración y primeras mediaciones."
+        }
+      ],
+      "correctOptionId": "t5_008_c",
+      "explanation": "La octava etapa busca continuidad, renovación y difusión de resultados y experiencias.",
+      "hasExplanation": true,
+      "topic": "Expansión"
+    },
+    {
+      "id": "t5_009",
+      "originNumber": 9,
+      "originLabel": "Test interactivo Tema 5 · pregunta 9",
+      "question": "¿Cuál de estos mecanismos de solicitud aparece entre los ejemplos del manual?",
+      "chapter": "Tema 5.1 · Implantación del servicio",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.1 · Organización",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_009_a",
+          "text": "Registro mediante un examen de competencias sociales."
+        },
+        {
+          "id": "t5_009_b",
+          "text": "Buzón anónimo o contacto con la coordinación."
+        },
+        {
+          "id": "t5_009_c",
+          "text": "Derivación tras la aprobación de un jurado estudiantil."
+        },
+        {
+          "id": "t5_009_d",
+          "text": "Solicitud condicionada a un informe de rendimiento académico."
+        }
+      ],
+      "correctOptionId": "t5_009_b",
+      "explanation": "El diseño inicial contempla buzón anónimo, dirección o coordinación como posibles vías de acceso.",
+      "hasExplanation": true,
+      "topic": "Organización"
+    },
+    {
+      "id": "t5_010",
+      "originNumber": 10,
+      "originLabel": "Test interactivo Tema 5 · pregunta 10",
+      "question": "¿Qué etapa sigue a la formación del equipo mediador en el esquema del capítulo?",
+      "chapter": "Tema 5.1 · Implantación del servicio",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.1 · Secuencia",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_010_a",
+          "text": "Diseño inicial del servicio."
+        },
+        {
+          "id": "t5_010_b",
+          "text": "Revisión y perfeccionamiento."
+        },
+        {
+          "id": "t5_010_c",
+          "text": "Mantenimiento y expansión."
+        },
+        {
+          "id": "t5_010_d",
+          "text": "Concienciación de la comunidad."
+        }
+      ],
+      "correctOptionId": "t5_010_a",
+      "explanation": "La secuencia es concienciación, selección, formación, diseño, presentación, inauguración, revisión y mantenimiento.",
+      "hasExplanation": true,
+      "topic": "Secuencia"
     }
   ]
 }
