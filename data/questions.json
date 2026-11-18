@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "total": 227,
+  "total": 277,
   "questions": [
     {
       "id": "w001",
@@ -7132,6 +7132,1606 @@
       "explanation": "El manual indica que los casos pueden llegar por iniciativa propia o mediante derivación de compañeros, profesores, directores o familiares.",
       "hasExplanation": true,
       "topic": "Acceso al servicio"
+    },
+    {
+      "id": "t5_001",
+      "originNumber": 1,
+      "originLabel": "Test interactivo Tema 5 · pregunta 1",
+      "question": "Un centro comienza a implantar mediación. ¿Qué acción corresponde a la primera etapa?",
+      "chapter": "Tema 5.1 · Implantación del servicio",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.1 · Concienciación",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_001_a",
+          "text": "Asignar parejas de mediadores y reservar una sala."
+        },
+        {
+          "id": "t5_001_b",
+          "text": "Informar a toda la comunidad educativa de sus objetivos y beneficios."
+        },
+        {
+          "id": "t5_001_c",
+          "text": "Celebrar reuniones para renovar al equipo."
+        },
+        {
+          "id": "t5_001_d",
+          "text": "Organizar las primeras sesiones con casos reales."
+        }
+      ],
+      "correctOptionId": "t5_001_b",
+      "explanation": "La concienciación genera interés y expectativas favorables antes de poner en marcha el servicio.",
+      "hasExplanation": true,
+      "topic": "Concienciación"
+    },
+    {
+      "id": "t5_002",
+      "originNumber": 2,
+      "originLabel": "Test interactivo Tema 5 · pregunta 2",
+      "question": "¿Qué criterio debe orientar la selección de futuros mediadores?",
+      "chapter": "Tema 5.1 · Implantación del servicio",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.1 · Selección",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_002_a",
+          "text": "Representar la diversidad del centro y comprobar su interés por formarse."
+        },
+        {
+          "id": "t5_002_b",
+          "text": "Elegir a quienes acumulan más experiencia en conflictos disciplinarios."
+        },
+        {
+          "id": "t5_002_c",
+          "text": "Escoger a los estudiantes con mejores calificaciones."
+        },
+        {
+          "id": "t5_002_d",
+          "text": "Concentrar la selección en un mismo curso para facilitar horarios."
+        }
+      ],
+      "correctOptionId": "t5_002_a",
+      "explanation": "El manual destaca variedad de género, edad y origen, con candidaturas voluntarias o propuestas.",
+      "hasExplanation": true,
+      "topic": "Selección"
+    },
+    {
+      "id": "t5_003",
+      "originNumber": 3,
+      "originLabel": "Test interactivo Tema 5 · pregunta 3",
+      "question": "¿Qué duración aproximada contempla el manual para formar al equipo mediador?",
+      "chapter": "Tema 5.1 · Implantación del servicio",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.1 · Formación",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_003_a",
+          "text": "Entre 5 y 10 horas de presentación general."
+        },
+        {
+          "id": "t5_003_b",
+          "text": "Entre 35 y 50 horas de prácticas supervisadas."
+        },
+        {
+          "id": "t5_003_c",
+          "text": "Un trimestre de formación semanal obligatoria."
+        },
+        {
+          "id": "t5_003_d",
+          "text": "Entre 15 y 30 horas como referencia mínima aproximada."
+        }
+      ],
+      "correctOptionId": "t5_003_d",
+      "explanation": "La tercera etapa prevé aproximadamente 15 a 30 horas, habitualmente fuera del horario lectivo.",
+      "hasExplanation": true,
+      "topic": "Formación"
+    },
+    {
+      "id": "t5_004",
+      "originNumber": 4,
+      "originLabel": "Test interactivo Tema 5 · pregunta 4",
+      "question": "Un centro decide horarios, sala, vías de solicitud y tipos de conflictos admitidos. ¿En qué etapa se encuentra?",
+      "chapter": "Tema 5.1 · Implantación del servicio",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.1 · Diseño",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_004_a",
+          "text": "Concienciación de la comunidad."
+        },
+        {
+          "id": "t5_004_b",
+          "text": "Revisión y perfeccionamiento."
+        },
+        {
+          "id": "t5_004_c",
+          "text": "Diseño inicial del servicio."
+        },
+        {
+          "id": "t5_004_d",
+          "text": "Mantenimiento y expansión."
+        }
+      ],
+      "correctOptionId": "t5_004_c",
+      "explanation": "La cuarta etapa concreta la organización y las condiciones operativas del servicio.",
+      "hasExplanation": true,
+      "topic": "Diseño"
+    },
+    {
+      "id": "t5_005",
+      "originNumber": 5,
+      "originLabel": "Test interactivo Tema 5 · pregunta 5",
+      "question": "¿Qué información conviene destacar en la campaña de presentación del servicio?",
+      "chapter": "Tema 5.1 · Implantación del servicio",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.1 · Difusión",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_005_a",
+          "text": "Las actas completas de mediaciones realizadas en otros centros."
+        },
+        {
+          "id": "t5_005_b",
+          "text": "Quiénes median, su función, cómo acudir y dónde se encuentra la sala."
+        },
+        {
+          "id": "t5_005_c",
+          "text": "El historial de conflictos de quienes se han formado."
+        },
+        {
+          "id": "t5_005_d",
+          "text": "Los resultados de una evaluación externa ya concedida."
+        }
+      ],
+      "correctOptionId": "t5_005_b",
+      "explanation": "La quinta etapa presenta el equipo y las vías de acceso mediante los canales de comunicación del centro.",
+      "hasExplanation": true,
+      "topic": "Difusión"
+    },
+    {
+      "id": "t5_006",
+      "originNumber": 6,
+      "originLabel": "Test interactivo Tema 5 · pregunta 6",
+      "question": "¿Cómo distingue el manual informarse del servicio y aceptar una mediación?",
+      "chapter": "Tema 5.1 · Implantación del servicio",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.1 · Inauguración",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_006_a",
+          "text": "Puede exigirse acudir a informarse; participar después es voluntario."
+        },
+        {
+          "id": "t5_006_b",
+          "text": "Ambos pasos dependen de la autorización del equipo mediador."
+        },
+        {
+          "id": "t5_006_c",
+          "text": "La información se reserva a quienes hayan firmado un acuerdo."
+        },
+        {
+          "id": "t5_006_d",
+          "text": "La participación se decide mediante votación del grupo."
+        }
+      ],
+      "correctOptionId": "t5_006_a",
+      "explanation": "El texto diferencia la invitación o información inicial del consentimiento voluntario para mediar.",
+      "hasExplanation": true,
+      "topic": "Inauguración"
+    },
+    {
+      "id": "t5_007",
+      "originNumber": 7,
+      "originLabel": "Test interactivo Tema 5 · pregunta 7",
+      "question": "¿Qué caracteriza a la séptima etapa de implantación?",
+      "chapter": "Tema 5.1 · Implantación del servicio",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.1 · Revisión",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_007_a",
+          "text": "Una campaña para dar a conocer por primera vez el servicio."
+        },
+        {
+          "id": "t5_007_b",
+          "text": "La elección de las personas que iniciarán la formación."
+        },
+        {
+          "id": "t5_007_c",
+          "text": "La celebración de encuentros externos para divulgar logros."
+        },
+        {
+          "id": "t5_007_d",
+          "text": "Reuniones periódicas para detectar dificultades y mejorar el programa."
+        }
+      ],
+      "correctOptionId": "t5_007_d",
+      "explanation": "Revisión y perfeccionamiento incluye analizar casos, necesidades formativas y renovación del equipo.",
+      "hasExplanation": true,
+      "topic": "Revisión"
+    },
+    {
+      "id": "t5_008",
+      "originNumber": 8,
+      "originLabel": "Test interactivo Tema 5 · pregunta 8",
+      "question": "Un equipo comparte buenas prácticas en un congreso y celebra sus logros. ¿Qué etapa ejemplifica?",
+      "chapter": "Tema 5.1 · Implantación del servicio",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.1 · Expansión",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_008_a",
+          "text": "Diseño inicial del servicio."
+        },
+        {
+          "id": "t5_008_b",
+          "text": "Selección de futuros mediadores."
+        },
+        {
+          "id": "t5_008_c",
+          "text": "Mantenimiento y expansión."
+        },
+        {
+          "id": "t5_008_d",
+          "text": "Inauguración y primeras mediaciones."
+        }
+      ],
+      "correctOptionId": "t5_008_c",
+      "explanation": "La octava etapa busca continuidad, renovación y difusión de resultados y experiencias.",
+      "hasExplanation": true,
+      "topic": "Expansión"
+    },
+    {
+      "id": "t5_009",
+      "originNumber": 9,
+      "originLabel": "Test interactivo Tema 5 · pregunta 9",
+      "question": "¿Cuál de estos mecanismos de solicitud aparece entre los ejemplos del manual?",
+      "chapter": "Tema 5.1 · Implantación del servicio",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.1 · Organización",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_009_a",
+          "text": "Registro mediante un examen de competencias sociales."
+        },
+        {
+          "id": "t5_009_b",
+          "text": "Buzón anónimo o contacto con la coordinación."
+        },
+        {
+          "id": "t5_009_c",
+          "text": "Derivación tras la aprobación de un jurado estudiantil."
+        },
+        {
+          "id": "t5_009_d",
+          "text": "Solicitud condicionada a un informe de rendimiento académico."
+        }
+      ],
+      "correctOptionId": "t5_009_b",
+      "explanation": "El diseño inicial contempla buzón anónimo, dirección o coordinación como posibles vías de acceso.",
+      "hasExplanation": true,
+      "topic": "Organización"
+    },
+    {
+      "id": "t5_010",
+      "originNumber": 10,
+      "originLabel": "Test interactivo Tema 5 · pregunta 10",
+      "question": "¿Qué etapa sigue a la formación del equipo mediador en el esquema del capítulo?",
+      "chapter": "Tema 5.1 · Implantación del servicio",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.1 · Secuencia",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_010_a",
+          "text": "Diseño inicial del servicio."
+        },
+        {
+          "id": "t5_010_b",
+          "text": "Revisión y perfeccionamiento."
+        },
+        {
+          "id": "t5_010_c",
+          "text": "Mantenimiento y expansión."
+        },
+        {
+          "id": "t5_010_d",
+          "text": "Concienciación de la comunidad."
+        }
+      ],
+      "correctOptionId": "t5_010_a",
+      "explanation": "La secuencia es concienciación, selección, formación, diseño, presentación, inauguración, revisión y mantenimiento.",
+      "hasExplanation": true,
+      "topic": "Secuencia"
+    },
+    {
+      "id": "t5_011",
+      "originNumber": 11,
+      "originLabel": "Test interactivo Tema 5 · pregunta 11",
+      "question": "¿Qué rasgo caracteriza al programa noruego Sabona?",
+      "chapter": "Tema 5.2 · Programas de mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.2 · Sabona",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_011_a",
+          "text": "Se centra en obtener reconocimientos mediante evaluación externa anual."
+        },
+        {
+          "id": "t5_011_b",
+          "text": "Extiende un proyecto municipal de Castellón a centros de primaria."
+        },
+        {
+          "id": "t5_011_c",
+          "text": "Se organiza en torno a una simulación de cuatro participantes."
+        },
+        {
+          "id": "t5_011_d",
+          "text": "Promueve transformar conflictos y mejorar relaciones desde una cultura de paz."
+        }
+      ],
+      "correctOptionId": "t5_011_d",
+      "explanation": "Sabona está vinculado a Galtung, la filosofía de Gandhi y una visión amplia de la comunidad educativa.",
+      "hasExplanation": true,
+      "topic": "Sabona"
+    },
+    {
+      "id": "t5_012",
+      "originNumber": 12,
+      "originLabel": "Test interactivo Tema 5 · pregunta 12",
+      "question": "¿Qué significado atribuye el manual al nombre Sabona, procedente del zulú?",
+      "chapter": "Tema 5.2 · Programas de mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.2 · Sabona",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_012_a",
+          "text": "Hablemos juntos."
+        },
+        {
+          "id": "t5_012_b",
+          "text": "Espacio de paz."
+        },
+        {
+          "id": "t5_012_c",
+          "text": "Te veo."
+        },
+        {
+          "id": "t5_012_d",
+          "text": "Aprender a escuchar."
+        }
+      ],
+      "correctOptionId": "t5_012_c",
+      "explanation": "El nombre se traduce como «te veo» y se relaciona con el valor de la reconciliación.",
+      "hasExplanation": true,
+      "topic": "Sabona"
+    },
+    {
+      "id": "t5_013",
+      "originNumber": 13,
+      "originLabel": "Test interactivo Tema 5 · pregunta 13",
+      "question": "¿Por qué Sabona incluye familias, docentes y personal del centro?",
+      "chapter": "Tema 5.2 · Programas de mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.2 · Sabona",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_013_a",
+          "text": "Para concentrar las intervenciones en el rendimiento del alumnado."
+        },
+        {
+          "id": "t5_013_b",
+          "text": "Para reconocer que los conflictos afectan a toda la comunidad educativa."
+        },
+        {
+          "id": "t5_013_c",
+          "text": "Para sustituir la formación del equipo de mediadores por reuniones familiares."
+        },
+        {
+          "id": "t5_013_d",
+          "text": "Para establecer una evaluación externa al final de cada trimestre."
+        }
+      ],
+      "correctOptionId": "t5_013_b",
+      "explanation": "Su apertura evita asociar la conflictividad exclusivamente al alumnado.",
+      "hasExplanation": true,
+      "topic": "Sabona"
+    },
+    {
+      "id": "t5_014",
+      "originNumber": 14,
+      "originLabel": "Test interactivo Tema 5 · pregunta 14",
+      "question": "¿Qué es la Red Andaluza «Escuela: Espacio de Paz»?",
+      "chapter": "Tema 5.2 · Programas de mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.2 · Red andaluza",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_014_a",
+          "text": "Una red de centros comprometidos con ámbitos del Plan de Convivencia y buenas prácticas."
+        },
+        {
+          "id": "t5_014_b",
+          "text": "Un curso noruego de formación en derechos humanos."
+        },
+        {
+          "id": "t5_014_c",
+          "text": "Un proyecto municipal iniciado en el IES Miralcamp."
+        },
+        {
+          "id": "t5_014_d",
+          "text": "Una técnica de dramatización en grupos de cuatro."
+        }
+      ],
+      "correctOptionId": "t5_014_a",
+      "explanation": "Se trata de una red que fomenta prácticas de mejora de la convivencia en seis ámbitos.",
+      "hasExplanation": true,
+      "topic": "Red andaluza"
+    },
+    {
+      "id": "t5_015",
+      "originNumber": 15,
+      "originLabel": "Test interactivo Tema 5 · pregunta 15",
+      "question": "¿Qué reconocimiento pueden solicitar los centros de la Red tras evaluación externa?",
+      "chapter": "Tema 5.2 · Programas de mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.2 · Red andaluza",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_015_a",
+          "text": "Centros de Mediación Internacional Sabona."
+        },
+        {
+          "id": "t5_015_b",
+          "text": "Centros de Innovación Mediem."
+        },
+        {
+          "id": "t5_015_c",
+          "text": "Escuelas de Formación de Mediadores Expertos."
+        },
+        {
+          "id": "t5_015_d",
+          "text": "Centros Promotores de Convivencia Positiva (Convivencia+)."
+        }
+      ],
+      "correctOptionId": "t5_015_d",
+      "explanation": "El manual indica que pueden solicitar evaluación externa al final del curso para optar a Convivencia+.",
+      "hasExplanation": true,
+      "topic": "Red andaluza"
+    },
+    {
+      "id": "t5_016",
+      "originNumber": 16,
+      "originLabel": "Test interactivo Tema 5 · pregunta 16",
+      "question": "¿Cuál de los siguientes ámbitos figura en la Red «Escuela: Espacio de Paz»?",
+      "chapter": "Tema 5.2 · Programas de mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.2 · Red andaluza",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_016_a",
+          "text": "Clasificación de conflictos por continentes."
+        },
+        {
+          "id": "t5_016_b",
+          "text": "Sustitución del Plan de Convivencia por actas de mediación."
+        },
+        {
+          "id": "t5_016_c",
+          "text": "Reeducación de actitudes y restauración de la convivencia."
+        },
+        {
+          "id": "t5_016_d",
+          "text": "Calificación individual de mediadores por exámenes."
+        }
+      ],
+      "correctOptionId": "t5_016_c",
+      "explanation": "La restauración de la convivencia es uno de los seis ámbitos de trabajo de la Red.",
+      "hasExplanation": true,
+      "topic": "Red andaluza"
+    },
+    {
+      "id": "t5_017",
+      "originNumber": 17,
+      "originLabel": "Test interactivo Tema 5 · pregunta 17",
+      "question": "¿De qué experiencia surge el proyecto Mediem?",
+      "chapter": "Tema 5.2 · Programas de mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.2 · Mediem",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_017_a",
+          "text": "De la creación de la red autonómica andaluza."
+        },
+        {
+          "id": "t5_017_b",
+          "text": "De nueve años de mediación en el IES Miralcamp de Castellón."
+        },
+        {
+          "id": "t5_017_c",
+          "text": "De un programa noruego basado en la filosofía de Gandhi."
+        },
+        {
+          "id": "t5_017_d",
+          "text": "De una actividad de análisis de noticias históricas."
+        }
+      ],
+      "correctOptionId": "t5_017_b",
+      "explanation": "El manual sitúa su origen en la experiencia del IES Miralcamp.",
+      "hasExplanation": true,
+      "topic": "Mediem"
+    },
+    {
+      "id": "t5_018",
+      "originNumber": 18,
+      "originLabel": "Test interactivo Tema 5 · pregunta 18",
+      "question": "¿Cuál es el objetivo territorial del proyecto Mediem?",
+      "chapter": "Tema 5.2 · Programas de mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.2 · Mediem",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_018_a",
+          "text": "Extender la mediación a centros de primaria y secundaria de Villarreal."
+        },
+        {
+          "id": "t5_018_b",
+          "text": "Crear una red europea de institutos con evaluación anual."
+        },
+        {
+          "id": "t5_018_c",
+          "text": "Formar mediadores en centros universitarios de toda España."
+        },
+        {
+          "id": "t5_018_d",
+          "text": "Limitar la intervención al centro que inició el proyecto."
+        }
+      ],
+      "correctOptionId": "t5_018_a",
+      "explanation": "Mediem busca difundir la mediación en los centros escolares del municipio de Villarreal.",
+      "hasExplanation": true,
+      "topic": "Mediem"
+    },
+    {
+      "id": "t5_019",
+      "originNumber": 19,
+      "originLabel": "Test interactivo Tema 5 · pregunta 19",
+      "question": "¿Qué actividad forma parte de las fases del proyecto Mediem?",
+      "chapter": "Tema 5.2 · Programas de mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.2 · Mediem",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_019_a",
+          "text": "Seleccionar conflictos periodísticos para situarlos en un mapamundi."
+        },
+        {
+          "id": "t5_019_b",
+          "text": "Clasificar expresiones que dificultan la comunicación."
+        },
+        {
+          "id": "t5_019_c",
+          "text": "Construir una pirámide de principios en cada sesión."
+        },
+        {
+          "id": "t5_019_d",
+          "text": "Asesorar a centros y seguir la implementación de la mediación."
+        }
+      ],
+      "correctOptionId": "t5_019_d",
+      "explanation": "Mediem incluye formación, seminarios, asesoramiento, seguimiento y transferencia a otros ámbitos.",
+      "hasExplanation": true,
+      "topic": "Mediem"
+    },
+    {
+      "id": "t5_020",
+      "originNumber": 20,
+      "originLabel": "Test interactivo Tema 5 · pregunta 20",
+      "question": "¿Qué relación entre programa y característica es correcta?",
+      "chapter": "Tema 5.2 · Programas de mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.2 · Comparación",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_020_a",
+          "text": "Mediem: evaluación externa para obtener Convivencia+."
+        },
+        {
+          "id": "t5_020_b",
+          "text": "Red andaluza: origen en el IES Miralcamp."
+        },
+        {
+          "id": "t5_020_c",
+          "text": "Sabona: comunidad educativa y cultura de paz."
+        },
+        {
+          "id": "t5_020_d",
+          "text": "Sabona: implantación municipal en Villarreal."
+        }
+      ],
+      "correctOptionId": "t5_020_c",
+      "explanation": "Sabona se abre a toda la comunidad y enfatiza paz, derechos humanos, democracia y empatía.",
+      "hasExplanation": true,
+      "topic": "Comparación"
+    },
+    {
+      "id": "t5_021",
+      "originNumber": 21,
+      "originLabel": "Test interactivo Tema 5 · pregunta 21",
+      "question": "¿Qué material se utiliza al comenzar «Los conflictos de la humanidad»?",
+      "chapter": "Tema 5.3 · Comprender el conflicto",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.3 · Humanidad",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_021_a",
+          "text": "Guiones para representar un encuentro de mediación."
+        },
+        {
+          "id": "t5_021_b",
+          "text": "Artículos periodísticos sobre diferentes tipos de conflictos."
+        },
+        {
+          "id": "t5_021_c",
+          "text": "Listas de expresiones autoafirmativas de tres pasos."
+        },
+        {
+          "id": "t5_021_d",
+          "text": "Registros de cumplimiento de acuerdos individuales."
+        }
+      ],
+      "correctOptionId": "t5_021_b",
+      "explanation": "La actividad comienza buscando noticias y clasificándolas por naturaleza del conflicto.",
+      "hasExplanation": true,
+      "topic": "Humanidad"
+    },
+    {
+      "id": "t5_022",
+      "originNumber": 22,
+      "originLabel": "Test interactivo Tema 5 · pregunta 22",
+      "question": "¿Qué categorías aparecen en la clasificación inicial de noticias?",
+      "chapter": "Tema 5.3 · Comprender el conflicto",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.3 · Humanidad",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_022_a",
+          "text": "Sociopolíticos, económicos, bélicos, religiosos, entre grupos o culturas."
+        },
+        {
+          "id": "t5_022_b",
+          "text": "Confidencialidad, intimidad, voluntariedad y legalidad."
+        },
+        {
+          "id": "t5_022_c",
+          "text": "Amenaza, crítica, interrogatorio y consejo no solicitado."
+        },
+        {
+          "id": "t5_022_d",
+          "text": "Problema, personas y proceso."
+        }
+      ],
+      "correctOptionId": "t5_022_a",
+      "explanation": "Son las categorías propuestas para organizar los conflictos hallados en artículos.",
+      "hasExplanation": true,
+      "topic": "Humanidad"
+    },
+    {
+      "id": "t5_023",
+      "originNumber": 23,
+      "originLabel": "Test interactivo Tema 5 · pregunta 23",
+      "question": "Al analizar una noticia, ¿qué pregunta ayuda a examinar el enfoque de la información?",
+      "chapter": "Tema 5.3 · Comprender el conflicto",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.3 · Humanidad",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_023_a",
+          "text": "¿Quién asumirá el papel de mediador en la dramatización?"
+        },
+        {
+          "id": "t5_023_b",
+          "text": "¿Cuándo se celebrará la revisión del acuerdo?"
+        },
+        {
+          "id": "t5_023_c",
+          "text": "¿Qué frase autoafirmativa debe memorizarse?"
+        },
+        {
+          "id": "t5_023_d",
+          "text": "¿Qué postura adopta quien redacta el artículo?"
+        }
+      ],
+      "correctOptionId": "t5_023_d",
+      "explanation": "La actividad pide examinar hechos, partes, motivos y también la postura del autor de la noticia.",
+      "hasExplanation": true,
+      "topic": "Humanidad"
+    },
+    {
+      "id": "t5_024",
+      "originNumber": 24,
+      "originLabel": "Test interactivo Tema 5 · pregunta 24",
+      "question": "¿Para qué se utiliza un mapamundi en esta actividad?",
+      "chapter": "Tema 5.3 · Comprender el conflicto",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.3 · Humanidad",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_024_a",
+          "text": "Para representar las ocho etapas del programa escolar."
+        },
+        {
+          "id": "t5_024_b",
+          "text": "Para mostrar las sedes de los proyectos Sabona y Mediem."
+        },
+        {
+          "id": "t5_024_c",
+          "text": "Para situar conflictos históricos relacionados por causas semejantes."
+        },
+        {
+          "id": "t5_024_d",
+          "text": "Para clasificar las habilidades de comunicación de cada participante."
+        }
+      ],
+      "correctOptionId": "t5_024_c",
+      "explanation": "Tras identificar causas comunes, se recopilan conflictos históricos y se plasman en un mapamundi.",
+      "hasExplanation": true,
+      "topic": "Humanidad"
+    },
+    {
+      "id": "t5_025",
+      "originNumber": 25,
+      "originLabel": "Test interactivo Tema 5 · pregunta 25",
+      "question": "¿Qué producto individual cierra «Los conflictos de la humanidad»?",
+      "chapter": "Tema 5.3 · Comprender el conflicto",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.3 · Humanidad",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_025_a",
+          "text": "Una pirámide consensuada de principios de mediación."
+        },
+        {
+          "id": "t5_025_b",
+          "text": "Un artículo sobre un conflicto del propio país con una posible solución."
+        },
+        {
+          "id": "t5_025_c",
+          "text": "Un guion de dramatización con dos mediadores."
+        },
+        {
+          "id": "t5_025_d",
+          "text": "Una lista de frases para reemplazar expresiones críticas."
+        }
+      ],
+      "correctOptionId": "t5_025_b",
+      "explanation": "El último paso consiste en escribir una noticia sobre un conflicto del país propio.",
+      "hasExplanation": true,
+      "topic": "Humanidad"
+    },
+    {
+      "id": "t5_026",
+      "originNumber": 26,
+      "originLabel": "Test interactivo Tema 5 · pregunta 26",
+      "question": "¿Cómo comienza «Aspectos positivos del conflicto»?",
+      "chapter": "Tema 5.3 · Comprender el conflicto",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.3 · Visión positiva",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_026_a",
+          "text": "Con una lluvia de ideas sobre la palabra conflicto, agrupadas en positivas y negativas."
+        },
+        {
+          "id": "t5_026_b",
+          "text": "Con una simulación de mediación entre cuatro estudiantes."
+        },
+        {
+          "id": "t5_026_c",
+          "text": "Con una evaluación externa del Plan de Convivencia."
+        },
+        {
+          "id": "t5_026_d",
+          "text": "Con una clasificación de noticias por continente."
+        }
+      ],
+      "correctOptionId": "t5_026_a",
+      "explanation": "La primera fase recoge asociaciones espontáneas y diferencia valoraciones positivas y negativas.",
+      "hasExplanation": true,
+      "topic": "Visión positiva"
+    },
+    {
+      "id": "t5_027",
+      "originNumber": 27,
+      "originLabel": "Test interactivo Tema 5 · pregunta 27",
+      "question": "¿Qué aprendizaje central persigue «Aspectos positivos del conflicto»?",
+      "chapter": "Tema 5.3 · Comprender el conflicto",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.3 · Visión positiva",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_027_a",
+          "text": "Identificar qué parte tuvo mayor responsabilidad para aplicar una sanción."
+        },
+        {
+          "id": "t5_027_b",
+          "text": "Relacionar cualquier desacuerdo con violencia escolar."
+        },
+        {
+          "id": "t5_027_c",
+          "text": "Evitar que surjan diferencias entre personas en la convivencia."
+        },
+        {
+          "id": "t5_027_d",
+          "text": "Entender el conflicto como oportunidad de cambio y crecimiento según su gestión."
+        }
+      ],
+      "correctOptionId": "t5_027_d",
+      "explanation": "El texto destaca que un conflicto puede seguir un curso constructivo o destructivo.",
+      "hasExplanation": true,
+      "topic": "Visión positiva"
+    },
+    {
+      "id": "t5_028",
+      "originNumber": 28,
+      "originLabel": "Test interactivo Tema 5 · pregunta 28",
+      "question": "Tras leer el texto sobre los elementos positivos, ¿qué hace el grupo?",
+      "chapter": "Tema 5.3 · Comprender el conflicto",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.3 · Visión positiva",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_028_a",
+          "text": "Selecciona dos mediadores y representa un conflicto."
+        },
+        {
+          "id": "t5_028_b",
+          "text": "Clasifica las noticias en un mapamundi."
+        },
+        {
+          "id": "t5_028_c",
+          "text": "Reflexiona y amplía la lista inicial con nuevos aspectos positivos."
+        },
+        {
+          "id": "t5_028_d",
+          "text": "Redacta compromisos para una mediación real."
+        }
+      ],
+      "correctOptionId": "t5_028_c",
+      "explanation": "La lectura da paso a una reflexión guiada y a revisar la lluvia de ideas inicial.",
+      "hasExplanation": true,
+      "topic": "Visión positiva"
+    },
+    {
+      "id": "t5_029",
+      "originNumber": 29,
+      "originLabel": "Test interactivo Tema 5 · pregunta 29",
+      "question": "¿Qué significan las 3P utilizadas en «Analizamos un conflicto»?",
+      "chapter": "Tema 5.3 · Comprender el conflicto",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.3 · Tres P",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_029_a",
+          "text": "Participación, prevención y protección."
+        },
+        {
+          "id": "t5_029_b",
+          "text": "Problema, personas y proceso."
+        },
+        {
+          "id": "t5_029_c",
+          "text": "Presentación, propuestas y pacto."
+        },
+        {
+          "id": "t5_029_d",
+          "text": "Percepción, paciencia y persuasión."
+        }
+      ],
+      "correctOptionId": "t5_029_b",
+      "explanation": "Las 3P de Lederach permiten estudiar qué ocurrió, a quién afecta y cómo se ha abordado.",
+      "hasExplanation": true,
+      "topic": "Tres P"
+    },
+    {
+      "id": "t5_030",
+      "originNumber": 30,
+      "originLabel": "Test interactivo Tema 5 · pregunta 30",
+      "question": "¿Qué aspecto corresponde a «personas» en el análisis de las 3P?",
+      "chapter": "Tema 5.3 · Comprender el conflicto",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.3 · Tres P",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_030_a",
+          "text": "Cómo perciben y sienten el conflicto y qué necesitan sus protagonistas."
+        },
+        {
+          "id": "t5_030_b",
+          "text": "La secuencia de decisiones con la que se gestionó el desacuerdo."
+        },
+        {
+          "id": "t5_030_c",
+          "text": "La descripción de los hechos que desencadenaron el conflicto."
+        },
+        {
+          "id": "t5_030_d",
+          "text": "El calendario de reuniones del servicio escolar."
+        }
+      ],
+      "correctOptionId": "t5_030_a",
+      "explanation": "«Personas» examina perspectivas, emociones, efectos y necesidades de los implicados.",
+      "hasExplanation": true,
+      "topic": "Tres P"
+    },
+    {
+      "id": "t5_031",
+      "originNumber": 31,
+      "originLabel": "Test interactivo Tema 5 · pregunta 31",
+      "question": "¿Qué se pretende con la actividad «Expresiones asesinas de la comunicación»?",
+      "chapter": "Tema 5.4 · Comunicación y empatía",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.4 · Expresiones",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_031_a",
+          "text": "Organizar los principios de mediación según importancia."
+        },
+        {
+          "id": "t5_031_b",
+          "text": "Reproducir las etapas de implantación de un servicio escolar."
+        },
+        {
+          "id": "t5_031_c",
+          "text": "Investigar conflictos bélicos a partir de noticias."
+        },
+        {
+          "id": "t5_031_d",
+          "text": "Reconocer mensajes que bloquean el diálogo y reformularlos de forma facilitadora."
+        }
+      ],
+      "correctOptionId": "t5_031_d",
+      "explanation": "Se detectan expresiones problemáticas y se sustituyen por apoyo, validación y escucha.",
+      "hasExplanation": true,
+      "topic": "Expresiones"
+    },
+    {
+      "id": "t5_032",
+      "originNumber": 32,
+      "originLabel": "Test interactivo Tema 5 · pregunta 32",
+      "question": "Ante una amiga preocupada por suspender, ¿qué respuesta ejemplifica una expresión que dificulta la comunicación?",
+      "chapter": "Tema 5.4 · Comunicación y empatía",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.4 · Expresiones",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_032_a",
+          "text": "«Parece que te preocupa mucho recuperar las asignaturas»."
+        },
+        {
+          "id": "t5_032_b",
+          "text": "«¿Te apetece contarme qué te está costando?»."
+        },
+        {
+          "id": "t5_032_c",
+          "text": "«No apruebas porque eres una vaga»."
+        },
+        {
+          "id": "t5_032_d",
+          "text": "«Entiendo que esta situación te esté agobiando»."
+        }
+      ],
+      "correctOptionId": "t5_032_c",
+      "explanation": "Atribuir un rasgo despectivo diagnostica motivos y dificulta el entendimiento.",
+      "hasExplanation": true,
+      "topic": "Expresiones"
+    },
+    {
+      "id": "t5_033",
+      "originNumber": 33,
+      "originLabel": "Test interactivo Tema 5 · pregunta 33",
+      "question": "¿Qué tipo de expresión representa «Eso no es nada, yo he pasado por cosas peores»?",
+      "chapter": "Tema 5.4 · Comunicación y empatía",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.4 · Expresiones",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_033_a",
+          "text": "Reflejar y validar sus sentimientos."
+        },
+        {
+          "id": "t5_033_b",
+          "text": "Restar importancia a lo que siente la otra persona."
+        },
+        {
+          "id": "t5_033_c",
+          "text": "Describir objetivamente una situación."
+        },
+        {
+          "id": "t5_033_d",
+          "text": "Solicitar información para comprender el contexto."
+        }
+      ],
+      "correctOptionId": "t5_033_b",
+      "explanation": "La frase minimiza la vivencia ajena en lugar de reconocerla.",
+      "hasExplanation": true,
+      "topic": "Expresiones"
+    },
+    {
+      "id": "t5_034",
+      "originNumber": 34,
+      "originLabel": "Test interactivo Tema 5 · pregunta 34",
+      "question": "¿Por qué puede dificultar la comunicación dar consejos no solicitados?",
+      "chapter": "Tema 5.4 · Comunicación y empatía",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.4 · Expresiones",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_034_a",
+          "text": "Porque desplaza la escucha de las necesidades hacia una solución impuesta."
+        },
+        {
+          "id": "t5_034_b",
+          "text": "Porque expresa con claridad las emociones propias sin culpar."
+        },
+        {
+          "id": "t5_034_c",
+          "text": "Porque ayuda a conocer la perspectiva del otro mediante preguntas abiertas."
+        },
+        {
+          "id": "t5_034_d",
+          "text": "Porque reconoce el malestar antes de proponer alternativas."
+        }
+      ],
+      "correctOptionId": "t5_034_a",
+      "explanation": "El manual incluye los consejos no requeridos entre las expresiones que obstaculizan el diálogo.",
+      "hasExplanation": true,
+      "topic": "Expresiones"
+    },
+    {
+      "id": "t5_035",
+      "originNumber": 35,
+      "originLabel": "Test interactivo Tema 5 · pregunta 35",
+      "question": "¿Cuál es la estructura de una frase autoafirmativa?",
+      "chapter": "Tema 5.4 · Comunicación y empatía",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.4 · Autoafirmación",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_035_a",
+          "text": "Explicar los hechos, identificar a la persona culpable y exigir una disculpa."
+        },
+        {
+          "id": "t5_035_b",
+          "text": "Exponer una queja, proponer una sanción y fijar un plazo."
+        },
+        {
+          "id": "t5_035_c",
+          "text": "Describir las emociones del otro, corregirlas y proponer una solución."
+        },
+        {
+          "id": "t5_035_d",
+          "text": "Describir la situación, expresar la propia respuesta y comunicar lo que se preferiría."
+        }
+      ],
+      "correctOptionId": "t5_035_d",
+      "explanation": "La actividad enseña tres pasos centrados en la experiencia propia y sin culpabilizar.",
+      "hasExplanation": true,
+      "topic": "Autoafirmación"
+    },
+    {
+      "id": "t5_036",
+      "originNumber": 36,
+      "originLabel": "Test interactivo Tema 5 · pregunta 36",
+      "question": "¿Qué frase se aproxima más al discurso autoafirmativo?",
+      "chapter": "Tema 5.4 · Comunicación y empatía",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.4 · Autoafirmación",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_036_a",
+          "text": "«Cuando hay ruido es porque no os importa aprender»."
+        },
+        {
+          "id": "t5_036_b",
+          "text": "«Deberíais comportaros mejor para que pueda explicar»."
+        },
+        {
+          "id": "t5_036_c",
+          "text": "«Cuando hay ruido me cuesta explicar y me gustaría hacerlo con calma»."
+        },
+        {
+          "id": "t5_036_d",
+          "text": "«Si seguís hablando tendré que cambiaros de sitio»."
+        }
+      ],
+      "correctOptionId": "t5_036_c",
+      "explanation": "La primera opción describe situación, efecto personal y preferencia sin atacar a los demás.",
+      "hasExplanation": true,
+      "topic": "Autoafirmación"
+    },
+    {
+      "id": "t5_037",
+      "originNumber": 37,
+      "originLabel": "Test interactivo Tema 5 · pregunta 37",
+      "question": "¿Por qué se evita culpabilizar en las frases autoafirmativas?",
+      "chapter": "Tema 5.4 · Comunicación y empatía",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.4 · Autoafirmación",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_037_a",
+          "text": "Para prescindir de expresar necesidades personales."
+        },
+        {
+          "id": "t5_037_b",
+          "text": "Para reducir reacciones defensivas y facilitar la escucha."
+        },
+        {
+          "id": "t5_037_c",
+          "text": "Para convertir el mensaje en una instrucción disciplinaria."
+        },
+        {
+          "id": "t5_037_d",
+          "text": "Para evitar mencionar las emociones vinculadas al conflicto."
+        }
+      ],
+      "correctOptionId": "t5_037_b",
+      "explanation": "El mensaje en primera persona favorece el diálogo al no exigir cambios mediante reproches.",
+      "hasExplanation": true,
+      "topic": "Autoafirmación"
+    },
+    {
+      "id": "t5_038",
+      "originNumber": 38,
+      "originLabel": "Test interactivo Tema 5 · pregunta 38",
+      "question": "Según el texto del capítulo, ¿qué implica mostrar empatía?",
+      "chapter": "Tema 5.4 · Comunicación y empatía",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.4 · Empatía",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_038_a",
+          "text": "Comprender la perspectiva y los sentimientos ajenos sin tener que aprobarlos."
+        },
+        {
+          "id": "t5_038_b",
+          "text": "Compartir el mismo juicio y sentimiento que la otra persona."
+        },
+        {
+          "id": "t5_038_c",
+          "text": "Aceptar la explicación ajena como solución definitiva."
+        },
+        {
+          "id": "t5_038_d",
+          "text": "Renunciar a expresar la propia necesidad para evitar desacuerdos."
+        }
+      ],
+      "correctOptionId": "t5_038_a",
+      "explanation": "La empatía supone comprender al otro desde su punto de vista sin confundir comprensión con acuerdo.",
+      "hasExplanation": true,
+      "topic": "Empatía"
+    },
+    {
+      "id": "t5_039",
+      "originNumber": 39,
+      "originLabel": "Test interactivo Tema 5 · pregunta 39",
+      "question": "En el ejemplo del juego prestado, ¿qué respuesta de Juan favorece la empatía?",
+      "chapter": "Tema 5.4 · Comunicación y empatía",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.4 · Empatía",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_039_a",
+          "text": "«Como no lo has devuelto, no volveré a prestarte nada»."
+        },
+        {
+          "id": "t5_039_b",
+          "text": "«Seguro que lo has perdido por ser descuidado»."
+        },
+        {
+          "id": "t5_039_c",
+          "text": "«No me importa lo que haya pasado; tráelo mañana»."
+        },
+        {
+          "id": "t5_039_d",
+          "text": "«Ha pasado el plazo, ¿te ha ocurrido algo? ¿Quieres hablar?»."
+        }
+      ],
+      "correctOptionId": "t5_039_d",
+      "explanation": "La pregunta reconoce el retraso y abre un espacio para comprender qué sucede.",
+      "hasExplanation": true,
+      "topic": "Empatía"
+    },
+    {
+      "id": "t5_040",
+      "originNumber": 40,
+      "originLabel": "Test interactivo Tema 5 · pregunta 40",
+      "question": "¿Qué aprendizaje se busca con la actividad «La empatía»?",
+      "chapter": "Tema 5.4 · Comunicación y empatía",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.4 · Empatía",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_040_a",
+          "text": "Aprender a clasificar conflictos en categorías históricas."
+        },
+        {
+          "id": "t5_040_b",
+          "text": "Repartir los papeles de comediación en grupos de cuatro."
+        },
+        {
+          "id": "t5_040_c",
+          "text": "Explorar cómo la comprensión mutua mejora comunicación y resolución de conflictos."
+        },
+        {
+          "id": "t5_040_d",
+          "text": "Preparar una campaña para inaugurar un servicio."
+        }
+      ],
+      "correctOptionId": "t5_040_c",
+      "explanation": "La actividad trabaja la toma de perspectiva mediante el caso de José y Juan.",
+      "hasExplanation": true,
+      "topic": "Empatía"
+    },
+    {
+      "id": "t5_041",
+      "originNumber": 41,
+      "originLabel": "Test interactivo Tema 5 · pregunta 41",
+      "question": "¿Qué principio se vulnera al contar a terceros lo hablado en mediación?",
+      "chapter": "Tema 5.5 · Experimentar la mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.5 · Principios",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_041_a",
+          "text": "Intimidad."
+        },
+        {
+          "id": "t5_041_b",
+          "text": "Confidencialidad."
+        },
+        {
+          "id": "t5_041_c",
+          "text": "Participación directa."
+        },
+        {
+          "id": "t5_041_d",
+          "text": "Legalidad."
+        }
+      ],
+      "correctOptionId": "t5_041_b",
+      "explanation": "La confidencialidad exige preservar el contenido de las conversaciones.",
+      "hasExplanation": true,
+      "topic": "Principios"
+    },
+    {
+      "id": "t5_042",
+      "originNumber": 42,
+      "originLabel": "Test interactivo Tema 5 · pregunta 42",
+      "question": "Si se insiste en que alguien revele algo que considera íntimo, ¿qué principio se vulnera?",
+      "chapter": "Tema 5.5 · Experimentar la mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.5 · Principios",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_042_a",
+          "text": "Intimidad."
+        },
+        {
+          "id": "t5_042_b",
+          "text": "Imparcialidad."
+        },
+        {
+          "id": "t5_042_c",
+          "text": "Simetría de poder."
+        },
+        {
+          "id": "t5_042_d",
+          "text": "Participación directa."
+        }
+      ],
+      "correctOptionId": "t5_042_a",
+      "explanation": "La intimidad protege de tener que hablar de asuntos personales que no se desean compartir.",
+      "hasExplanation": true,
+      "topic": "Principios"
+    },
+    {
+      "id": "t5_043",
+      "originNumber": 43,
+      "originLabel": "Test interactivo Tema 5 · pregunta 43",
+      "question": "Si un mediador afirma que una parte miente y apoya a la otra, ¿qué principio compromete?",
+      "chapter": "Tema 5.5 · Experimentar la mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.5 · Principios",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_043_a",
+          "text": "Legalidad."
+        },
+        {
+          "id": "t5_043_b",
+          "text": "Salud mental."
+        },
+        {
+          "id": "t5_043_c",
+          "text": "Participación directa."
+        },
+        {
+          "id": "t5_043_d",
+          "text": "Imparcialidad."
+        }
+      ],
+      "correctOptionId": "t5_043_d",
+      "explanation": "La imparcialidad exige no tomar partido por ninguna de las partes.",
+      "hasExplanation": true,
+      "topic": "Principios"
+    },
+    {
+      "id": "t5_044",
+      "originNumber": 44,
+      "originLabel": "Test interactivo Tema 5 · pregunta 44",
+      "question": "Si las partes comienzan a insultarse, ¿qué principio requiere intervención para reconducir el diálogo?",
+      "chapter": "Tema 5.5 · Experimentar la mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.5 · Principios",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_044_a",
+          "text": "Intimidad."
+        },
+        {
+          "id": "t5_044_b",
+          "text": "Legalidad."
+        },
+        {
+          "id": "t5_044_c",
+          "text": "Seguridad."
+        },
+        {
+          "id": "t5_044_d",
+          "text": "Participación directa."
+        }
+      ],
+      "correctOptionId": "t5_044_c",
+      "explanation": "La seguridad implica mantener una atmósfera respetuosa y recordar las normas acordadas.",
+      "hasExplanation": true,
+      "topic": "Principios"
+    },
+    {
+      "id": "t5_045",
+      "originNumber": 45,
+      "originLabel": "Test interactivo Tema 5 · pregunta 45",
+      "question": "¿Qué principio impide obligar a una persona a aceptar el proceso bajo amenaza de expulsión?",
+      "chapter": "Tema 5.5 · Experimentar la mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.5 · Principios",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_045_a",
+          "text": "Confidencialidad."
+        },
+        {
+          "id": "t5_045_b",
+          "text": "Voluntariedad."
+        },
+        {
+          "id": "t5_045_c",
+          "text": "Participación directa."
+        },
+        {
+          "id": "t5_045_d",
+          "text": "Legalidad."
+        }
+      ],
+      "correctOptionId": "t5_045_b",
+      "explanation": "Las partes deben participar libremente y sin coacciones.",
+      "hasExplanation": true,
+      "topic": "Principios"
+    },
+    {
+      "id": "t5_046",
+      "originNumber": 46,
+      "originLabel": "Test interactivo Tema 5 · pregunta 46",
+      "question": "¿Qué significa participación directa en la tabla de principios?",
+      "chapter": "Tema 5.5 · Experimentar la mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.5 · Principios",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_046_a",
+          "text": "Que intervengan las propias personas implicadas, sin delegar el conflicto."
+        },
+        {
+          "id": "t5_046_b",
+          "text": "Que las familias representen a los estudiantes durante el encuentro."
+        },
+        {
+          "id": "t5_046_c",
+          "text": "Que el mediador asuma las decisiones por las partes."
+        },
+        {
+          "id": "t5_046_d",
+          "text": "Que el profesorado valide cada propuesta antes de escucharla."
+        }
+      ],
+      "correctOptionId": "t5_046_a",
+      "explanation": "El principio señala que quienes viven el conflicto participan personalmente.",
+      "hasExplanation": true,
+      "topic": "Principios"
+    },
+    {
+      "id": "t5_047",
+      "originNumber": 47,
+      "originLabel": "Test interactivo Tema 5 · pregunta 47",
+      "question": "¿Por qué es importante la simetría de poder en la mediación?",
+      "chapter": "Tema 5.5 · Experimentar la mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.5 · Principios",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_047_a",
+          "text": "Porque exige que ambas partes tengan la misma edad."
+        },
+        {
+          "id": "t5_047_b",
+          "text": "Porque requiere idéntica formación académica."
+        },
+        {
+          "id": "t5_047_c",
+          "text": "Porque supone que las partes presenten el mismo número de propuestas."
+        },
+        {
+          "id": "t5_047_d",
+          "text": "Porque permite expresarse libremente en condiciones de igualdad."
+        }
+      ],
+      "correctOptionId": "t5_047_d",
+      "explanation": "El manual excluye la mediación entre agresor y víctima de maltrato por la desigualdad de poder.",
+      "hasExplanation": true,
+      "topic": "Principios"
+    },
+    {
+      "id": "t5_048",
+      "originNumber": 48,
+      "originLabel": "Test interactivo Tema 5 · pregunta 48",
+      "question": "¿Qué condición describe el principio de salud mental en la actividad?",
+      "chapter": "Tema 5.5 · Experimentar la mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.5 · Principios",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_048_a",
+          "text": "Que los participantes tengan igual nivel de conocimientos."
+        },
+        {
+          "id": "t5_048_b",
+          "text": "Que los mediadores dispongan de un espacio tranquilo."
+        },
+        {
+          "id": "t5_048_c",
+          "text": "Que las partes estén en condiciones de dialogar y comprenderse."
+        },
+        {
+          "id": "t5_048_d",
+          "text": "Que los acuerdos se revisen en una fecha prevista."
+        }
+      ],
+      "correctOptionId": "t5_048_c",
+      "explanation": "El texto considera inviable mediar bajo efectos de estupefacientes o alteraciones psiquiátricas graves.",
+      "hasExplanation": true,
+      "topic": "Principios"
+    },
+    {
+      "id": "t5_049",
+      "originNumber": 49,
+      "originLabel": "Test interactivo Tema 5 · pregunta 49",
+      "question": "¿Qué finalidad tiene elaborar una pirámide de principios de mediación?",
+      "chapter": "Tema 5.5 · Experimentar la mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.5 · Pirámide",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_049_a",
+          "text": "Eliminar del programa los principios que queden en la base."
+        },
+        {
+          "id": "t5_049_b",
+          "text": "Debatir y consensuar una jerarquía, reflexionando después sobre todos los principios."
+        },
+        {
+          "id": "t5_049_c",
+          "text": "Asignar sanciones distintas según el principio vulnerado."
+        },
+        {
+          "id": "t5_049_d",
+          "text": "Sustituir la explicación inicial por una clasificación individual."
+        }
+      ],
+      "correctOptionId": "t5_049_b",
+      "explanation": "La actividad propone ordenar principios en grupo y cerrar recordando la importancia de todos.",
+      "hasExplanation": true,
+      "topic": "Pirámide"
+    },
+    {
+      "id": "t5_050",
+      "originNumber": 50,
+      "originLabel": "Test interactivo Tema 5 · pregunta 50",
+      "question": "¿Cómo se organizan los roles en la dramatización de mediación?",
+      "chapter": "Tema 5.5 · Experimentar la mediación",
+      "sourceGroup": "HTML · Mediación VIU · Tema 5",
+      "sourceDetail": "Test interactivo Tema 5 · Apartado 5.5 · Dramatización",
+      "sourceType": "tema5_html",
+      "options": [
+        {
+          "id": "t5_050_a",
+          "text": "Grupos de cuatro: dos mediadores y dos partes en conflicto."
+        },
+        {
+          "id": "t5_050_b",
+          "text": "Grupos de cinco: un juez, dos testigos y dos partes."
+        },
+        {
+          "id": "t5_050_c",
+          "text": "Parejas: un mediador y un observador."
+        },
+        {
+          "id": "t5_050_d",
+          "text": "Grupos de tres: un docente y dos portavoces."
+        }
+      ],
+      "correctOptionId": "t5_050_a",
+      "explanation": "El capítulo describe comediación con dos mediadores y dos participantes implicados.",
+      "hasExplanation": true,
+      "topic": "Dramatización"
     }
   ]
 }
